@@ -14,7 +14,7 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Made with Git, Markdown and <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> @ Oxford, UK
+    Made with <a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a>, <a href="https://daringfireball.net/projects/markdown/syntax" target="_blank" rel="noopener">Markdown</a> and <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> @ Oxford, UK
     
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
@@ -27,3 +27,10 @@
     {{ end }}
   </p>
 </footer>
+
+
+
+
+
+
+
