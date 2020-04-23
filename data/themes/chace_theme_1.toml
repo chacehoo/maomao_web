@@ -1,0 +1,18 @@
+# Theme metadata
+name = "chace_theme_1"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#B30606"
+
+# Menu
+menu_primary = "#030303"
+menu_text = "#FFFFFF"
+menu_text_active = "#B30606"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

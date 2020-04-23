@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maomao Hu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Oxford
+  url: "http://www.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:maomao.hu@eng.ox.ac.uk"
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/maomao-hu-3548ab1a6/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com.hk/citations?user=a9ST74sAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Maomao_Hu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am a Postdoctoral Research Fellow in the <a href="https://www.oerc.ox.ac.uk/" target="_blank"> Oxford e-Research Center</a> in <a href="https://eng.ox.ac.uk/" target="_blank"> Department of Engineering Science</a>  at University of Oxford. My research interests include data analytics, data-driven modelling, numerical optimisation, and model predictive control of building energy systems for energy efficiency and energy flexibility.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received my PhD degree in <a href="https://www.bse.polyu.edu.hk/" target="_blank"> Building Services Engineering </a> at the <a href="https://www.polyu.edu.hk/" target="_blank"> Hong Kong Polytechnic University </a> (PolyU) in 2019 (Supervisor: <a href="https://www.bse.polyu.edu.hk/People/befx/index.html" target="_blank">Prof. Linda Xiao</a>). In 2018, I studied as a guest PhD student with [Prof. John Bagterp Jørgensen](http://www2.imm.dtu.dk/~jbjo/theses.html) in [Department of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/english) at Technical University of Denmark. After my PhD, I continued to work as a postdoctoral research fellow at PolyU till February 2020. Since March 2020, I joins Oxford and works with <a href="https://eng.ox.ac.uk/people/david-wallom/" target="_blank"> Prof. David Wallom </a> as a Postdoc for Project <a href="https://www.amidine.net/" target="_blank">AMIDiNe </a>.
