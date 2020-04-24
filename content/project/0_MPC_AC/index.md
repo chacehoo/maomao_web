@@ -41,9 +41,9 @@ url_video: ""
 
 ---
 
-**About**
+{{< figure src="1.jpg" title="Fig. Flow chart of online model predictive control for variable-speed ACs." lightbox="true" >}}
 
-{{< figure src="Roadmap of AC.png" title="Fig. Research question and motivation" lightbox="true" >}}
+**About**
 
 <font face="Roboto" color="black" size="4">In the context of smart grids, residential air conditioners, as the major contributors to home electricity bills and loads on electrical grids, need to be not only energy-efficient, but also grid-responsive to relieve power supply-demand imbalance. Existing demand response control strategies for residential air conditioners focus on single-speed type and mainly adopt temperature set point reset to respond to hourly day-ahead electricity prices. This study represents the first attempt to directly control the operating frequency of inverter air conditioners in response to high-granularity electricity price signals, i.e., 5-minute real-time electricity prices, using model predictive control method. 
 
