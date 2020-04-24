@@ -18,19 +18,19 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Data Analytics "
-  description = "Data Cleaning; Data Imputaion; Data Resampling; Data Clustering; Data Visualization" 
+  description = "Data Cleaning | Data Clustering | Data Visualization" 
 
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
   name = "Data-driven Modelling"
-  description = "Grey-/Black-box; Machine Learning/Stats" 
+  description = "Grey-/Black-box | Machine Learning/Stats" 
 
 [[feature]]
   icon = "building"
   icon_pack = "far"
   name = "Physics-based Modelling"
-  description = "Building Thermal Dynamics | Refrigeration/HVAC systems | ODEs and State Space Representation" 
+  description = "Building Thermal Dynamics | Refrigeration/HVAC systems | ODEs and State Space Representations" 
 
 
 
