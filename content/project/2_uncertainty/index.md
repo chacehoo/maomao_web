@@ -2,10 +2,17 @@
 title: Quantifying Uncertainty in Aggregate Energy Flexibility of Building Clusters
 summary: To quantify the uncertainty in the aggregate energy flexibility of residential building clusters using a data-driven stochastic occupancy model that can capture the stochasticity of occupancy patterns.
 tags:
-- Data-driven Modelling
+- Building clusters 
+- Data-driven Modelling 
+- Demand Response
+- Energy flexibility 
 - Uncertainty
-- Energy flexibility
-- Building clusters
+- Building Energy System
+- Occupancy and occupant behavior
+- Aggregation
+- Markov Chain
+- Monte Carlo
+
 date: "2019-12-27"
 
 # Optional external URL for project (replaces project detail page).

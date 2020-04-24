@@ -31,7 +31,7 @@ name = "Data Analytics"
 tag = "Data Analytics"
 
 [[content.filter_button]]
-name = "Data-driven Modelling"
+name = "Modelling"
 tag = "Data-driven Modelling"
 
 [[content.filter_button]]

@@ -2,9 +2,16 @@
 title: MPC of Floor Heating Systems in Denmark
 summary: To develop model predictive control for floor heating systems to provide energy flexibiltiy. The proposed MPC can simultaneously consider all the influential variables including weather conditions, occupancy and dynamic electricity prices.
 tags:
-- MPC
-- Data-driven Modelling
+- Data-driven Modelling 
+- Demand Response
+- Energy flexibility 
+- Floor heating
+- Building Energy System
+- Kalman Filter
+- MPC 
 - Optimisation
+- Real-time pricing
+
 date: "2019-02-14"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,9 +2,17 @@
 title: MPC of Variable-speed ACs for Demand Response
 summary: To directly control the operating frequency of ACs in response to high-granularity electricity price signals, i.e., 5-minute real-time electricity prices,in smart grids using MPC method.
 tags:
-- MPC
-- Data-driven Modelling
+
+- Data-driven Modelling 
+- Demand Response
+- Energy flexibility 
+- Air conditioner
+- Building Energy System
+- Kalman Filter
+- MPC 
 - Optimisation
+- Real-time pricing
+
 date: "2019-03-11"
 
 # Optional external URL for project (replaces project detail page).
