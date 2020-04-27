@@ -38,7 +38,7 @@ height = "800px"
 
 [[item]]
   title = "How MPC works?"
-  content = "Receding Horizon Optimisation: Opt.&rarr;Decision&rarr;Measurement&rarr;Opt.&rarr;Decision&rarr;Measurement ..."
+  content = "Receding Horizon Optimisation: Opt.&rarr;Decision&rarr;Measurement&rarr;Opt.&rarr;Decision&rarr;Measurement&rarr;..."
 
   align = "center"  # Choose `center`, `left`, or `right`.
 
