@@ -43,9 +43,15 @@ url_video: ""
 
 {{< figure src="2.jpg" title="Fig. Schematic diagram of MPC for building energy systems." lightbox="true" >}}
 
-**Demo Video: How MPC works? Receding horizon optimization**
+---
+
+**Demo Video: How MPC works? **
 
 {{< video src="MPC_video.mp4" controls="yes" >}}
+
+Receding horizon optimization: Optimization→Decision→Optimization→Decision …
+
+---
 
 **About**
 
