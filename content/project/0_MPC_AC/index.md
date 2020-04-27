@@ -43,7 +43,7 @@ url_video: ""
 
 {{< figure src="2.jpg" title="Fig. Schematic diagram of MPC for building energy systems." lightbox="true" >}}
 
-<font color="#B30606">**Demo Video: How MPC works?**</font>
+**<font color="#B30606">Demo Video: How MPC works?</font>**
 
 {{< video src="MPC_video.mp4" controls="yes" >}}
 
