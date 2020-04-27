@@ -36,7 +36,7 @@ height = "800px"
 
 [[item]]
   title = "How MPC works?"
-  content = "Receding Horizon Optimisation: the circle of Optimization-Decision-Optimization-Decision ..."
+  content = "Receding Horizon Optimisation: Optimization&rarr;Decision&rarr;Optimization&rarr;Decision ..."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#555"  # An HTML color value.
