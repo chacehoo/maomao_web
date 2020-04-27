@@ -70,4 +70,11 @@ height = "800px"
   overlay_img = "RC_model.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
+
+
+  cta_label = "More info"
+  cta_url = "https://maomaohu.net/publication/journal_paper/rn-930/"
+  cta_icon_pack = "fas"
+  cta_icon = "paperclip"
+
 +++
