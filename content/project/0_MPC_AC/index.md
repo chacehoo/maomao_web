@@ -45,7 +45,9 @@ url_video: ""
 
 {{< figure src="1.jpg" title="Fig. Flow chart of online model predictive control for variable-speed ACs." lightbox="true" >}}
 
-{{< figure src="3.gif" title="Demo video: How MPC works? Receding horizon optimization." lightbox="true" >}}
+**Demo Video: How MPC works? Receding horizon optimization**
+
+{{< video src="MPC_video.mp4" controls="yes" >}}
 
 **About**
 
