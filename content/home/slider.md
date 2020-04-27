@@ -35,6 +35,17 @@ height = "800px"
 
 
 [[item]]
+  title = "MPC: Receding Horizon Optimisation"
+  content = "Past-Current-Future"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "MPC_AC_gif.gif"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
+
+[[item]]
   title = "Stochastic Data-driven Occupancy Model"
   content = "Using Heterogeneous Markov-chain Monte Carlo method"
   align = "center"  # Choose `center`, `left`, or `right`.
