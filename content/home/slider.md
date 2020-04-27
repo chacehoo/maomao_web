@@ -35,12 +35,12 @@ height = "800px"
 
 
 [[item]]
-  title = "MPC: Receding Horizon Optimisation"
-  content = "Past-Current-Future"
+  title = "How MPC works?"
+  content = "Receding Horizon Optimisation: the circle of Optimization-Decision-Optimization-Decision ..."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "MPC_AC_gif.gif"  # Image path relative to your `static/img/` folder.
+  overlay_img = "MPC_AC_gif_size_ratio_2.38.gif"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 
