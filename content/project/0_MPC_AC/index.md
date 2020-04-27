@@ -41,19 +41,13 @@ url_video: ""
 
 ---
 
-
-
 {{< figure src="2.jpg" title="Fig. Schematic diagram of MPC for building energy systems." lightbox="true" >}}
-
-
 
 <font color="#B30606">**Demo Video: How MPC works?**</font>
 
 {{< video src="MPC_video.mp4" controls="yes" >}}
 
 <font face="Roboto" color="black" size="4">Receding Horizon Optimization: Optimization&rarr;Decision&rarr;Measurement&rarr;Optimization&rarr;Decision&rarr;Measurement ...</font>
-
-
 
 <font color="#B30606">**About**</font>
 
