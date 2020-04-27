@@ -41,7 +41,11 @@ url_video: ""
 
 ---
 
+{{< figure src="2.jpg" title="Fig. Schematic diagram of MPC for building energy systems." lightbox="true" >}}
+
 {{< figure src="1.jpg" title="Fig. Flow chart of online model predictive control for variable-speed ACs." lightbox="true" >}}
+
+{{< figure src="3.gif" title="Demo video: How MPC works? Receding horizon optimization." lightbox="true" >}}
 
 **About**
 

@@ -29,10 +29,10 @@ height = "800px"
   overlay_img = "MPC.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
+  cta_label = "More info"
+  cta_url = "https://maomaohu.net/project/0_mpc_ac/"
+  cta_icon_pack = "fas"
+  cta_icon = "paperclip"
 
 
 
@@ -44,6 +44,11 @@ height = "800px"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "MPC_AC_gif_size_ratio_2.38.gif"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "More info"
+  cta_url = "https://maomaohu.net/project/0_mpc_ac/"
+  cta_icon_pack = "fas"
+  cta_icon = "paperclip"
 
 
 
