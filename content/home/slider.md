@@ -55,7 +55,7 @@ height = "800px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "More info"
-  cta_url = "{{< ref "/project/2_uncertainty/index.md" >}}"
+  cta_url = "[]({{< ref "/project/2_uncertainty/index.md" >}})"
   cta_icon_pack = "fas"
   cta_icon = "paperclip"
 
