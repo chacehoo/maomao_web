@@ -47,7 +47,7 @@ url_video: ""
 
 {{< video src="MPC_video.mp4" controls="yes" >}}
 
-<font face="Roboto" color="black" size="4">Receding Horizon Optimization: Optimization&rarr;Decision&rarr;Measurement&rarr;Optimization&rarr;Decision&rarr;Measurement ...</font>
+<p align="center"><font face="Roboto" color="black" size="4">Receding Horizon Optimization: Optimization&rarr;Decision&rarr;Measurement&rarr;Optimization&rarr;Decision&rarr;Measurement ...</font></p>
 
 <font color="#B30606">**About**</font>
 

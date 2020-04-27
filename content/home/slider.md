@@ -38,8 +38,9 @@ height = "800px"
 
 [[item]]
   title = "How MPC works?"
-  content = "Receding Horizon Optimisation: Optimization&rarr;Decision&rarr;Measurement&rarr;Optimization&rarr;Decision&rarr;Measurement ..."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "<font size="4"> Receding Horizon Optimisation: Optimization&rarr;Decision&rarr;Measurement&rarr;Optimization&rarr;Decision&rarr;Measurement ...</font>"
+
+ align = "center"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "MPC_AC_gif_size_ratio_2.38.gif"  # Image path relative to your `static/img/` folder.
