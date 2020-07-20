@@ -2,15 +2,17 @@
 name = "chace_font_1"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
+google_fonts = "Montserrat:400,700|Nunito:400,400italic,700|Roboto+Mono"
 
 # Default font
 
 # google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
+# google_fonts = "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
+
 # Font families
 heading_font = "Montserrat"
-body_font = "Raleway"
-nav_font = "Raleway"
+body_font = "Nunito"
+nav_font = "Nunito"
 mono_font = "Roboto Mono"
 
