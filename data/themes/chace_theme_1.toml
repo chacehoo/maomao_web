@@ -5,12 +5,16 @@ name = "chace_theme_1"
 light = true
 
 # Primary
-primary = "#B30606"
+primary = "#336600"
+
+# B30606 (maroon)
+
+
 
 # Menu
 menu_primary = "#030303"
 menu_text = "#FFFFFF"
-menu_text_active = "#B30606"
+menu_text_active = "#336600"
 menu_title = "#FFFFFF"
 
 # Home sections
