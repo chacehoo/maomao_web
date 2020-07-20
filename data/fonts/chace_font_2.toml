@@ -1,0 +1,12 @@
+# Font style metadata
+name = "chace_font_2"
+
+# Optional Google font URL
+google_fonts = "family=**Jost:ital,wght@0,400;0,700;1,400**&family=**Raleway:wght@400;700**"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Jost"
+nav_font = "Jost"
+mono_font = "Jost"
+
