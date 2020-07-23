@@ -11,12 +11,12 @@ primary = "#890C58"
 
 # #006633(dark green)
 
-
+# 030303 (Black)
 
 # Menu
-menu_primary = "#030303"
+menu_primary = "#041E42"
 menu_text = "#FFFFFF"
-menu_text_active = "#890C58"
+menu_text_active = "#FF9E1B"
 menu_title = "#FFFFFF"
 
 # Home sections
