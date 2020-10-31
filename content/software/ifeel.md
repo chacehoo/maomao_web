@@ -33,7 +33,7 @@ You can use `pip`  to easily install IFEEL with:
 
 More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
-## 🤖 Developer info
+# 🤖 Developer info
 
 * **Package title**: Interpretable Feature Extraction of Electricity Load (IFEEL)
 
