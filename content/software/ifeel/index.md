@@ -1,7 +1,7 @@
 ---
 title: IFEEL-Interpretable Feature Extraction of Electricity Loads
 summary: A Python package for Interpretable Feature Extraction of Electricity Loads
-date: 2020-10-30
+date: 2020-10-29
 
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
 reading_time: false
@@ -30,7 +30,7 @@ You can use `pip`  to easily install IFEEL with:
 
 More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
-# 🤖 Developer info
+## 🤖 Developer info
 ---
 * **Package title**: Interpretable Feature Extraction of Electricity Load (IFEEL)
 
