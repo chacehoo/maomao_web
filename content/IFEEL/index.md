@@ -14,9 +14,7 @@ comments: false
 # image: "" 
 ---
 
-![Illustration of IFEEL process](/Users/chace/OneDrive - Nexus365/0_PycharmProjects/MyPackage/IFEEL/Image/logo.png)
-
-# Interpretable Feature Extraction of Electricity Loads (IFEEL)
+![Illustration of IFEEL process](ifeel_logo.png)
 
 * A python package for **Interpretable Feature Extraction of Electricity Loads** (IFEEL).
 * IFEEL has a similar pronunciation to the Eiffel Tower 🗼 so you will find two "Eiffel" electricity towers in the IFEEL logo.
@@ -25,9 +23,7 @@ comments: false
 
 ## 📌 Illustration:
 
-![Illustration of IFEEL process](/Users/chace/OneDrive - Nexus365/0_PycharmProjects/MyPackage/IFEEL/Image/FEEL.png)
-
-**Note**: If the picture fails to load, please click [here](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL).
+![Illustration of IFEEL process](ifeel_illustration.png)
 
 ## ⚙️ Installation:
 
