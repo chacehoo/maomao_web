@@ -6,7 +6,7 @@
 [[main]]
   name = "About me"
   url = "#about"
-  weight = 10
+  weight = 10    
 
 [[main]]
   name = "Reasearch"
@@ -17,6 +17,11 @@
 name = "Projects"
 url = "#selected_projects"
 weight = 30
+
+[[main]]
+name = "Software"
+url = "IFEEL/"
+weight = 35
 
 [[main]]
   name = "Publications"
