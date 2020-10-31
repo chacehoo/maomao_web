@@ -20,7 +20,7 @@ weight = 30
 
 [[main]]
 name = "Software"
-url = "IFEEL/"
+url = "ifeel/"
 weight = 35
 
 [[main]]
