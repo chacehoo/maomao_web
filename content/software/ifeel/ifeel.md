@@ -14,7 +14,7 @@ comments: false
 # image: "" 
 ---
 
-![Illustration of IFEEL process](ifeel_logo.png)
+![IFEEL logo](ifeel_logo.png)
 
 * A python package for **Interpretable Feature Extraction of Electricity Loads** (IFEEL).
 * IFEEL has a similar pronunciation to the Eiffel Tower 🗼 so you will find two "Eiffel" electricity towers in the IFEEL logo.
