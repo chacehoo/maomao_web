@@ -1,13 +1,13 @@
 ---
 title: IFEEL-Interpretable Feature Extraction of Electricity Loads
-summary: A Python package
-date: "2020-10-30T00:00:00Z" 
+summary: A Python package for Interpretable Feature Extraction of Electricity Loads
+date: "2020-10-30" 
 
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
 reading_time: false  
-share: false  
-profile: false  
-comments: false  
+share: true  
+profile: true
+comments: false
 # Optional header image (relative to `static/media/` folder).
 # header:  
 # caption: ""  
@@ -21,11 +21,11 @@ comments: false
 * Description of IFEEL can be found on **GitHub** [🔗](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL) (*Recommended, no image loading issue*) or **PyPI** [ 🔗](https://pypi.org/project/ifeel/)
 
 
-## 📌 Illustration:
+## 📌 Illustration
 
 ![Illustration of IFEEL process](ifeel_illustration.png)
 
-## ⚙️ Installation:
+## ⚙️ Installation
 
 You can use `pip`  to easily install IFEEL with:
 
@@ -33,7 +33,7 @@ You can use `pip`  to easily install IFEEL with:
 
 More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
-## 🤖 Developer info:
+## 🤖 Developer info
 
 * **Package title**: Interpretable Feature Extraction of Electricity Load (IFEEL)
 
@@ -47,7 +47,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 * **Acknowledgement**: This work was financially supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under grant (EP/S030131/1) of [AMIDINE](https://www.amidine.net/). We also would like to thank the help from [Bruce Stephen](https://www.strath.ac.uk/staff/stephenbrucedr/), [Jethro Browell](http://www.jethrobrowell.com/), [Rory Telford](https://www.strath.ac.uk/staff/telfordrorymr/), [Stuart Galloway](https://www.strath.ac.uk/staff/gallowaystuartdr/), and [Ciaran Gilbert](https://pureportal.strath.ac.uk/en/persons/ciaran-gilbert) from the University of Strathclyde.
 
-## 💬 About IFEEL:
+## 💬 About IFEEL
 
 (1) This Python package (i.e., IFEEL) aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. The extracted features can be applied for further feature-based machine learning purposes, including feature-based PCA, clustering, classification, and regression.
 
@@ -59,7 +59,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 (5) For fast peak-period feature extraction, Symbolic Aggregate approXimation (SAX) representation is first used to transform the time-series numerical patterns into alphabetical words. The feature transformation process is performed by calling the functions in *ifeel_transformation.py*. More details about SAX approach can be found in Ref [2] and Ref [3].
 
-## 🔈 Notes:
+## 🔈 Notes
 
 (1) To successfully run the IFEEL, the following Python data analysis libraries need to be installed in advance: [Numpy](https://numpy.org/), [Scipy](https://www.scipy.org/), and [Pandas](https://pandas.pydata.org/).
 
