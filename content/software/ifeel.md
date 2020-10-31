@@ -4,7 +4,7 @@ summary: A Python package for Interpretable Feature Extraction of Electricity Lo
 date: 2020-10-30
 
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
-reading_time: false  
+reading_time: false
 share: true  
 profile: true
 comments: false
@@ -13,20 +13,17 @@ comments: false
 # caption: ""  
 # image: "" 
 ---
-
 ![IFEEL logo](ifeel_logo.png)
-
 * A python package for **Interpretable Feature Extraction of Electricity Loads** (IFEEL).
 * IFEEL has a similar pronunciation to the Eiffel Tower 🗼 so you will find two "Eiffel" electricity towers in the IFEEL logo.
 * Description of IFEEL can be found on **GitHub** [🔗](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL) (*Recommended, no image loading issue*) or **PyPI** [ 🔗](https://pypi.org/project/ifeel/)
 
-
 ## 📌 Illustration
-
+---
 ![Illustration of IFEEL process](ifeel_illustration.png)
 
 ## ⚙️ Installation
-
+---
 You can use `pip`  to easily install IFEEL with:
 
 `pip install ifeel`
@@ -34,7 +31,7 @@ You can use `pip`  to easily install IFEEL with:
 More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 # 🤖 Developer info
-
+---
 * **Package title**: Interpretable Feature Extraction of Electricity Load (IFEEL)
 
 * **Authors**: [Maomao Hu](https://maomaohu.net/), [Dongjiao Ge](https://eng.ox.ac.uk/people/dongjiao-ge/), [David Wallom](https://eng.ox.ac.uk/people/david-wallom/)
@@ -48,7 +45,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 * **Acknowledgement**: This work was financially supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under grant (EP/S030131/1) of [AMIDINE](https://www.amidine.net/). We also would like to thank the help from [Bruce Stephen](https://www.strath.ac.uk/staff/stephenbrucedr/), [Jethro Browell](http://www.jethrobrowell.com/), [Rory Telford](https://www.strath.ac.uk/staff/telfordrorymr/), [Stuart Galloway](https://www.strath.ac.uk/staff/gallowaystuartdr/), and [Ciaran Gilbert](https://pureportal.strath.ac.uk/en/persons/ciaran-gilbert) from the University of Strathclyde.
 
 ## 💬 About IFEEL
-
+---
 (1) This Python package (i.e., IFEEL) aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. The extracted features can be applied for further feature-based machine learning purposes, including feature-based PCA, clustering, classification, and regression.
 
 (2) Two PY files (.py) are included in the IFEEL package, including *ifeel_transformation.py* and *ifeel_extraction.py*.
@@ -60,7 +57,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 (5) For fast peak-period feature extraction, Symbolic Aggregate approXimation (SAX) representation is first used to transform the time-series numerical patterns into alphabetical words. The feature transformation process is performed by calling the functions in *ifeel_transformation.py*. More details about SAX approach can be found in Ref [2] and Ref [3].
 
 ## 🔈 Notes
-
+---
 (1) To successfully run the IFEEL, the following Python data analysis libraries need to be installed in advance: [Numpy](https://numpy.org/), [Scipy](https://www.scipy.org/), and [Pandas](https://pandas.pydata.org/).
 
 (2) A **Demo** can be found in the installed IFEEL package or [here](https://github.com/chacehoo/IFEEL/blob/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL/IFEEL/Demo.py). Three datasets at different time intervals can be downloaded [here](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL/Test_Data), and tested in the Demo.
@@ -68,7 +65,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 (3) The **Demo** has been tested on Python 3.7.7.
 
 ## 📚 References
-
+---
 [1] Hu M, Ge D, Telford R, Stephen B, Wallom, D. Classification and characterization of intra-day load curves of PV and Non-PV households using interpretable feature extraction and feature-based clustering. (*In preparation*)
 
 [2] Lin J, Keogh E, Wei L, Lonardi S. Experiencing SAX: a novel symbolic representation of time series. *Data Mining and Knowledge Discovery*. 2007;15:107-44.
