@@ -18,11 +18,11 @@ comments: false
 * IFEEL has a similar pronunciation to the Eiffel Tower 🗼 so you will find two "Eiffel" electricity towers in the IFEEL logo.
 * Description of IFEEL can be found on **GitHub** [🔗](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL) (*Recommended, no image loading issue*) or **PyPI** [ 🔗](https://pypi.org/project/ifeel/)
 
-## 📌  <font color="#890C58">**Illustration**</font>
+## 📌  **Illustration**
 ---
 ![Illustration of IFEEL process](ifeel_illustration.png)
 
-## ⚙️ <font color="#890C58">Installation</font>
+## ⚙️ **Installation**
 ---
 You can use `pip`  to easily install IFEEL with:
 
@@ -30,7 +30,7 @@ You can use `pip`  to easily install IFEEL with:
 
 More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
-## 🤖 <font color="#890C58">Developer info</font>
+## 🤖 **Developer info**
 ---
 * **Package title**: Interpretable Feature Extraction of Electricity Load (IFEEL)
 
@@ -44,7 +44,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 * **Acknowledgement**: This work was financially supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under grant (EP/S030131/1) of [AMIDINE](https://www.amidine.net/). We also would like to thank the help from [Bruce Stephen](https://www.strath.ac.uk/staff/stephenbrucedr/), [Jethro Browell](http://www.jethrobrowell.com/), [Rory Telford](https://www.strath.ac.uk/staff/telfordrorymr/), [Stuart Galloway](https://www.strath.ac.uk/staff/gallowaystuartdr/), and [Ciaran Gilbert](https://pureportal.strath.ac.uk/en/persons/ciaran-gilbert) from the University of Strathclyde.
 
-## 💬 <font color="#890C58">About IFEEL</font>
+## 💬 **About IFEEL**
 ---
 (1) This Python package (i.e., IFEEL) aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. The extracted features can be applied for further feature-based machine learning purposes, including feature-based PCA, clustering, classification, and regression.
 
@@ -56,7 +56,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 (5) For fast peak-period feature extraction, Symbolic Aggregate approXimation (SAX) representation is first used to transform the time-series numerical patterns into alphabetical words. The feature transformation process is performed by calling the functions in *ifeel_transformation.py*. More details about SAX approach can be found in Ref [2] and Ref [3].
 
-## 🔈 <font color="#890C58">Notes</font>
+## 🔈 **Notes**
 ---
 (1) To successfully run the IFEEL, the following Python data analysis libraries need to be installed in advance: [Numpy](https://numpy.org/), [Scipy](https://www.scipy.org/), and [Pandas](https://pandas.pydata.org/).
 
@@ -64,7 +64,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 (3) The **Demo** has been tested on Python 3.7.7.
 
-## 📚 <font color="#890C58">References</font>
+## 📚 **References**
 ---
 [1] Hu M, Ge D, Telford R, Stephen B, Wallom, D. Classification and characterization of intra-day load curves of PV and Non-PV households using interpretable feature extraction and feature-based clustering. (*In preparation*)
 
