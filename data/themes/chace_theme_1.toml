@@ -4,7 +4,7 @@ name = "chace_theme_1"
 # Is theme light or dark?
 light = true
 
-# Primary
+# Primary (hightlight)
 primary = "#890C58"
 
 # B30606 (maroon)
