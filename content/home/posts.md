@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "News & Updates"
-subtitle = ""
+subtitle = "35"
 
 [content]
 
