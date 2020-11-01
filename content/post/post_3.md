@@ -11,9 +11,9 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 # image in the page of this post; caption is the title of the figure.
-header:
-  caption: ""   
+#header:
+#caption: ""   
 # image: "renewable_journal.jpg"   
 ---
 
-The description of IFEEL can be found [here](https://maomaohu.net/software/ifeel/).
+The IFEEL Docs can be found [here](https://maomaohu.net/software/ifeel/).
