@@ -11,12 +11,12 @@
 [[main]]
   name = "Reasearch"
   url = "#research_methods"
-  weight = 20
+  weight = 15
 
 [[main]]
   name = "News&Updates"
   url = "#posts"
-  weight = 25
+  weight = 20
 
 [[main]]
 name = "Projects"

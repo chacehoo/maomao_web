@@ -1,6 +1,6 @@
 ---
 title: New paper published in *Renewable and Sustainable Energy Reviews*!
-
+date: 2020-10-29
 
 # View.
 #   1 = List
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-I am pleased to share our recent review article published in *Renewable and Sustainable Energy Reviews* on Coordination and Negotiation Techniques for Energy Flexibility in Microgrids. Glad to see my last piece of work at PolyU coming out.
+I am pleased to share that our recent review article **[Neighborhood-level coordination and negotiation techniques for managing demand-side flexibility in residential microgrids](https://www.sciencedirect.com/science/article/pii/S1364032120305372?via%3Dihub)** was published in *Renewable and Sustainable Energy Reviews*. Glad to see my last piece of work at PolyU coming out. 
