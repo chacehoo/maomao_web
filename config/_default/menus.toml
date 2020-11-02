@@ -14,7 +14,7 @@
   weight = 15
 
 [[main]]
-  name = "News&Updates"
+  name = "News"
   url = "#posts"
   weight = 20
 
