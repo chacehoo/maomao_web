@@ -1,6 +1,6 @@
 ---
 title: A Python Package - Interpretable Feature Extraction of Electricity Loads (IFEEL)
-summary: We developed a Python package (IFEEL), which can help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. 
+summary: We developed a Python package (IFEEL), which aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. 
 date: 2020-10-29
 
 # View.
@@ -16,4 +16,6 @@ view: 2
 # image: "renewable_journal.jpg"   
 ---
 
-The IFEEL Docs can be found [here](https://maomaohu.net/software/ifeel/).
+We developed a Python package (IFEEL), which aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. 
+
+The IFEEL Docs can be found [**here**](https://maomaohu.net/software/ifeel/).
