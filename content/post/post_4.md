@@ -1,7 +1,7 @@
 ---
 title: Nov 2020 | A talk was given by Dr. Hu at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects” funded by NSFC China and the British Council.
-summary: 
-date: 2020-10-29
+summary: ""
+date: 2020-11-07
 
 # View.
 #   1 = List
