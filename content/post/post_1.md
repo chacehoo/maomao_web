@@ -1,5 +1,5 @@
 ---
-title: Aug 2020 | Our new paper "Neighborhood-level coordination and negotiation techniques for managing demand-side flexibility in residential microgrids" was published in *Renewable and Sustainable Energy Reviews*.
+title: Aug 2020 | Our new paper entitled "Neighborhood-level Coordination and Negotiation Techniques for Managing Demand-side Flexibility in Residential Microgrids" was published in *Renewable and Sustainable Energy Reviews*.
 
 summary: Our recent review article entitled "**Neighborhood-level Coordination and Negotiation Techniques for Managing Demand-side Flexibility in Residential Microgrids**" was published in *Renewable and Sustainable Energy Reviews*. Glad to see my last piece of work at PolyU coming out. 
 
