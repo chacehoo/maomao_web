@@ -1,5 +1,5 @@
 ---
-title: Nov 2020 | A talk was given by Dr. Hu at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects” funded by NSFC China and the British Council.
+title: Nov 2020 | A talk was given at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects”.
 summary: ""
 date: 2020-11-07
 
@@ -7,7 +7,7 @@ date: 2020-11-07
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+# view: 2
 
 # Optional header image (relative to `static/img/` folder).
 # image in the page of this post; caption is the title of the figure.

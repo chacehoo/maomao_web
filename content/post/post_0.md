@@ -1,5 +1,5 @@
 ---
-title: New start at University of Oxford!
+title: Mar 2020 | New journey in Dept. of Engineering Science at University of Oxford!
 summary: Since March 2020, I joins the Energy and Environmental Informatics group in Department of Engineering Science at University of Oxford. I works with Professor David Wallom as a postdoctoral researcher for Project AMIDiNe. 
 date: 2020-03-16
 

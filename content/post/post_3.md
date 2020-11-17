@@ -1,5 +1,5 @@
 ---
-title: A Python Package - Interpretable Feature Extraction of Electricity Loads (IFEEL)
+title: Oct 2020 | We developed a Python package IFEEL (Interpretable Feature Extraction of Electricity Loads).
 summary: We developed a Python package (IFEEL), which aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. 
 date: 2020-10-29
 

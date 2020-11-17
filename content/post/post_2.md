@@ -1,5 +1,5 @@
 ---
-title: New paper published in *Building Simulation*!
+title: Sep 2020 | A new paper is published in *Building Simulation*!
 summary: Our recent research paper entitled "**Development of an ANN-based Building Energy Model for Information-poor Buildings Using Transfer Learning**" was published in *Building Simulation*. 
 date: 2020-09-11
 
