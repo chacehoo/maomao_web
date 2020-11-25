@@ -1,5 +1,5 @@
 ---
-title: Nov 2020 | A talk was given at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects”.
+title: Nov 2020 | A talk was given at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects” funded by Newton Fund.
 summary: ""
 date: 2020-11-07
 
