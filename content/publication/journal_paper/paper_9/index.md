@@ -1,6 +1,6 @@
 ---
 title: "Development of an ANN-based building energy model for information-poor buildings using transfer learning"
-date: 2020-09-11
+date: 2021-01-15
 authors: ["Ao Li", "Fu Xiao", "Cheng Fan", "Maomao Hu"]
 publication_types: ["2"]
 featured: false
