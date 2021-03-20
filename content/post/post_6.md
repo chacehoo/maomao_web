@@ -3,7 +3,7 @@ title: Jan 2021 | Our R package named PHOVAFER (PHOtoVoltAic FindER) was release
 
 summary: We developed a Python package (IFEEL), which aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective. 
 
-date: 2020-10-29
+date: 2020-01-15
 
 # View.
 #   1 = List
@@ -15,7 +15,7 @@ view: 2
 # image in the page of this post; caption is the title of the figure.
 #header:
 #caption: ""   
-# image: "renewable_journal.jpg"   
+# image: ""   
 
 ---
 
