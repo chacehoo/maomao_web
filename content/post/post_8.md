@@ -1,5 +1,5 @@
 ---
-title: May 2021 | I am now a particitant in both IEA EBC 81 and IEA EBC 82 projects.
+title: May 2021 | I am now a participant in both IEA EBC 81 and IEA EBC 82 projects.
 
 summary: ""
 
