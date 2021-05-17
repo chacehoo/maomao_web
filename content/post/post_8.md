@@ -21,8 +21,8 @@ view: 2
 
 Recently, I've succesfully applied and participated in two IEA EBC (International Energy Agency, Energy in Buildings and Communities) ongoing projects:
 
-- **IEA ANNEX 81** [Data-Driven Smart Buildings](https://annex81.iea-ebc.org/) (2020-2024)
-- **IEA ANNEX 82** [Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems](https://annex82.iea-ebc.org/) (2020-2024)
+- [**IEA ANNEX 81** Data-Driven Smart Buildings](https://annex81.iea-ebc.org/) (2020-2024)
+- [**IEA ANNEX 82**  Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems](https://annex82.iea-ebc.org/) (2020-2024)
 
 Thanks for having me in the community!
 

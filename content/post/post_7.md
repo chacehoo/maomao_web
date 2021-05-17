@@ -1,5 +1,5 @@
 ---
-title: Apr 2021 | A talk was given in the Dept. of Built Environment and Enery Application Engineering, Hunan University on "Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems".
+title: Apr 2021 | A talk was given to the Dept. of Built Environment and Enery Application Engineering, Hunan University on "Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems".
 
 summary: ""
 
@@ -19,4 +19,4 @@ view: 2
 
 ---
 
-A talk was given in the Dept. of Built Environment and Enery Application Engineering, Hunan University on "Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems".
+A talk was given to the Dept. of Built Environment and Enery Application Engineering, Hunan University on "Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems".
