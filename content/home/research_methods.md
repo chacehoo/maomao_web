@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research Topics and Methods"
-subtitle = "Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering."
+title = "Creating energy technologies at the interface of **Building Energy and Environment Engineering**, Computer Science, and Control Engineering."
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -31,8 +31,6 @@ subtitle = "Creating energy technologies at the interface of Building Energy and
   icon_pack = "far"
   name = "Physics-based Modelling"
   description = "Building Thermal Dynamics | Refrigeration/HVAC systems | ODEs and State Space Representations" 
-
-
 
 [[feature]]
   icon = "desktop"

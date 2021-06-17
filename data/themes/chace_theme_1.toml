@@ -14,7 +14,7 @@ primary = "#890C58"
 # 030303 (Black)
 
 # Menu
-menu_primary = "#041E42"
+menu_primary = "\#002147"
 menu_text = "#FFFFFF"
 menu_text_active = "#FF9E1B"
 menu_title = "#FFFFFF"
