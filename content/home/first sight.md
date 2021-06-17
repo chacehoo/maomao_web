@@ -19,7 +19,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: smart_building.jpeg
+    image: digital_building.png
     image_darken: 0.6
     image_parallax: true
     image_position: center
