@@ -19,13 +19,14 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 
-
 **Maomao Hu** 
 Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
 
-# {{% callout note %}}
-# This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+{{% callout note %}}
 
-# Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-# {{% /callout %}}
+This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+
+{{% /callout %}}
 
