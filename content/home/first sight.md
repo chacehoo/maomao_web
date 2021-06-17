@@ -20,14 +20,14 @@ design:
   columns: "1"
   background:
     image: smart_building.jpeg
-    image_darken: 0.8
+    image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: ture
   spacing:
 
-    padding: ["300px", "0", "300px", "0"]
+    padding: ["350px", "0", "350px", "0"]
 ---
 
 Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
