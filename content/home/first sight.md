@@ -25,8 +25,9 @@ design:
     image_position: center
     image_size: cover
     text_color_light: ture
-#  spacing:
-#    padding: ["20px", "0", "20px", "0"]
+  spacing:
+
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 **Maomao Hu**
