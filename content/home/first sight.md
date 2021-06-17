@@ -20,16 +20,14 @@ design:
   columns: "1"
   background:
     image: smart_building.jpeg
-    image_darken: 0.2
+    image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: ture
   spacing:
 
-    padding: ["200px", "0", "200px", "0"]
+    padding: ["250px", "0", "250px", "0"]
 ---
-
-**Maomao Hu**
 
 Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
