@@ -27,22 +27,10 @@ design:
     text_color_light: false
   spacing:
 
-    padding: ["20px", "0", "20px", "0"]
----
-
-
-
-
+​         padding: ["20px", "0", "20px", "0"]
 
 
 
 **Maomao Hu**
 
 Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
-
-
-
-
-
-
-
