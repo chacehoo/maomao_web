@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering."
-subtitle = ""
+title = "Research"
+subtitle = "Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering."
 
 # Showcase personal skills or business features.
 # 
