@@ -20,7 +20,7 @@ design:
   columns: "1"
   background:
     image: MPC.jpg
-    image_darken: 1.0
+    image_darken: 0
     image_parallax: true
     image_position: center
     image_size: cover
