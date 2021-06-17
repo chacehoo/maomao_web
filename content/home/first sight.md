@@ -27,7 +27,7 @@ design:
     text_color_light: ture
   spacing:
 
-    padding: ["50px", "0", "50px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 ---
 
 **Maomao Hu**
