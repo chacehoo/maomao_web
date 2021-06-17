@@ -24,9 +24,9 @@ design:
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+    text_color_light: ture
+#  spacing:
+#    padding: ["20px", "0", "20px", "0"]
 ---
 
 **Maomao Hu**
