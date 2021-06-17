@@ -13,7 +13,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Maomao Hu
+title: 
 subtitle:
 
 design:
@@ -29,12 +29,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
-[Explore similar templates](https://wowchemy.com/templates/)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+**Maomao Hu**
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
-
+Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
 
