@@ -30,4 +30,4 @@ design:
     padding: ["350px", "0", "350px", "0"]
 ---
 
-Creating energy technologies at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
+Creating sustainable technologies for building and urban energy systems at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
