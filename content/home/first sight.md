@@ -27,7 +27,7 @@ design:
     text_color_light: false
   spacing:
 
-​         padding: ["20px", "0", "20px", "0"]
+  padding: ["20px", "0", "20px", "0"]
 
 
 
