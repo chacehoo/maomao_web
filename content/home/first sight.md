@@ -19,7 +19,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: smart_building.jpeg
     image_darken: 1.0
     image_parallax: true
     image_position: center
