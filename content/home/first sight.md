@@ -19,7 +19,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: digital_building.png
+    image: digital_building_1.png
     image_darken: 0.6
     image_parallax: true
     image_position: center
