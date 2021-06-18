@@ -5,7 +5,8 @@ name = "chace_theme_1"
 light = true
 
 # Primary (hightlight)
-primary = "#890C58"
+# primary = "#890C58"
+primary = "#041E42"
 
 # B30606 (maroon)
 
