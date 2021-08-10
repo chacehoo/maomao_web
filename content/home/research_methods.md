@@ -18,13 +18,13 @@ subtitle = "Creating sustainable technologies for building and urban energy syst
   icon = "database"
   icon_pack = "fas"
   name = "Data Analytics "
-  description = "Data Cleaning | Data Clustering | Data Visualization" 
+  description = "Data Cleaning | Data Visualization | Data Clustering | EDA" 
 
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
   name = "Data-driven Modelling"
-  description = "Grey-/Black-box | Machine Learning/Stats" 
+  description = "Grey-/Black-box | Machine Learning | Deep Learning" 
 
 [[feature]]
   icon = "building"
