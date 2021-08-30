@@ -1,5 +1,5 @@
 ---
-title: Aug 2021 | A talk was given at the Sino-UK Joint Symposium on Post Covid-19 Pandemic: A Reconsideration for the Built Environment.
+title: Aug 2021 | A talk was given at the Sino-UK Joint Symposium on Post Covid-19 Pandemic - A Reconsideration for the Built Environment.
 
 summary: ""
 
@@ -19,7 +19,7 @@ view: 2
 
 ---
 
-A talk was given at the Sino-UK Joint Symposium on Post Covid-19 Pandemic: A Reconsideration for the Built Environment, hosted by Tongji University, China and University of Nottingham, UK.
+A talk was given at the Sino-UK Joint Symposium on Post Covid-19 Pandemic - A Reconsideration for the Built Environment, hosted by Tongji University, China and University of Nottingham, UK.
 
 This symposium  was supported by Researcher Links grant, 2020-RLWK12-10630, under the Newton-China partnership. The grant is funded by the UK Department for Business, Energy and Industrial Strategy and National Natural Science Foundation of China and delivered by the British Council.
 
