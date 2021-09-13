@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research Methods"
-subtitle = "Creating sustainable technologies for building and urban energy systems at the interface of Built Environment and Energy Engineering, Computer Science, and Control Engineering."
+subtitle = "Creating sustainable data-centric technologies for building and urban energy systems at the interface of Building Environment and Energy Engineering, Computer Science, and Control Engineering."
 
 # Showcase personal skills or business features.
 # 
