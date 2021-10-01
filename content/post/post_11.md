@@ -22,6 +22,8 @@ header:
 
 Our recent research paper entitled "**Classification and characterization of intra-day load curves of PV and non-PV households using interpretable feature extraction and feature-based clustering**" was published in *Sustainable Cities and Society*.
 
+This work was financially supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under the grant (EP/S030131/1).
+
 The full paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2210670721006533).
 
 # Abstract

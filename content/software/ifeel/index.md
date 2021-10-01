@@ -66,7 +66,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 ## 📚 **References**
 ---
-[1] Hu M, Ge D, Telford R, Stephen B, Wallom, D. Classification and characterization of intra-day load curves of PV and Non-PV households using interpretable feature extraction and feature-based clustering. (*In preparation*)
+[1] Hu M, Ge D, Telford R, Stephen B, Wallom D. Classification and characterization of intra-day load curves of PV and non-PV households using interpretable feature extraction and feature-based clustering. *Sustainable Cities and Society*. 2021;75:103380.
 
 [2] Lin J, Keogh E, Wei L, Lonardi S. Experiencing SAX: a novel symbolic representation of time series. *Data Mining and Knowledge Discovery*. 2007;15:107-44.
 
