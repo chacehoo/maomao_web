@@ -16,7 +16,7 @@ comments: false
 ![IFEEL logo](ifeel_logo.png)
 * A python package for **Interpretable Feature Extraction of Electricity Loads** (IFEEL).
 * IFEEL has a similar pronunciation to the Eiffel Tower 🗼 so you will find two "Eiffel" electricity towers in the IFEEL logo.
-* Description of IFEEL can be found on **GitHub** [🔗](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL) (*Recommended, no image loading issue*) or **PyPI** [ 🔗](https://pypi.org/project/ifeel/)
+* Description of IFEEL can be found on **GitHub** [🔗](https://github.com/chacehoo/IFEEL) (*Recommended, no image loading issue*) or **PyPI** [ 🔗](https://pypi.org/project/ifeel/)
 
 ## 📌  **Illustration**
 ---
@@ -60,7 +60,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 ---
 (1) To successfully run the IFEEL, the following Python data analysis libraries need to be installed in advance: [Numpy](https://numpy.org/), [Scipy](https://www.scipy.org/), and [Pandas](https://pandas.pydata.org/).
 
-(2) A **Demo** can be found in the installed IFEEL package or [here](https://github.com/chacehoo/IFEEL/blob/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL/IFEEL/Demo.py). Three datasets at different time intervals can be downloaded [here](https://github.com/chacehoo/IFEEL/tree/master/OneDrive%20-%20Nexus365/0_PycharmProjects/MyPackage/IFEEL/Test_Data), and tested in the Demo.
+(2) A **Demo** can be found in the installed IFEEL package or [here](https://github.com/chacehoo/IFEEL/blob/main/IFEEL/Demo.py). Three datasets at different time intervals can be downloaded [here](https://github.com/chacehoo/IFEEL/tree/main/Test_Data), and tested in the Demo.
 
 (3) The **Demo** has been tested on Python 3.7.7.
 
