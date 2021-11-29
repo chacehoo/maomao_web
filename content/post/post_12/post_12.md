@@ -19,6 +19,8 @@ header:
 
 ![stanford campus](Stanford_campus.jpeg)
 
+
+
 After 2ish years at the University of Oxford as a postdoc, I’m excited to share that I am joining Stanford University this week as a postdoc for the COOLER project, whose goal is to enable low-carbon, electrified district energy systems using Stanford campus as a real-life testbed.
 
 I would like to thank Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/) and other group members at Oxford for truly allowing me to grow and helping me flourish in my role. It’s been a great pleasure working with them, and I am proud of what I have accomplished at Oxford during the COVID-19 pandemic.
