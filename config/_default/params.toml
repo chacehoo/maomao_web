@@ -94,7 +94,7 @@ address = {street = "Green Earth Sciences Bldg., 367 Panama St.", city = "Stanfo
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.42688", longitude = "-122.17396"}
+coordinates = {latitude = "37.42688",  longitude = "-122.17396"}
 
 # Directions for visitors to locate you.
 directions = ""

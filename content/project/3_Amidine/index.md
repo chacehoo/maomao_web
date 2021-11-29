@@ -1,5 +1,5 @@
 ---
-title: AMiDine
+title: AMiDine in the UK
 summary: To devise analytics that link point measurement to whole system to address the increasingly problematic management of electrical load on distribution networks as the UK transitions to a low carbon energy system.
 tags:
 - Building clusters 
