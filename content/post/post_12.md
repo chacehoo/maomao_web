@@ -14,10 +14,8 @@ view: 2
 # image in the page of this post; caption is the title of the figure.
 header:
   caption: ""   
-# image: "renewable_journal.jpg"   
+  image: "Stanford_campus.jpeg"   
 ---
-
-{{< figure src="Stanford_campus.jpeg"  lightbox="true" >}}
 
 After 2ish years at the University of Oxford as a postdoc, I’m excited to share that I am joining Stanford University this week as a postdoc for the COOLER project, whose goal is to enable low-carbon, electrified district energy systems using Stanford campus as a real-life testbed.
 
