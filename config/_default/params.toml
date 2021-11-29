@@ -94,7 +94,7 @@ address = {street = "Green Earth Sciences Bldg., 367 Panama St.", city = "Stanfo
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.426945602193236", longitude = "-122.173537344999"}
+coordinates = {latitude = "37.42688", longitude = "-122.17396"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -280,4 +280,4 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+l
