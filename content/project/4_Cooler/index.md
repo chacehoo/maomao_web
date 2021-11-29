@@ -1,8 +1,6 @@
 ---
 title: COOLER at Stanford
-
 summary: To enable low-carbon, electrified community energy systems using Stanford campus as a real-life testbed.
-
 tags:
 - Building clusters 
 - Data Analytics 
@@ -15,7 +13,7 @@ tags:
 date: "2021-11-22"
 
 # Optional external URL for project (replaces project detail page).
-  external_link: https://sustainable.stanford.edu/campus-action/stanford-energy-system-innovations-sesi
+external_link: https://sustainable.stanford.edu/campus-action/stanford-energy-system-innovations-sesi
 
 image:
 #  caption: Photo by Toa Heftiba on Unsplash
