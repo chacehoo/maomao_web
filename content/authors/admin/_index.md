@@ -14,8 +14,8 @@ role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
-  url: "http://www.ox.ac.uk/"
+- name: Stanford University
+  url: "https://profiles.stanford.edu/maomao-hu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -44,7 +44,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:maomao.hu@eng.ox.ac.uk"
+  link: "mailto:maomaohu@stanford.edu"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maomao-hu-3548ab1a6/
