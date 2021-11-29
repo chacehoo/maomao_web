@@ -85,16 +85,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "maomao.hu@eng.ox.ac.uk"
+email = "maomaohu@stanford.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "7 Keble Road", city = "Oxford", region = "Oxfordshire", postcode = "OX1 3QG", country = "United Kingdom", country_code = "UK"}
+address = {street = "Green Earth Sciences Bldg., 367 Panama St.", city = "Stanford", region = "California", postcode = "94305", country = "United States", country_code = "USA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.759992", longitude = "-1.258607"}
+coordinates = {latitude = "37.426945602193236", longitude = "-122.173537344999"}
 
 # Directions for visitors to locate you.
 directions = ""
