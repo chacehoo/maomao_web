@@ -5,12 +5,12 @@ name = "chace_theme_stanford"
 light = true
 
 # Primary (hightlight, cardinal red)
-primary = "\#8C1515"
+primary = "#8C1515"
 
 # Menu
-menu_primary = "\#820000"
+menu_primary = "#820000"
 menu_text = "#FFFFFF"
-menu_text_active = "\#006F54"
+menu_text_active = "#006F54"
 menu_title = "#FFFFFF"
 
 # Home sections
