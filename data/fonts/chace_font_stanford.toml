@@ -5,7 +5,7 @@ name = "chace_font_stanford"
 
 # google_fonts = "Nunito:300,400italic,700"
 
-google_fonts = "Source Sans Pro:200,400italic,700"
+google_fonts = "Source Sans Pro:100,400italic,700"
 
 # Default font
 
