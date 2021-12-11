@@ -2,7 +2,7 @@
 name = "chace_font_stanford"
 
 # Optional Google font URL
-# google_fonts = "Source Sans Pro:100, 400,700 | Nunito Sans: 100, 400, 700"
+google_fonts = "Source Sans Pro:100, 400,700 | Nunito Sans: 100, 400, 700 | Quicksand: 100, 400, 700"
 
 # Default font
 
