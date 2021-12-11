@@ -2,7 +2,7 @@
 name = "chace_font_1"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Nunito:300,400italic,700|Roboto+Mono"
+google_fonts = "Montserrat:400,700|Nunito:300,400italic,700|Roboto Mono"
 
 # Default font
 
