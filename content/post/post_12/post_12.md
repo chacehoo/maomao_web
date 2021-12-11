@@ -17,7 +17,7 @@ header:
 # image: "Stanford_campus.jpeg"   
 ---
 
-![stanford campus](Stanford_campus.jpeg)
+![stanford campus](Stanford campus.jpeg)
 
 
 
