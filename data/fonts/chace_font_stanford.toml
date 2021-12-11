@@ -2,7 +2,7 @@
 name = "chace_font_stanford"
 
 # Optional Google font URL
-google_fonts = "Source Sans Pro:100, 400,700"
+google_fonts = "Source Sans Pro:100, 400,700 | Nunito Sans: 100, 400, 700"
 
 # Default font
 
@@ -11,7 +11,7 @@ google_fonts = "Source Sans Pro:100, 400,700"
 # google_fonts = "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Source Sans Pro"
-body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
+heading_font = "Nunito Sans"
+body_font = "Nunito Sans"
+nav_font = "Nunito Sans"
 
