@@ -5,7 +5,7 @@ name = "chace_font_stanford"
 
 # google_fonts = "Nunito:300,400italic,700"
 
-google_fonts = "Roboto:100,400italic,700"
+google_fonts = "Source Sans Pro:200,400italic,700"
 
 # Default font
 
@@ -14,7 +14,7 @@ google_fonts = "Roboto:100,400italic,700"
 # google_fonts = "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Roboto"
-nav_font = "Roboto"
+heading_font = "Source Sans Pro"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
 
