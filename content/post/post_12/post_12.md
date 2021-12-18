@@ -17,7 +17,7 @@ header:
 # image: "Stanford_campus.jpeg"   
 ---
 
-![stanford campus](Stanford campus.jpeg)
+![stanford campus](/assets/images/Stanford campus.jpeg)
 
 
 
