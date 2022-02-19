@@ -19,7 +19,7 @@ header:
 ---
 
 
-Maomao Hu was profiled by the [**85th Anniversary Special Issue of PolyU Excel x Impact Magazine**](https://www.polyu.edu.hk/publications/excelximpact/issue/202112/education/polyu-phd-graduates-shine-in-academia)
+Maomao Hu was profiled by the [**85th Anniversary Special Issue of PolyU Excel x Impact Magazine**](https://www.polyu.edu.hk/publications/excelximpact/issue/202112/education/polyu-phd-graduates-shine-in-academia).
 
 
 
