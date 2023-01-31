@@ -3,7 +3,7 @@ title: Jan 2023 | New paper entitled "A novel forecast-based operation strategy 
 
 summary: Our recent research paper entitled "**A novel forecast-based operation strategy for residential PV-battery-flexible loads systems considering the flexibility of battery and loads**" was published in *Energy Conversion and Management*. 
 
-date: 2022-01-31
+date: 2023-01-31
 
 # View.
 #   1 = List
