@@ -1,6 +1,6 @@
 ---
-title: "Impacts of building load dispersion level on its load forecasting accuracy - Data or algorithms Importance of reliability and interpretability in machine learning"
-date: 2023-04-15
+title: "Impacts of building load dispersion level on its load forecasting accuracy: Data or algorithms? Importance of reliability and interpretability in machine learning"
+date: 2023-02-26
 authors: ["Maomao Hu", "Bruce Stephen", "Jethro Browell", "Stephen Haben", "David C.H. Wallom"]
 publication_types: ["2"]
 featured: false
