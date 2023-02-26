@@ -1,7 +1,7 @@
 ---
-title: Jan 2023 | New paper entitled "Impacts of building load dispersion level on its load forecasting accuracy: Data or algorithms Importance of reliability and interpretability in machine learning" was published in *Energy and buildings*!
+title: Jan 2023 | New paper entitled "Impacts of building load dispersion level on its load forecasting accuracy -  Data or algorithms Importance of reliability and interpretability in machine learning" was published in *Energy and buildings*.
 
-summary: Our recent research paper entitled "**Impacts of building load dispersion level on its load forecasting accuracy: Data or algorithms Importance of reliability and interpretability in machine learning**" was published in *Energy and Buildings*. 
+summary: Our recent research paper entitled "**Impacts of building load dispersion level on its load forecasting accuracy - Data or algorithms Importance of reliability and interpretability in machine learning**" was published in *Energy and Buildings*. 
 
 date: 2023-02-26
 
