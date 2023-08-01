@@ -4,6 +4,6 @@ date: 2023-04-25
 authors: ["Maomao Hu", "Ram Rajagopal", "Jacques A. de Chalendar"]
 publication_types: ["2"]
 featured: false
-publication: "*arXiv*"
-doi: "https://doi.org/10.48550/arXiv.2304.13175"
+publication: "*Energy and Buildings*"
+doi: "https://doi.org/10.1016/j.enbuild.2023.113339"
 ---
