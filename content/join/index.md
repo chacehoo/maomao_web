@@ -17,14 +17,14 @@ comments: false
 
 ## **Table of contents**
 ---
-1. [NUS and Our Lab](#about)
+1. [About NUS and Our Lab](#about)
 2. [Ph.D. Students](#phd)
     1. [PhD Requirements](#phd_requirements)
     2. [How to Apply](#how_to_apply)
 3. [Postdoctoral Researchers](#postdoc)
 4. [Visiting Students/Scholars](#visiting)
 
-## **NUS and Our Lab** <a name="about"></a>
+## **About NUS and Our Lab** <a name="about"></a>
 ---
 The National University of Singapore (NUS) is Singapore's flagship university, which offers a global approach to education, research and entrepreneurship. NUS holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was <span style="color:#EF7C00">**#8**</span> in the QS World University Rankings 2024, <span style="color:#EF7C00">**#19**</span> in the Times Higher Education (THE) World University Rankings 2024, <span style="color:#EF7C00">**#26**</span> in the US News 2022-2023 Best Global Universities Rankings. For subject rankings, NUS's engineering programs are ranked <span style="color:#EF7C00">**#8**</span> in the world in the latest THE World University Rankings 2023 by Subject. NUS's program of Built Environment is ranked <span style="color:#EF7C00">**#7**</span> in the QS World University Rankings by Subject 2023.
 
@@ -52,7 +52,7 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
 ### How to Apply  <a name="how_to_apply"></a>
-Prospective PhD students should send an email with the subject line `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
+Prospective PhD students should send an email with the subject line as `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on research experience
 * Transcripts from undergraduate or graduate studies
 * Contact information for 2-3 references.
