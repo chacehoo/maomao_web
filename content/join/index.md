@@ -19,7 +19,7 @@ comments: false
 ---
 1. [About NUS and Our Lab](#about)
 2. [Ph.D. Students](#phd)
-    1. [PhD Requirements](#phd_requirements)
+    1. [Requirements](#phd_requirements)
     2. [How to Apply](#how_to_apply)
 3. [Postdoctoral Researchers](#postdoc)
 4. [Visiting Students/Scholars](#visiting)
@@ -42,7 +42,7 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 * Graduate Record Examination (GRE) with minimum scores of 320 (Verbal & Quantitative Total) and 3.5 (Analytical); AND
 * TOEFL score of 85 for Internet Based Test (IBT); or IELTS (Academic) score of 6.0.
 
-(Note: Please check [<span style="color:#EF7C00">**here**</span>](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/) for more information on general requirements for PhD admission, including the validity period for GRE/TOEFL/IELTS)
+(Note: Please check [<span style="color:#EF7C00">**here**</span>](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/) for more information on general requirements for Ph.D. admission, including the validity period for GRE/TOEFL/IELTS)
 
 #### b) Specific requirements for Ph.D. admission in our BIOR lab
 * Strong foundation in heat and mass transfer, thermodynamics, applied mathematics, optimization and control, data science and machine learning, as well as an interest in applying these knowledge to building environment and energy systems;
@@ -52,7 +52,7 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
 ### How to Apply  <a name="how_to_apply"></a>
-Prospective PhD students should send an email with the subject line as `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
+Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on research experience
 * Transcripts from undergraduate or graduate studies
 * Contact information for 2-3 references.
