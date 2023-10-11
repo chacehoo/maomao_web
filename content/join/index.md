@@ -17,10 +17,11 @@ comments: false
 
 The National University of Singapore (NUS) is Singapore’s flagship university, which offers a global approach to education, research and entrepreneurship. The Institute holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was <span style="color:#EF7C00">**#8**</span> in the QS World University Rankings 2024, <span style="color:#EF7C00">**#19**</span> in the Times Higher Education (THE) World University Rankings 2024, <span style="color:#EF7C00">**#26**</span> in the US News 2022-2023 Best Global Universities Rankings. NUS’s engineering programs are ranked <span style="color:#EF7C00">**#8**</span> in the world in the latest THE World University Rankings 2023 by Subject. NUS‘s program of Built Environment is ranked <span style="color:#EF7C00">**#7**</span> in the QS World University Rankings by Subject 2023.
 
-## Table of contents
+## **Table of contents**
+---
 1. [Ph.D. Students](#phd)
-    a. [PhD Requirements](#phd_requirements)
-    b. [How to Apply](#how_to_apply)
+    1. [PhD Requirements](#phd_requirements)
+    2. [How to Apply](#how_to_apply)
 2. [Postdoctoral Researchers](#postdoc)
 3. [Visiting Students/Scholars](#visiting)
 
@@ -29,7 +30,12 @@ The National University of Singapore (NUS) is Singapore’s flagship university,
 Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the Department of the Built Environment at NUS warmly invites applications from students with backgrounds in Architectural Engineering (i.e., HVAC Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering, Electrical Engineering, or Applied Mathematics. We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from January 2024 or later**</span>.
 
 ### Requirements <a name="phd_requirements"></a>
+#### General requirment
+* Graduate Record Examination (GRE) with minimum scores of 320 (Verbal & Quantitative Total) and 3.5 (Analytical)
+* TOEFL score of 85 for Internet Based Test (IBT); or IELTS (Academic) score of 6.0.
+(Note: Please check **here** [🔗](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/) for more information on general requirements for PhD admission, including the validity period for GRE/TOEFL/IELTS)
 
+#### Applicants meeting any one or more of the following criteria will be prioritized:
 
 
 ### How to Apply  <a name="how_to_apply"></a>
