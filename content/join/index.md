@@ -42,7 +42,7 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 #### b) Specific requirements for Ph.D. admission in our BIOR lab
 * Strong foundation in heat and mass transfer, thermodynamics, applied mathematics, optimization and control, data science and machine learning, as well as an interest in applying these knowledge to building environment and energy systems;
 * Programming experience (e.g., Matlab, Python, C/C++, R);
-* Experience in related engineering software (e.g., EnergyPlus, TRNSYS, OpenStudio, FLUENT, LabVIEW) depending on the applied research projects.
+* Experience in related engineering software (e.g., EnergyPlus, TRNSYS, OpenStudio, FLUENT, LabVIEW) depending on the applied research projects;
 * Excellent spoken and written English language skills;
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
