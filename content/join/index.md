@@ -17,9 +17,10 @@ comments: false
 
 The National University of Singapore (NUS) is Singapore’s flagship university, which offers a global approach to education, research and entrepreneurship. The Institute holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was <span style="color:#EF7C00">**#8**</span> in the QS World University Rankings 2024, <span style="color:#EF7C00">**#19**</span> in the Times Higher Education (THE) World University Rankings 2024, <span style="color:#EF7C00">**#26**</span> in the US News 2022-2023 Best Global Universities Rankings. NUS’s engineering programs are ranked <span style="color:#EF7C00">**#8**</span> in the world in the latest THE World University Rankings 2023 by Subject. NUS‘s program of Built Environment is ranked <span style="color:#EF7C00">**#7**</span> in the QS World University Rankings by Subject 2023.
 
+## Table of contents
 1. [Ph.D. Students](#phd)
-    [PhD Requirements](#phd_requirements)
-    [How to Apply](#how_to_apply)
+    a. [PhD Requirements](#phd_requirements)
+    b. [How to Apply](#how_to_apply)
 2. [Postdoctoral Researchers](#postdoc)
 3. [Visiting Students/Scholars](#visiting)
 
