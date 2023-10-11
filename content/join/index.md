@@ -27,7 +27,7 @@ The National University of Singapore (NUS) is Singapore’s flagship university,
 
 ## 🎓 **Ph.D. Students** <a name="phd"></a>
 ---
-Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), College of Design and Engineering, National University of Singapore warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 
+Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), College of Design and Engineering, National University of Singapore warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. Please check the vision of our BIOR lab [here](https://maomaohu.net/#about). We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 
 
 ### Requirements <a name="phd_requirements"></a>
 #### a) General requirments for Ph.D. admission at NUS
@@ -42,7 +42,7 @@ Our <span style="color:#EF7C00">**Building Informatics and Operations Research (
 * Programming experience (e.g., Matlab, Python, C/C++, R);
 * Experience in related engineering software (e.g., EnergyPlus, TRNSYS, OpenStudio, FLUENT, LabVIEW) depending on the applied research projects.
 * Excellent spoken and written English language skills;
-* Critical thinking, problem-solving, communication skill, and more importantly, the collaborative spirit for working in a team environment.
+* Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
 ### How to Apply  <a name="how_to_apply"></a>
 Prospective PhD students should send an email with the subject line `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
