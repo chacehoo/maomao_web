@@ -15,7 +15,7 @@ comments: false
 ---
 ![NUS engineering](nus_engineering.png)
 
-The National University of Singapore (NUS) is Singapore’s flagship university, which offers a global approach to education, research and entrepreneurship. The Institute holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was <span style="color:#EF7C00">**#8**</span> in the QS World University Rankings 2024, <span style="color:#EF7C00">**#19**</span> in the Times Higher Education (THE) World University Rankings 2024, <span style="color:#EF7C00">**#26**</span> in the US News 2022-2023 Best Global Universities Rankings. NUS’s engineering programs are ranked <span style="color:#EF7C00">**#8**</span> in the world in the latest THE World University Rankings 2023 by Subject. NUS‘s program of Built Environment is ranked <span style="color:#EF7C00">**#7**</span> in the QS World University Rankings by Subject 2023.
+The National University of Singapore (NUS) is Singapore's flagship university, which offers a global approach to education, research and entrepreneurship. NUS holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was <span style="color:#EF7C00">**#8**</span> in the QS World University Rankings 2024, <span style="color:#EF7C00">**#19**</span> in the Times Higher Education (THE) World University Rankings 2024, <span style="color:#EF7C00">**#26**</span> in the US News 2022-2023 Best Global Universities Rankings. For subject rankings, NUS's engineering programs are ranked <span style="color:#EF7C00">**#8**</span> in the world in the latest THE World University Rankings 2023 by Subject. NUS's program of Built Environment is ranked <span style="color:#EF7C00">**#7**</span> in the QS World University Rankings by Subject 2023.
 
 ## **Table of contents**
 ---
@@ -27,7 +27,9 @@ The National University of Singapore (NUS) is Singapore’s flagship university,
 
 ## 🎓 **Ph.D. Students** <a name="phd"></a>
 ---
-Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), College of Design and Engineering, National University of Singapore warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. Please check the vision of our BIOR lab [here](https://maomaohu.net/#about). We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 
+Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/), College of Design and Engineering, National University of Singapore warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. Please check the vision of our BIOR lab [here](https://maomaohu.net/#about). 
+
+We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
 
 ### Requirements <a name="phd_requirements"></a>
 #### a) General requirments for Ph.D. admission at NUS
@@ -46,7 +48,7 @@ Our <span style="color:#EF7C00">**Building Informatics and Operations Research (
 
 ### How to Apply  <a name="how_to_apply"></a>
 Prospective PhD students should send an email with the subject line `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
-* CV/Resume in English
+* CV/Resume in English with an emphasis on research experience
 * Transcripts from undergraduate or graduate studies
 * Contact information for 2-3 references.
 * Other materials demonstrating research and work capabilities (e.g., published papers as the first author, papers in preparation, project reports, etc.)
