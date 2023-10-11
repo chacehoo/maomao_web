@@ -279,4 +279,5 @@ plugins_js  = []
 ## Content Management System
 ############################
 
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+## change the margin of page
+plugins_css = ["custom"]
