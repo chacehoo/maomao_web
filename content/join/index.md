@@ -27,21 +27,23 @@ The National University of Singapore (NUS) is Singapore’s flagship university,
 
 ## 🎓 **Ph.D. Students** <a name="phd"></a>
 ---
-Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the Department of the Built Environment at NUS warmly invites applications from students with backgrounds in Architectural Engineering (i.e., HVAC Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering, Electrical Engineering, or Applied Mathematics. We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from January 2024 or later**</span>.
+Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> Lab in the Department of the Built Environment at NUS warmly invites applications from students with backgrounds in Architectural Engineering (i.e., HVAC Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. We are currently looking for <span style="color:#EF7C00">**2-3**</span> Ph.D. students to join our team <span style="color:#EF7C00">**starting from January 2024 or later**</span>.
 
 ### Requirements <a name="phd_requirements"></a>
----
 #### a) General admission requirments
 * Graduate Record Examination (GRE) with minimum scores of 320 (Verbal & Quantitative Total) and 3.5 (Analytical)
 * TOEFL score of 85 for Internet Based Test (IBT); or IELTS (Academic) score of 6.0.
 
-(Note: Please check **here** [🔗](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/) for more information on general requirements for PhD admission, including the validity period for GRE/TOEFL/IELTS)
+(Note: Please check [<span style="color:#EF7C00">**here**</span>](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/) for more information on general requirements for PhD admission, including the validity period for GRE/TOEFL/IELTS)
 
-#### b) Applicants meeting any one or more of the following criteria will be prioritized:
-
+#### b) Applicants meeting the following criteria will be prioritized:
+* Strong foundation in heat and mass transfer, thermodynamics, applied mathematics, optimization and control, data science and machine learning, as well as an interest in applying these knowledge to building environment and energy systems;
+* Programming experience (e.g., Matlab, Python, C/C++, R);
+* Experience in engineering software (e.g., EnergyPlus, TRNSYS, OpenStudio, FLUENT) depending on the applied research projects.
+* Good English verbal and written communication skills;
+* Critical thinking, problem-solving, and more importantly, the collaborative spirit for working in a team environment.
 
 ### How to Apply  <a name="how_to_apply"></a>
----
 Prospective students should send an email with the subject line `Prospective_PhD_{First Name}_{Family Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English
 * Transcripts from undergraduate or graduate studies
