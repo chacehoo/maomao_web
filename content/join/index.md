@@ -32,7 +32,7 @@ Our <span style="color:#EF7C00">**Building Informatics and Operations Research (
 
 ## 🎓 **Ph.D. Students** <a name="phd"></a>
 ---
-We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend, tuition, health insurance, and conference travel will be covered for this position for 4 years. Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
+We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
 
 ### Requirements <a name="phd_requirements"></a>
 #### a) General requirments for Ph.D. admission at NUS
