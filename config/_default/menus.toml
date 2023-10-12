@@ -32,10 +32,10 @@
   url = "publication/"     #direct to a page rather than a widget in home page
   weight = 40
 
-[[main]]
-  name = "Gallery"
-  url = "gallery/"
-  weight = 50
+#[[main]]
+#  name = "Gallery"
+#  url = "gallery/"
+#  weight = 50
 
 [[main]]
   name = "Join Us!"
