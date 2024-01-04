@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: "https://profiles.stanford.edu/maomao-hu"
+- name: National University of Singapore
+  url: "https://cde.nus.edu.sg/dbe/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principle Investigator
 ---
 
 >UPDATE: I will be joining the National University of Singapore as an Assistant Professor in the Department of the Built Environment from January 2024, leading the <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR) Lab**</span>. I am currently looking for 2-3 Ph.D. students. Please check [<span style="color:#EF7C00">**Join Us**</span>](https://maomaohu.net/join/) page for more info.
