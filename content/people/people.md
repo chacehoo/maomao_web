@@ -7,16 +7,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "People"
+title = "Lab members"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigator",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
+                 "PhD Students",
                  "Visitors",
                  "Alumni"]
 
