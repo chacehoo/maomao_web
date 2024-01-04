@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principle Investigator
+- Principal Investigator
 ---
 
 >UPDATE: I will be joining the National University of Singapore as an Assistant Professor in the Department of the Built Environment from January 2024, leading the <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR) Lab**</span>. I am currently looking for 2-3 Ph.D. students. Please check [<span style="color:#EF7C00">**Join Us**</span>](https://maomaohu.net/join/) page for more info.
