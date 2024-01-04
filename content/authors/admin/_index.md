@@ -18,7 +18,6 @@ organizations:
   url: "https://cde.nus.edu.sg/dbe/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
 
 # interests:
 #- Artificial Intelligence
