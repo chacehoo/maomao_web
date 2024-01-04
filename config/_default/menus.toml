@@ -8,6 +8,11 @@
   weight = 10
 
 [[main]]
+  name = "People"
+  url = "people/"
+  weight = 15
+
+[[main]]
   name = "News"
   url = "post/"
   weight = 20
