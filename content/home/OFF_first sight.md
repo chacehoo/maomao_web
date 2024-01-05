@@ -14,14 +14,18 @@ design:
   columns: "1"
   background:
     image: web_first_sight.png
-    image_darken: 0.5
+    image_darken: 0.1
     image_parallax: false
     image_position: center
     image_size: cover
-    text_color_light: ture
+    text_color_light: true
   spacing:
 
     padding: ["350px", "0", "350px", "0"]
 ---
 
-Creating sustainable technologies for building and urban energy systems at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
+# Creating sustainable technologies for building and urban energy systems at the interface of Building Energy and Environment Engineering, Computer Science, and Control Engineering.
+
+Building Informatics and Operations Research (BIOR) Lab
+National University of Singapore
+[Maomao Hu](https://maomaohu.net/author/maomao-hu/)
