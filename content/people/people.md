@@ -3,7 +3,7 @@
 widget: people
 headless: true
 weight: 68
-title: Lab members
+title: 
 subtitle:
 
 content:
