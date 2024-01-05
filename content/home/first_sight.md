@@ -31,4 +31,4 @@ design:
 
 Developing sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
 
->UPDATE: We are currently looking for Ph.D. students. Please check [<span style="color:#EF7C00">**Join Us**</span>](https://maomaohu.net/join/) page for more info.
+>We are currently looking for Ph.D. students. Please check [<span style="color:#EF7C00">**Join Us**</span>](https://maomaohu.net/join/) page for more info.
