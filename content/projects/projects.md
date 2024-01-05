@@ -86,4 +86,3 @@ flip_alt_rows = false
  # CSS class.
  css_class = ""
 +++
-
