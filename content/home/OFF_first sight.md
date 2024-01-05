@@ -13,18 +13,21 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: web_first_sight_2.png
+    image: web_first_sight_3.png
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["350px", "0", "350px", "0"]
+    padding: ["500px", "0", "350px", "500px"]
 ---
 
-Building Informatics and Operations Research (BIOR) Lab
+**Building Informatics and Operations Research (BIOR) Lab**
 
-National University of Singapore
+**National University of Singapore**
 
 [Maomao Hu](https://maomaohu.net/author/maomao-hu/)
+
+Develop sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
+
