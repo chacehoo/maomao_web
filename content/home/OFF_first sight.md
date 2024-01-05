@@ -20,12 +20,12 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["200px", "100px", "200px", "100px"]   # Order is top, right, bottom, left.
+    padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
 ---
 
-**<font size="6">Building Informatics and Operations Research (BIOR) Lab</font>**
+<font size="6">Building Informatics and Operations Research (BIOR) Lab</font>
 
-**<font size="6">National University of Singapore</font>**
+<font size="6">National University of Singapore</font>
 
 [Maomao Hu](https://maomaohu.net/author/maomao-hu/)
 
