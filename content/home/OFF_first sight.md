@@ -14,7 +14,7 @@ design:
   columns: "1"
   background:
     image: web_first_sight_3.png
-    image_darken: 0
+    image_darken: 0.1
     image_parallax: false
     image_position: center
     image_size: cover
