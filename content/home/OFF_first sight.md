@@ -20,10 +20,10 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["200px", "0", "200px", "0"]   # Order is top, right, bottom, left.
+    padding: ["200px", "50px", "200px", "50px"]   # Order is top, right, bottom, left.
 ---
 
-**<font size="7">Building Informatics and Operations Research (BIOR) Lab</font>**
+**<font size="5">Building Informatics and Operations Research (BIOR) Lab</font>**
 
 **<font size="5">National University of Singapore</font>**
 
