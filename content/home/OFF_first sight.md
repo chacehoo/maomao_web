@@ -13,7 +13,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: digital_building_1.png
+    image: web_first_sight.png
     image_darken: 0.5
     image_parallax: false
     image_position: center
