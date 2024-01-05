@@ -20,31 +20,31 @@ subtitle = ""
 # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-filter_default = 0
+# filter_default = 0
 
-[[content.filter_button]]
-name = "All"
-tag = "*"
+# [[content.filter_button]]
+# name = "All"
+# tag = "*"
 
-[[content.filter_button]]
-name = "Data Analytics"
-tag = "Data Analytics"
+# [[content.filter_button]]
+# name = "Data Analytics"
+# tag = "Data Analytics"
 
-[[content.filter_button]]
-name = "Modelling"
-tag = "Data-driven Modelling"
+# [[content.filter_button]]
+# name = "Modelling"
+# tag = "Data-driven Modelling"
 
-[[content.filter_button]]
-name = "Optimisation"
-tag = "Optimisation"
+# [[content.filter_button]]
+# name = "Optimisation"
+# tag = "Optimisation"
 
-[[content.filter_button]]
-name = "MPC"
-tag = "MPC"
+# [[content.filter_button]]
+# name = "MPC"
+# tag = "MPC"
 
-[[content.filter_button]]
-name = "Uncertainty"
-tag = "Uncertainty"
+# [[content.filter_button]]
+# name = "Uncertainty"
+# tag = "Uncertainty"
 
 [design]
 
@@ -59,7 +59,7 @@ tag = "Uncertainty"
   view = 5
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = false
+flip_alt_rows = true
 
 [design.background]
 # Apply a background color, gradient, or image.
