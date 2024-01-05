@@ -20,7 +20,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["500px", "0", "350px", "500px"]
+    padding: ["500px", "0", "500px", "0"]
 ---
 
 **Building Informatics and Operations Research (BIOR) Lab**
@@ -30,4 +30,3 @@ design:
 [Maomao Hu](https://maomaohu.net/author/maomao-hu/)
 
 Develop sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
-
