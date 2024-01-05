@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
 
-  # Page type to display. E.g. project.
+# Page type to display. E.g. project.
   page_type = "project"
 
 # Filter toolbar (optional).
