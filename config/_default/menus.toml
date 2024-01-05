@@ -19,7 +19,7 @@
 
 #[[main]]
 #  name = "Reasearch"
-#  url = "#research_methods"
+#  url = "research/"
 #  weight = 25
 
 [[main]]
