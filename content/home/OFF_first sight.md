@@ -20,7 +20,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["500px", "0", "500px", "0"]
+    padding: ["0px", "0", "0px", "0"]
 ---
 
 **Building Informatics and Operations Research (BIOR) Lab**
