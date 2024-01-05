@@ -13,7 +13,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: web_first_sight_3.png
+    image: web_first_sight_4.png
     image_darken: 0.1
     image_parallax: false
     image_position: center
@@ -29,4 +29,4 @@ design:
 
 [Maomao Hu](https://maomaohu.net/author/maomao-hu/)
 
-Develop sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
+Developing sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
