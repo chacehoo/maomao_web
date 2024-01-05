@@ -1,0 +1,26 @@
+# Theme metadata
+name = "chace_theme_1"
+
+# Is theme light or dark?
+light = true
+
+# Primary (hightlight)
+primary = "#890C58"
+
+# primary = "#041E42"
+
+# B30606 (maroon)
+
+# #006633(dark green)
+
+# 030303 (Black)
+
+# Menu
+menu_primary = "#041E42"
+menu_text = "#FFFFFF"
+menu_text_active = "#FF9E1B"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
