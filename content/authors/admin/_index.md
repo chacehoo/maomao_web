@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assitant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: "https://profiles.stanford.edu/maomao-hu"
+- name: National University of Singapore
+  url: "https://cde.nus.edu.sg/dbe/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 >UPDATE: I will be joining the National University of Singapore as an Assistant Professor in the Department of the Built Environment from January 2024, leading the <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR) Lab**</span>. I am currently looking for 2-3 Ph.D. students. Please check [<span style="color:#EF7C00">**Join Us**</span>](https://maomaohu.net/join/) page for more info.
@@ -77,4 +76,3 @@ Hi, I am a Postdoctoral Scholar in the Department of Energy Science and Engineer
 My research aims at developing sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. To achieve this overarching goal, I employs a multifaceted approach that encompasses data analytics & machine learning, physics-based modeling & simulation, optimization & model-based optimal controls, and experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale. 
 
 I have also been actively contributing to international collaborations, including the ongoing [IEA EBC Annex 81](https://annex81.iea-ebc.org/) (Data-Driven Smart Buildings) and [Annex 82](https://annex82.iea-ebc.org/) (Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems).
-
