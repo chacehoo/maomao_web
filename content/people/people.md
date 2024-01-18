@@ -2,7 +2,7 @@
 # An instance of the People widget.
 widget: people
 headless: true
-weight: 68
+weight: 20
 title: 
 subtitle:
 
