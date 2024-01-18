@@ -22,3 +22,5 @@ design:
   spacing:
     padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
 ---
+
+**<div style="text-align: center"><font size="7">Our Team</font> </div>**
