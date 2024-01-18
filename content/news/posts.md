@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear. Note that the location is determined by this value not the weight in "menu.toml"
 
-title = "News & Updates"
+title = ""
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 10
+  count = 50
 
   # Choose how many pages you would like to offset by
   offset = 0
