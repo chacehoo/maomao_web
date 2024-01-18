@@ -14,7 +14,7 @@ design:
   columns: "1"
   background:
     image: people_first_sight.jpeg
-    image_darken: 0.1
+    image_darken: 0.3
     image_parallax: false
     image_position: center
     image_size: cover
@@ -23,4 +23,4 @@ design:
     padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
 ---
 
-**<div style="text-align: center"><font size="7">Our Team</font> </div>**
+**<div style="text-align: center"><font size="7">Team</font> </div>**
