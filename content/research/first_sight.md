@@ -22,3 +22,5 @@ design:
   spacing:
     padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
 ---
+
+Research
