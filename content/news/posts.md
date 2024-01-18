@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 50
+  count = 0
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -35,14 +35,14 @@ subtitle = ""
 [design]
 
 # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = 1
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -62,7 +62,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
- text_color_light = false  
+   text_color_light = false  
 
 [advanced]
  # Custom CSS. 
