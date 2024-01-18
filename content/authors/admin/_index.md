@@ -43,9 +43,6 @@ bio:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # ai icons see https://jpswalsh.github.io/academicons/
 social:
-- icon: person
-  icon_pack: fas
-  link: https://cde.nus.edu.sg/dbe/staff/hu-maomao-dr/
 - icon: envelope
   icon_pack: fas
   link: "mailto:maomaohu@stanford.edu"
