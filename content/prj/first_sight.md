@@ -13,7 +13,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: projects_first_sight.png
+    image: projects_first_sight.jpeg
     image_darken: 0.1
     image_parallax: false
     image_position: center
