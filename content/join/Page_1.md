@@ -44,8 +44,8 @@ Prospective Ph.D. students should send an email with the subject line as `Prospe
 * Contact information for 2-3 references.
 * Other materials demonstrating research and work capabilities (e.g., published papers as the first author, papers in preparation, project reports, etc.)
 
+Strong applicants will be contacted asap for a Zoom interview. All applicants must meet NUS's graduate admission requirements. 
+
 ### Current and past openings
 
-We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)).
-
-Candidates need to submit their complete application by <span style="color:#EF7C00">**Jan. 1, 2024**</span> for the admission in Fall 2024. Strong applicants will be contacted asap for a Zoom interview. All applicants must meet NUS's graduate admission requirements. 
+We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Candidates need to submit their complete application by <span style="color:#EF7C00">**Jan. 1, 2024**</span> for the admission in Fall 2024. 
