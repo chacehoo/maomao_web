@@ -19,8 +19,8 @@ Our <span style="color:#EF7C00">**Building Informatics and Operations Research (
 Currently, our lab is focusing on:
 - Low-carbon building technologies for energy efficiency, flexibility, and climate resilience
 - Grid-interactive smart buildings and communities
-- Modelling, optimization, and optimal control of building, district, and urban energy systems
-- Modelling, optimization, and optimal control of HVAC&R systems
+- Modelling, estimation, optimization, and control of building, district, and urban energy systems
+- Modelling, estimation, optimization, and control of HVAC&R systems
 - Data analytics and machine learning for buildings
 - Uncertainty analysis for buildings
 - Occupant behavior in buildings
