@@ -13,9 +13,9 @@ comments: false
 # caption: ""  
 # image: "" 
 ---
-We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
+We warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. 
 
-### Requirements <a name="phd_requirements"></a>
+### Requirements
 #### a) General requirments for Ph.D. admission at NUS
 * A relevant Bachelor's or Master's degree with honours at least Second Class Upper or its equivalent;
 * Graduate Record Examination (GRE) with minimum scores of 320 (Verbal & Quantitative Total) and 3.5 (Analytical);
@@ -30,11 +30,15 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 * Excellent spoken and written English language skills;
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
-### How to Apply  <a name="how_to_apply"></a>
+### How to Apply
 Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@nus.edu.sg</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on research experience
 * Transcripts from undergraduate or graduate studies
 * Contact information for 2-3 references.
 * Other materials demonstrating research and work capabilities (e.g., published papers as the first author, papers in preparation, project reports, etc.)
+
+### Current and past openings
+
+We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
 
 Candidates need to submit their complete application by <span style="color:#EF7C00">**Jan. 1, 2024**</span> for the admission in Fall 2024. Strong applicants will be contacted asap for a Zoom interview. All applicants must meet NUS's graduate admission requirements. 
