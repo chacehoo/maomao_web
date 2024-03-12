@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News and Updates | BIOR Lab | Maomao Hu</title>
+    <link>https://maomaohu.net/post/</link>
+      <atom:link href="https://maomaohu.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News and Updates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020-2024 Maomao Hu</copyright><lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maomaohu.net/images/logo.svg</url>
+      <title>News and Updates</title>
+      <link>https://maomaohu.net/post/</link>
+    </image>
+    
+    <item>
+      <title>Jan 2024 | The BIOR Lab launched at National University of Singapore!</title>
+      <link>https://maomaohu.net/post/post_26/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_26/</guid>
+      <description>&lt;p&gt;The BIOR Lab officially launched at NUS in Jan 2024. We are looking forward to working with great colleagues and talented students at NUS!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oct. 2023 | New paper entitled &#34;Developing energy flexibility in clusters of buildings - a critical analysis of barriers from planning to operation&#34; was published in *Energy and buildings*.</title>
+      <link>https://maomaohu.net/post/post_25_paper/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_25_paper/</guid>
+      <description>&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://doi.org/10.1016/j.enbuild.2023.113608&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many thanks to Jérôme and Rui for the leadership and making it happen. This paper is a good contribution to our 
+&lt;a href=&#34;https://annex82.iea-ebc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEA EBC Annex 82&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oct 2023 | A talk was given to the ZERO Institute, Department of Engineering Science, University of Oxford, UK.</title>
+      <link>https://maomaohu.net/post/post_24_talk/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_24_talk/</guid>
+      <description>&lt;p&gt;A talk was given to the Department of Engineering Science, University of Oxford, UK. The talk was entitled &amp;ldquo;Decarbonisation of Building and Urban Energy Systems: A Multiscale Data-driven Approach&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>August 2023 | A talk was given to the Department of the Built Environment, National University of Singapore.</title>
+      <link>https://maomaohu.net/post/post_23_talk/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_23_talk/</guid>
+      <description>&lt;p&gt;A talk was given to the Department of the Built Environment, National University of Singapore, Singapore. The talk was entitled &amp;ldquo;Decarbonization of Building and Urban Energy Systems: A Multiscale Data-driven Approach&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>July 2023 | A talk was given on 2023 International Summer School on Exploring Pathways for Low-Carbon Buildings, University of Shanghai for Science and Technology, Shanghai, China.</title>
+      <link>https://maomaohu.net/post/post_22_talk/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_22_talk/</guid>
+      <description>&lt;p&gt;A talk was given on 2023 International Summer School on Exploring Pathways for Low-Carbon Buildings, hosted by the University of Shanghai for Science and Technology, Shanghai, China. The talk was entitled &amp;ldquo;Decarbonization of Building and Urban Energy Systems: A Multiscale Data-driven Approach&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>July 2023 | New paper entitled &#34;Empirical Exploration of Zone-by-zone Energy Flexibility - a Non-intrusive Load Disaggregation Approach for Commercial Buildings&#34; was published in *Energy and buildings*.</title>
+      <link>https://maomaohu.net/post/post_21_paper/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_21_paper/</guid>
+      <description>&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://doi.org/10.1016/j.enbuild.2023.113339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Excited to share our latest research on empirical exploration of zone-by-zone energy flexibility in commercial buildings. Coauthored with Jacques de Chalendar and Ram Rajagopal, our study combines repetitive demand response experimentation in multiple buildings with an experimental-data-driven non-intrusive load disaggregation approach.&lt;/p&gt;
+&lt;p&gt;The core idea revolves around developing a ‘virtual’ zonal power meter, providing high-granular insights into room-level energy use and energy flexibility, backed by real-world experimental data.&lt;/p&gt;
+&lt;p&gt;Among the key findings, we discovered that a small number of rooms accounted for a significant portion of energy use and energy flexibility, and surprisingly, the most energy-intensive rooms were not necessarily the most energy-flexible ones. For the three tested buildings, the top 30% of most energy-flexible zones provided around 80% of the total energy flexibility.&lt;/p&gt;
+&lt;p&gt;The tools we developed are poised to empower electric grid or district energy system operators to view the controlled energy-flexible entities as a fleet of zones rather than a fleet of buildings, unlocking the potential for targeted demand flexibility strategies that balance zone-by-zone energy reduction with zone-by-zone costs to occupants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>June 2023 | A talk was given to the Texas A&amp;M University, College Station, TX.</title>
+      <link>https://maomaohu.net/post/post_20_talk/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_20_talk/</guid>
+      <description>&lt;p&gt;A talk was given to the Texas A&amp;amp;M University, College Station, TX, on &amp;ldquo;Decarbonization of Building and Urban Energy Systems: A Multiscale Data-driven Approach&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>March 2023 | A talk was given to the Institute of Refrigeration and Cryogenics at Zhejiang University, China.</title>
+      <link>https://maomaohu.net/post/post_19_talk/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_19_talk/</guid>
+      <description>&lt;p&gt;A talk was given to the Institute of Refrigeration and Cryogenics at Zhejiang University, China on &amp;ldquo;Decarbonization of Building and Urban Energy Systems: A Multiscale Data-driven Approach&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feb 2023 | New paper entitled &#34;Impacts of building load dispersion level on its load forecasting accuracy -  Data or algorithms Importance of reliability and interpretability in machine learning&#34; was published in *Energy and buildings*.</title>
+      <link>https://maomaohu.net/post/post_18_paper/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_18_paper/</guid>
+      <description>&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://doi.org/10.1016/j.enbuild.2023.112896&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Why does Building X have higher forecast accuracy than Building Y? What is the major factor contributing to the high forecast accuracy of Building X? DATA or ALGORITHMS? Regarding DATA, what building load characteristics affect the forecast accuracy and how can we quantify this influential factor? Regarding ALGORITHMS, what algorithms are more likely to outperform others in the field of building load forecasting? Do deep learning models outperform conventional &amp;ldquo;shallow&amp;rdquo; machine learning models? What model is the feasible model for benchmarking?&lt;/p&gt;
+&lt;p&gt;To shed some light on these questions and improve the RELIABILITY and INTERPRETABILITY of ML techniques, we examined the impacts of building load dispersion level on its best load forecasting accuracy. This was accomplished by comparing the performances of 11 different prediction models, including “shallow” machine learning and deep learning techniques, over 9 weeks of operation for 56 British non-domestic buildings. Two key takeaways are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Each building has its best achievable forecasting performance and most importantly, it is largely influenced by its load dispersion level. In our study, we proposed novel metrics to quantify the dispersion level of building intraday load profiles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is not a panacea-like individual model for all building load forecasting problems. A complex model structure does not guarantee a higher forecasting performance. We find that conventional “shallow” ML models still outperform the increasingly popular deep learning models for time-series load forecasting. We also demonstrate that the naive persistent model is not naive at all after a long period of testing and it is recommended to be used as the benchmarking model in the building load forecasting problem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thrilled to see my last piece of work at Oxford finally coming out. Many thanks to our co-authors without whom it would not be possible to put together this work: Bruce Stephen, Jethro Browell, Stephen Haben, and David Wallom.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jan 2023 | New paper entitled &#34;A novel forecast-based operation strategy for residential PV-battery-flexible loads systems considering the flexibility of battery and loads&#34; was published in *Energy Conversion and Management*!</title>
+      <link>https://maomaohu.net/post/post_17_paper/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_17_paper/</guid>
+      <description>&lt;p&gt;Our recent research paper entitled &amp;ldquo;&lt;strong&gt;A novel forecast-based operation strategy for residential PV-battery-flexible loads systems considering the flexibility of battery and loads&lt;/strong&gt;&amp;rdquo; was published in &lt;em&gt;Energy Conversion and Management&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Many thanks to Zhengyi and Prof. Jinqing Peng for leading this collaboration.&lt;/p&gt;
+&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://doi.org/10.1016/j.enconman.2023.116705&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Leveraging the flexibility of static batteries and residential flexible loads is an effective way to reduce the impacts of intermittent renewable energy power generation on the utility grid. However, there is lack of proper operation strategies to manage these distributed energy resources. To address this problem, a novel forecasting and flexibility-based operation strategy was proposed for the photovoltaic-battery-flexible loads (PV-battery-FL) system of a single household. Compared with the traditional maximizing self-consumption and time-of-use strategies, the proposed strategy fully harnesses the flexibility of batteries and residential flexible loads, and is more grid-friendliness to the utility grid. To assess the performance of the PV-battery-FL system under the proposed strategy, a comprehensive evaluation framework was developed considering the economic and environmental performance, PV self-consumption, zero energy potential, and impacts on the utility grid. The effectiveness of the forecasting and flexibility-based strategy was validated by case studies given various scenarios. Results indicate that the proposed strategy performs better than the maximizing self-consumption and time-of-use strategies. Especially, the average ramping index reduction ratio of the forecasting and flexibility-based strategy was improved by 105.1% and 60.9%; the maximum power fed into the utility grid was decreased by 50.3%, compared with the maximizing self-consumption and time-of-use strategies for the PV-battery-FL system. When the feed-in limitation exists, the forecasting and flexibility-based strategy can also reduce the cut-off energy significantly. This study can provide guidance for the demand-side management of the battery and flexible loads of residential PV-battery-FL systems in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aug 2022 | New paper entitled &#34;Stochastic modelling of flexible load characteristics of split-type air conditioners using grey-box modelling and random forest method&#34; was published in *Energy and Buildings*!</title>
+      <link>https://maomaohu.net/post/post_16_paper/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_16_paper/</guid>
+      <description>&lt;p&gt;Our recent research paper entitled &amp;ldquo;&lt;strong&gt;Stochastic modelling of flexible load characteristics of split-type air conditioners using grey-box modelling and random forest method&lt;/strong&gt;&amp;rdquo; was published in &lt;em&gt;Energy and Buildings&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Many thanks to Zhihao and Prof. Jinqing Peng for leading this collaboration.&lt;/p&gt;
+&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://doi.org/10.1016/j.enbuild.2022.112370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Split-type air conditioners (ACs) are the major contributors to the total electricity use and peak power demand in residential buildings due to their high penetration. Accurate prediction of their energy consumption plays a significant role in demand side management (DSM), because it can help exploit the demand response (DR) potential
+of these ACs fully. However, the existing studies on the load characteristics modelling of split-type ACs are still not comprehensive, especially in the consideration of occupant behavior and appliance characteristics. To solve this problem, this study has developed a novel flexible load characteristics model by combining the stochastic method, grey-box modelling (i.e., equivalent thermal parameter (ETP) model) and random forest method. The stochastic method can help capture the dynamic occupants’ energy-related behaviors considering various family structures. Random forest can address the difficulties in simulating the power characteristics of variable-speed ACs under various operating conditions. With the prediction error of 2.8%, the proposed model can effectively characterize the energy performance of split-type ACs at both individual and aggregate levels. To better show the load flexibility of ACs, an investigation on DR potential of split-type ACs was also carried out by resetting temperature setpoints. The result showed that the maximum DR potentials at the scope of 1000 aggregated households are 394.54 kWh and 323.82 kWh on weekdays and weekends, respectively. The developed flexible load characteristics model of ACs can be used by utility companies for DR potential assessment and model-based DR control for a single household or building clusters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mar 2022 | A talk was given at ERE Graduate Seminar at Stanford.</title>
+      <link>https://maomaohu.net/post/post_15/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_15/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ERE Seminar - Maomao Hu: &amp;ldquo;Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;WHEN: Monday, March 7 2022, 12:15 pm&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SPONSOR:Energy Resources Engineering&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Today’s building and urban energy systems are not only energy-intensive but also data-intensive due to the advances in information and communications technology. How can we extract actionable information and knowledge from large volumes of operational data using advanced data analytics? More importantly, how can the extracted information be further used for data-driven modelling (grey/black-box) and advanced model-based control to make building and urban energy systems low-carbon, energy-efficient, energy-flexible, and resilient against climate-induced extreme weather events? This talk aims to unpack these questions and spark reflection on the topic of data analytics-based techniques for building and urban energy systems.&lt;/p&gt;
+&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Dr. Maomao Hu is a postdoctoral researcher in the Department of Energy Resources Engineering at Stanford University since November 2021. Prior to joining Stanford, he was a postdoc in the Department of Engineering Science at the University of Oxford for two years. He received his PhD degree in Building Environment and Energy Engineering from the Hong Kong Polytechnic University in 2019. In 2018, he studied as a guest PhD student in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. His research interests include data analytics, data-driven modelling, numerical optimization, and model predictive control of the building and urban energy systems for GHG emission reduction, energy efficiency, energy flexibility, and energy resiliency. He has been actively contributing to international collaborations, including the ongoing IEA EBC Annex 81 (Data-Driven Smart Buildings) and Annex 82 (Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feb 2022 | Maomao Hu was profiled by the 85th Anniversary Special Issue of PolyU Excel x Impact Magazine.</title>
+      <link>https://maomaohu.net/post/post_14/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_14/</guid>
+      <description>&lt;p&gt;Maomao Hu was profiled by the 
+&lt;a href=&#34;https://www.polyu.edu.hk/publications/excelximpact/issue/202112/education/polyu-phd-graduates-shine-in-academia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;85th Anniversary Special Issue of PolyU Excel x Impact Magazine&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jan 2022 | Our new paper entitled &#34;Probabilistic electrical load forecasting for buildings using Bayesian deep neural networks&#34; was published in *Journal of Building Engineering*!</title>
+      <link>https://maomaohu.net/post/post_13/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_13/</guid>
+      <description>&lt;p&gt;Our recent research paper entitled &amp;ldquo;&lt;strong&gt;Probabilistic electrical load forecasting for buildings using Bayesian deep neural networks&lt;/strong&gt;&amp;rdquo; was published in &lt;em&gt;Journal of Building Engineering&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Many thanks to Dr. Lei Xu for leading this collaboration.&lt;/p&gt;
+&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S2352710221017113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Deep learning techniques are increasingly applied in building electrical load analysis thanks to the enrichment of information-intensive sensory data. However, uncertainty is seldom considered among existing deep learning models. This study proposes three Bayesian deep neural network models for probabilistic building electrical load forecasting. Three prevalent deep neural networks (recurrent neural network (RNN), long short-term memory (LSTM), and gated recurrent unit (GRU)) are utilized for model development. In each model, the dropout technique is implemented as a variational Bayesian approximation to quantify two types of model uncertainties: aleatoric and epistemic uncertainty. Performances of the proposed models are evaluated using real data. The results showed that all the proposed three models achieved satisfactory performances and the Bayesian LSTM (BLSTM) model achieved the best performance with up to 15.4% mean absolute percentage error reduction than the baseline model. It was also found that the weather variables were not necessary inputs for Bayesian deep neural network models. The impacts of the input time lags and forecasting horizons on load forecasting accuracies were also investigated. It was found that the BLSTM model could derive decent model performances with only 10 h lagged electrical loads and achieve satisfactory accuracies for the 1-day ahead load forecasting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nov 2021 | New journey in Dept. of Energy Resources Engineering at Stanford University!</title>
+      <link>https://maomaohu.net/post/post_12/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_12/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://maomaohu.net/img/Stanford_campus.jpeg&#34; alt=&#34;stanford campus&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After 2ish years at the University of Oxford as a postdoc, I’m excited to share that I am joining Stanford University this week as a postdoc for the COOLER project, whose goal is to enable low-carbon, electrified district energy systems using Stanford campus as a real-life testbed.&lt;/p&gt;
+&lt;p&gt;I would like to thank Prof. 
+&lt;a href=&#34;https://eng.ox.ac.uk/people/david-wallom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Wallom&lt;/a&gt; and other group members at Oxford for truly allowing me to grow and helping me flourish in my role. It’s been a great pleasure working with them, and I am proud of what I have accomplished at Oxford during the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;At Stanford, I will be working with 
+&lt;a href=&#34;https://profiles.stanford.edu/sally-benson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Sally Benson&lt;/a&gt;, 
+&lt;a href=&#34;https://profiles.stanford.edu/jacques-de-chalendar?tab=bio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jacques de Chalendar&lt;/a&gt;, 
+&lt;a href=&#34;https://profiles.stanford.edu/ram-rajagopal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ram Rajagopal&lt;/a&gt;, 
+&lt;a href=&#34;https://profiles.stanford.edu/peter-glynn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter W. Glynn&lt;/a&gt;, 
+&lt;a href=&#34;https://profiles.stanford.edu/adam-brandt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Adam Brandt&lt;/a&gt;, and 
+&lt;a href=&#34;https://profiles.stanford.edu/frank-wolak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Frank Wolak&lt;/a&gt; for the exciting COOLER project. Many thanks for having me. I couldn’t be more excited to start this new chapter in my career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oct 2021 | Our new paper entitled &#34;Classification and characterization of intra-day load curves of PV and non-PV households using interpretable feature extraction and feature-based clustering&#34; was published in *Sustainable Cities and Society*!</title>
+      <link>https://maomaohu.net/post/post_11/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_11/</guid>
+      <description>&lt;p&gt;Our recent research paper entitled &amp;ldquo;&lt;strong&gt;Classification and characterization of intra-day load curves of PV and non-PV households using interpretable feature extraction and feature-based clustering&lt;/strong&gt;&amp;rdquo; was published in &lt;em&gt;Sustainable Cities and Society&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This work was financially supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under the grant (EP/S030131/1).&lt;/p&gt;
+&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2210670721006533&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Load pattern categorization plays a significant role in enhancing the understanding of demand characteristics of different cohorts of energy customers on a distribution network. For a distribution network with embedded photovoltaic (PV) systems, it is also desirable to enumerate these premises since unreported PV installations can have a detrimental impact on voltage control, frequency regulation, and incur reverse power flows. In this paper, a holistic smart meter data analytics approach is proposed for classifying and characterizing the intra-day load curves of PV and non-PV households. Unlike existing studies based on raw time-series data, a series of interpretable and discriminating global and peak-period features are first developed to extract the physical information of load patterns. A two-step feature-based clustering is then applied to classify the load profiles of PV and non-PV households. A post-clustering quantitative compositional analysis is developed to characterize the energy use variability and compositional changes for each household. The proposed PV household identification method allows network owners to identify the existence of PV installations in a particular area for voltage control and ancillary service provision. In the longer term, effective load pattern categorization and post-clustering characterization can help better understand demand characteristics of different cohorts of customers, network utilization, and network-level changes in load growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aug 2021 | A talk was given at the Sino-UK Joint Symposium on Post Covid-19 Pandemic - A Reconsideration for the Built Environment.</title>
+      <link>https://maomaohu.net/post/post_10/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_10/</guid>
+      <description>&lt;p&gt;A talk was given at the 
+&lt;a href=&#34;https://www.sujs2021.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sino-UK Joint Symposium on Post Covid-19 Pandemic - A Reconsideration for the Built Environment&lt;/strong&gt;&lt;/a&gt;, hosted by Tongji University, China and University of Nottingham, UK.&lt;/p&gt;
+&lt;p&gt;This symposium  was supported by Researcher Links grant, 2020-RLWK12-10630, under the Newton-China partnership. The grant is funded by the UK Department for Business, Energy and Industrial Strategy and National Natural Science Foundation of China (NSFC) and delivered by the British Council.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aug 2021 | A talk was given to the School of Environmental Science and Engineering, Huangzhong University of Science and Technology.</title>
+      <link>https://maomaohu.net/post/post_9/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_9/</guid>
+      <description>&lt;p&gt;A talk was given to the School of Environmental Science and Engineering, Huangzhong University of Science and Technology, China on &amp;ldquo;Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>May 2021 | I am now a participant in IEA EBC 81 and IEA EBC 82 projects.</title>
+      <link>https://maomaohu.net/post/post_8/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_8/</guid>
+      <description>&lt;p&gt;I am glad to share that I am now a participant in two IEA EBC (International Energy Agency, Energy in Buildings and Communities) ongoing projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://annex81.iea-ebc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;IEA ANNEX 81&lt;/strong&gt; Data-Driven Smart Buildings&lt;/a&gt; (2020-2024)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://annex82.iea-ebc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;IEA ANNEX 82&lt;/strong&gt;  Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems&lt;/a&gt; (2020-2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for having me in the community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apr 2021 | A talk was given to the Dept. of Built Environment and Enery Application Engineering, Hunan University.</title>
+      <link>https://maomaohu.net/post/post_7/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_7/</guid>
+      <description>&lt;p&gt;A talk was given to the Dept. of Built Environment and Enery Application Engineering, Hunan University on &amp;ldquo;Data-driven Descriptive, Predictive, and Prescriptive Analytics of Building and Urban Energy Systems&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jan 2021 | Our R package named PHOVAFER (PHOtoVoltAic FindER) was released.</title>
+      <link>https://maomaohu.net/post/post_6/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_6/</guid>
+      <description>&lt;p&gt;“PHOtoVoltAic FindER” (phovafer) is developed for identifying the solar photovoltaic (PV) customers among regular customers on a  low-voltage distribution network. It contains the R functions for data representation, feature extraction, and PV users’ classification using the extracted features.&lt;/p&gt;
+&lt;p&gt;PHOVAFER Docs can be found 
+&lt;a href=&#34;https://maomaohu.net/software/phovafer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dec 2020 | Glad to share that I was recently appointed as a Reviewer Board member of the jounal of *Science and Technology for the Built Environment* .</title>
+      <link>https://maomaohu.net/post/post_5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_5/</guid>
+      <description>&lt;p&gt;Recently Dr. Hu was appointed as a member of the Reviewer Board of the journal of 
+&lt;a href=&#34;https://www.tandfonline.com/action/journalInformation?show=editorialBoard&amp;amp;journalCode=uhvc21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology for the Built Environment (STBE)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nov 2020 | A talk was given at the China-UK Workshop on “Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects” funded by Newton Fund.</title>
+      <link>https://maomaohu.net/post/post_4/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_4/</guid>
+      <description>&lt;p&gt;A talk entitled &amp;ldquo;Classification and Characterization of Smart Meter Data Using Interpretable Feature Extraction and Feature-based Clustering&amp;rdquo; was given by Dr. Hu at the China-UK Workshop on 
+&lt;a href=&#34;https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2020/nov/integrating-sustainable-technologies-design-strategies-new-communities-or&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Integrating Sustainable Technologies into the Design Strategies of New Communities or Regeneration Projects”&lt;/a&gt; funded by NSFC China and the British Council Newton Fund.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oct 2020 | Our Python package named IFEEL (Interpretable Feature Extraction of Electricity Loads) was released.</title>
+      <link>https://maomaohu.net/post/post_3/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_3/</guid>
+      <description>&lt;p&gt;We developed a Python package (IFEEL), which aims to help energy data analysts to readily extract interpretable features of daily electricity profiles from a physical perspective.&lt;/p&gt;
+&lt;p&gt;The IFEEL Docs can be found 
+&lt;a href=&#34;https://maomaohu.net/software/ifeel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sep 2020 | Our new paper entitled &#34;Development of an ANN-based Building Energy Model for Information-poor Buildings Using Transfer Learning&#34; was published in *Building Simulation*!</title>
+      <link>https://maomaohu.net/post/post_2/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_2/</guid>
+      <description>&lt;p&gt;Our recent research paper entitled &amp;ldquo;&lt;strong&gt;Development of an ANN-based Building Energy Model for Information-poor Buildings Using Transfer Learning&lt;/strong&gt;&amp;rdquo; was published in &lt;em&gt;Building Simulation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The full paper can be found 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s12273-020-0711-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Accurate building energy prediction is vital to develop optimal control strategies to enhance building energy efficiency and energy flexibility. In recent years, the data-driven approach based on machine learning algorithms has been widely adopted for building energy prediction due to the availability of massive data in building automation systems (BASs), which automatically collect and store real-time building operational data. For new buildings and most existing buildings without installing advanced BASs, there is a lack of sufficient data to train data-driven predictive models. Transfer learning is a promising method to develop accurate and reliable data-driven building energy prediction models with limited training data by taking advantage of the rich data/knowledge obtained from other buildings. Few studies focused on the influences of source building datasets, pre-training data volume, and training data volume on the performance of the transfer learning method. The present study aims to develop a transfer learning-based ANN model for one-hour ahead building energy prediction to fill this research gap. Around 400 non-residential buildings’ data from the open-source Building Genome Project are used to test the proposed method. Extensive analysis demonstrates that transfer learning can effectively improve the accuracy of BPNN-based building energy models for information-poor buildings with very limited training data. The most influential building features which influence the effectiveness of transfer learning are found to be building usage and industry. The research outcomes can provide guidance for implementation of transfer learning, especially in selecting appropriate source buildings and datasets for developing accurate building energy prediction models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aug 2020 | Our new paper entitled &#34;Neighborhood-level Coordination and Negotiation Techniques for Managing Demand-side Flexibility in Residential Microgrids&#34; was published in *Renewable and Sustainable Energy Reviews*.</title>
+      <link>https://maomaohu.net/post/post_1/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_1/</guid>
+      <description>&lt;p&gt;Our recent review article entitled &lt;strong&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1364032120305372?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neighborhood-level coordination and negotiation techniques for managing demand-side flexibility in residential microgrids&lt;/a&gt;&lt;/strong&gt; was published in &lt;em&gt;Renewable and Sustainable Energy Reviews&lt;/em&gt;. Glad to see my last piece of work at PolyU coming out.&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The management of demand-side flexibility plays a key role in reliable integration of intermittent renewable energy sources into residential microgrids. Residential microgrid is a dynamic and complex cyber-physical system, which consists of multiple cooperative, non-cooperative and even conflicting entities. Random and separate demand-side management of the multiple entities may have detrimental effects on the grid reliability like the peak “rebound” issue and on the economic benefits for both utilities and consumers. Harmonized coordination, not merely unorganized cooperation, among cooperative entities and negotiation among non-cooperative entities based on information sharing are therefore needed to achieve the neighborhood-level optimal solutions in a residential microgrid. This paper comprehensively reviews the state-of-the-art classification, technologies, architectures, and techniques for neighborhood-level coordination and negotiation in residential microgrids. Various types of coordination and negotiation behaviors are first categorized. The technologies, i.e., demand-side flexible resources involved in coordination and negotiation, are then summarized and introduced, including flexible loads, storage, and distributed generations. The typical architectures for coordination and negotiation are then classified into centralized, decentralized, hierarchical distributed, and non-hierarchical distributed architecture. Last, the major coordination and negotiation techniques, including multi-agent system, optimization and game theory, are reviewed and summarized. The challenges and opportunities for each technique are identified and critically discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mar 2020 | New journey in Dept. of Engineering Science at University of Oxford!</title>
+      <link>https://maomaohu.net/post/post_0/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_0/</guid>
+      <description>&lt;p&gt;Since March 2020, I joins the Energy and Environmental Informatics group in Department of Engineering Science at University of Oxford. I works with Professor 
+&lt;a href=&#34;https://eng.ox.ac.uk/people/david-wallom/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Wallom&lt;/a&gt; as a postdoctoral researcher for Project 
+&lt;a href=&#34;https://www.amidine.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMIDiNe&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
