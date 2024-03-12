@@ -27,7 +27,7 @@ design:
 
 <font size="6">National University of Singapore</font>
 
-[Maomao Hu](https://maomaohu.net/author/maomao-hu/)
+[<span style="color:#EF7C00">**Maomao Hu**</span>](https://maomaohu.net/author/maomao-hu/)
 
 Developing sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
 
