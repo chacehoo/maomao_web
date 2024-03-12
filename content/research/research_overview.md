@@ -1,23 +1,26 @@
-+++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+---
+title: Overview
+summary: xxxx
+date: 2024-01-08
+weight: 5  # Order that this section will appear.
 
-title = ""
-subtitle = ""
-+++
+# Show estimated reading time?Show social sharing links?Show author profile?Show comments?
+reading_time: true
+share: true  
+profile: true
+comments: false
+# Optional header image (relative to `static/media/` folder).
+# header:  
+# caption: ""  
+# image: "" 
+---
+Our <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR)**</span> lab aims at developing sustainable and scalable technologies and computational tools to make building and urban energy systems low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. We employ a multifaceted approach that encompasses data analytics & machine learning, physics-based modeling & simulation, optimization & model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.
 
-<div style="text-align: left"><font size="5">Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building and urban energy systems low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. We employ a multifaceted approach that encompasses data analytics & machine learning, physics-based modeling & simulation, optimization & model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.</font> </div>
-<p>&nbsp;</p>
-<div style="text-align: left"><font size="5">Currently, our lab is focusing on:</font> </div>
-<ul>
-<div style="text-align: left"><font size="5"><li>Low-carbon building technologies for energy efficiency, flexibility, and climate resilience</li></font></div>
-<div style="text-align: left"><font size="5"><li>Grid-interactive smart buildings and communities</li></font></div>
-<div style="text-align: left"><font size="5"><li>Modelling, optimization, and optimal control of building, district, and urban energy systems</li></font></div>
-<div style="text-align: left"><font size="5"><li>Modelling, optimization, and optimal control of HVAC&R systems</li></font></div>
-<div style="text-align: left"><font size="5"><li>Data analytics and machine learning for buildings</li></font></div>
-<div style="text-align: left"><font size="5"><li>Uncertainty analysis for buildings</li></font></div>
-<div style="text-align: left"><font size="5"><li>Occupant behavior in buildings</li></font></div>
-</ul>
+Currently, our lab is focusing on:
+- Low-carbon building technologies for energy efficiency, flexibility, and climate resilience
+- Grid-interactive smart buildings and communities
+- Modelling, optimization, and optimal control of building, district, and urban energy systems
+- Modelling, optimization, and optimal control of HVAC&R systems
+- Data analytics and machine learning for buildings
+- Uncertainty analysis for buildings
+- Occupant behavior in buildings
