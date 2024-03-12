@@ -50,7 +50,7 @@ We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-fu
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
 ### How to Apply  <a name="how_to_apply"></a>
-Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@stanford.edu</span> for inquiries. The email should be written in English and include the following:
+Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@nus.edu.sg</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on research experience
 * Transcripts from undergraduate or graduate studies
 * Contact information for 2-3 references.
