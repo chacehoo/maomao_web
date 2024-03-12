@@ -23,4 +23,4 @@ design:
     padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
 ---
 
-**<div style="text-align: center"><font size="7">Join us</font> </div>**
+**<div style="text-align: center"><font size="7">Join us!</font> </div>**

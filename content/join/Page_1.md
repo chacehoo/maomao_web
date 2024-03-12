@@ -1,5 +1,5 @@
 ---
-title: Join Us!
+title: Openings
 summary: xxxx
 date: 2023-10-11
 
