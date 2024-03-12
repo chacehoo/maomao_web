@@ -30,6 +30,13 @@ We warmly invites applications from students with backgrounds in Building Enviro
 * Excellent spoken and written English language skills;
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
+### Schorlarships at NUS
+Please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, including
+- NUS Research Scholarship
+- President’s Graduate Fellowship
+- NUS-SINGA Scholarship
+- A*STAR Graduate Scholarship, etc.
+
 ### How to Apply
 Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@nus.edu.sg</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on research experience
@@ -39,6 +46,6 @@ Prospective Ph.D. students should send an email with the subject line as `Prospe
 
 ### Current and past openings
 
-We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Except the fully-funded Ph.D. students, please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, e.g., President’s Graduate Fellowship, NUS-SINGA Scholarship, and A*STAR Graduate Scholarship.
+We are currently looking for <span style="color:#EF7C00">**2-3**</span> fully-funded Ph.D. students to join our team <span style="color:#EF7C00">**starting from Fall 2024 or later**</span>. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">**NUS Research Scholarship**</span>](https://nusgs.nus.edu.sg/scholarships-list/)).
 
 Candidates need to submit their complete application by <span style="color:#EF7C00">**Jan. 1, 2024**</span> for the admission in Fall 2024. Strong applicants will be contacted asap for a Zoom interview. All applicants must meet NUS's graduate admission requirements. 
