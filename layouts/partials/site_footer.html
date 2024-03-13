@@ -12,9 +12,9 @@
   {{ end }}
 
   <p class="powered-by">
-    🤖 {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Made with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 🔧 🔨 ⛏ ✂️ ⚙️ 🛠 @ Stanford, US
+     🔧 🔨 ⛏ ✂️ ⚙️ 🛠 @ <a href="https://nus.edu.sg/" target="_blank" rel="noopener">National University of Singapore</a> 🦁 
     
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
