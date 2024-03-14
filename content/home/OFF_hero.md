@@ -2,8 +2,8 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 140  # Order that this section will appear.
 
 title = "Academic"
 
@@ -12,6 +12,7 @@ hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
+
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
@@ -20,15 +21,15 @@ hero_media = "hero-academic.png"
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
 
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image = "web_first_sight_4.png"  # Name of image in `static/img/`.
+   image_darken = 0.1               # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"             #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"        # Options include `left`, `center` (default), or `right`.
+   image_parallax = true            # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -51,8 +52,12 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+<font size="6">Building Informatics and Operations Research (BIOR) Lab</font>
 
-Build **Anything** with Widgets
+<font size="6">National University of Singapore</font>
+
+[<span style="color:#EF7C00">**Maomao Hu**</span>](https://maomaohu.net/author/maomao-hu/)
+
+Developing sustainable and scalable technologies and computational tools to make today’s building and urban energy systems low-carbon, efficient, flexible, climate-resilient, and equitable. 
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
