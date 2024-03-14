@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
 title = "Building Informatics and Operations Research (BIOR) Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,18 +39,19 @@ hero_media = "hero-academic.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://maomaohu.net/research/"
-  label = "Our Research"
+  label = "**Our Research**"
   # icon_pack = "fas"
   # icon = "download"
 
 [cta_alt]
   url = "https://maomaohu.net/join/"
-  label = "Join Us"
+  label = "**Join Us**"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+
 National University of Singapore
 
 [<span style="color:#EF7C00">**Maomao Hu**</span>](https://maomaohu.net/author/maomao-hu/)
