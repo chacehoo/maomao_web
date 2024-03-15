@@ -43,7 +43,7 @@
 #  weight = 50
 
 [[main]]
-  name = "Join Us!"
+  name = "Join"
   url = "join/"
   weight = 60
 
