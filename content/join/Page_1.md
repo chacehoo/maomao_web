@@ -35,12 +35,12 @@ We warmly invites applications from students with backgrounds in Building Enviro
 * Excellent spoken and written English language skills;
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
-### Schorlarships at NUS
+### PhD Schorlarships
 Please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, including
-- NUS Research Scholarship
-- President’s Graduate Fellowship
-- NUS-SINGA Scholarship
-- A*STAR Graduate Scholarship, etc.
+- [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships-list/)
+- [President’s Graduate Fellowship](https://nusgs.nus.edu.sg/scholarships-list/) (for outstanding students with exemplary academic records)
+- [NUS-SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)
+- [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore), etc.
 
 ### How to Apply
 Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@nus.edu.sg</span> for inquiries. The email should be written in English and include the following:
