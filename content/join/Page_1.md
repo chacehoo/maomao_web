@@ -35,7 +35,7 @@ We warmly invites applications from students with backgrounds in Building Enviro
 * Excellent spoken and written English language skills;
 * Critical thinking, problem-solving, and communication skills, more importantly, the collaborative spirit for working with an inter-disciplinary team.
 
-### PhD Schorlarships
+### PhD Scholarships
 Please explore the potential [<span style="color:#EF7C00">**scholarship opportunities available**</span>](https://nusgs.nus.edu.sg/scholarships-list/) at NUS, including
 - [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships-list/)
 - [President’s Graduate Fellowship](https://nusgs.nus.edu.sg/scholarships-list/) (for outstanding students with exemplary academic records)
