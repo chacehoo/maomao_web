@@ -1,7 +1,7 @@
 ---
 title: May 2024 | Dr. Hu attended the IEA Annex 81 and 82 Joint Expert Meetings in Prague, Czech Republic
 summary: Dr. Hu attended the IEA Annex 81 and 82 Joint Expert Meetings in Prague and gave a talk
-date: 2024-04-26
+date: 2024-05-20
 
 # View.
 #   1 = List
@@ -18,4 +18,4 @@ view: 2
 
 Dr. Hu attended the IEA [Annex 81 (Data-Driven Smart Buildings)](https://annex81.iea-ebc.org/) and [Annex 82 (Energy Flexible Buildings Towards Resilient Low Carbon Energy Systems)](https://annex82.iea-ebc.org/) Joint Expert Meetings in Prague, Czech Republic and gave a talk.
 
-![Group photo](Annex_81_82_Prague_2024.jpeg)
+![Group photo](https://maomaohu.net/img/Annex_81_82_Prague_2024.jpeg)
