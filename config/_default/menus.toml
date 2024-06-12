@@ -8,53 +8,73 @@
   weight = 10
 
 [[main]]
-  name = "Research"
-  url = "research/"
+  name = "News"
+  url = "news/"
   weight = 15
 
 [[main]]
-  name = "People"
-  url = "people/"
+  identifier = "res"
+  name = "Research"
   weight = 20
 
 [[main]]
-  name = "News"
-  url = "news/"
-  weight = 25
+  name = "Overview"
+  parent = "res"
+  url = "research/"
+  weight = 21
 
 [[main]]
   name = "Projects"
+  parent = "res"
   url = "prj/"
+  weight = 22
+
+[[main]]
+  identifier = "team"
+  name = "Team"
   weight = 30
+
+[[main]]
+  name = "Maomao Hu"
+  parent = "team"
+  url = "author/maomao-hu/"
+  weight = 31
+
+[[main]]
+  name = "Lab members"
+  parent = "team"
+  url = "people/"
+  weight = 32
+
 
 [[main]]
   name = "Software"
   url = "software/"
-  weight = 35
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "publication/"     #direct to a page rather than a widget in home page
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Gallery"
 #  url = "gallery/"
-#  weight = 50
+#  weight = 60
 
 [[main]]
   name = "Join"
   url = "join/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 90
