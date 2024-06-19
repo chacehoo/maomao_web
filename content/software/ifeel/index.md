@@ -38,7 +38,7 @@ More info about `pip` can be found [here](https://pip.pypa.io/en/stable/) .
 
 * **Organization**: [Oxford e-Research Center](https://www.oerc.ox.ac.uk/), Department of Engineering Science, University of Oxford
 
-* **Contact info**: maomao.hu@eng.ox.ac.uk
+* **Contact info**: maomaohu@nus.edu.sg
 
 * **Development time**: Oct 2020
 
