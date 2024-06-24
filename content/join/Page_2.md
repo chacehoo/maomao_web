@@ -1,5 +1,5 @@
 ---
-title: Postdoctoral Researchers
+title: Research Assistants and Postdocs
 summary: xxxx
 date: 2024-01-08
 
@@ -13,5 +13,5 @@ comments: false
 # caption: ""  
 # image: "" 
 ---
-The availability of postdoctoral positions varies depending on the funding conditions. If you are interested in our research focus, you are encouraged to contact Dr. Hu to explore potential opportunities. To apply, please include your CV, a brief summary of your research experience and interests, and the contact information for at least two references, with a subject line as `Postdoc_Application_{First Name}_{Last Name}`.
+The availability of Research Assistant (RA) and postdoctoral positions varies depending on the funding conditions. If you are interested in our research focus, you are encouraged to contact Dr. Hu to explore potential opportunities. To apply, please include your CV, a brief summary of your research experience and interests, and the contact information for at least two references, with a subject line as `RA/Postdoc_Application_{First Name}_{Last Name}`.
 

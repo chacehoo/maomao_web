@@ -1,5 +1,5 @@
 ---
-title: About NUS
+title: About NUS and Our Department
 summary: xxxx
 date: 2024-01-06
 

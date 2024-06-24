@@ -11,5 +11,5 @@ view: list
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "software_first_sight.jpg"
 ---
