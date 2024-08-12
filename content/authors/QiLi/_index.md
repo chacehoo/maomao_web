@@ -34,7 +34,7 @@ education:
     - course: MSc in Civil Infrastructural Engineering and Management
       institution: The Hong Kong University of Science and Technology, HKSAR
       year: 2019
-    - course: B.Eng in Civil Engineering
+    - course: BEng in Civil Engineering
       institution: Harbin Institute of Technology, China
       year: 2018
 

@@ -29,7 +29,7 @@ bio:
 
 education:
   courses:
-    - course: B.Eng. in Construction Engineering Management
+    - course: BEng in Construction Engineering Management
       institution: Southeast University, China
       year: June 2025 (expected)
 
