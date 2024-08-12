@@ -45,7 +45,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:maomaohu@stanford.edu"
+  link: 'mailto:maomaohu@nus.edu.sg'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maomao-hu-3548ab1a6/
@@ -55,6 +55,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Maomao_Hu
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8042-322X
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Team
 ---
 
 Dr. Hu is an Assistant Professor in the Department of the Built Environment at the National University of Singapore (NUS) since January 2024, leading the <span style="color:#EF7C00">**Building Informatics and Operations Research (BIOR) Lab**</span>. Prior to joining NUS, Dr. Hu was a Postdoctoral Scholar in the Department of Energy Science & Engineering at Stanford University from 2022 to 2023, advised by Prof. [Sally Benson](https://profiles.stanford.edu/sally-benson?releaseVersion=10.5.2). Before that, he worked with Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/) as a Postdoctoral Fellow in the Department of Engineering Science at University of Oxford from 2020 to 2021. He received his PhD degree in Building Environment and Energy Engineering from The Hong Kong Polytechnic University in 2019, advised by Prof. [Linda Xiao](https://www.polyu.edu.hk/beee/people/academic-staff/professor-xiao-fu-linda/). In 2018, he studied as a guest PhD student with Prof. [John Bagterp Jørgensen](http://www.imm.dtu.dk/~jbjo/) in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark.

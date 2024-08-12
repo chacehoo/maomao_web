@@ -15,6 +15,7 @@ content:
     - Undergraduates
     - Visitors
     - Alumni
+    - Team
 design:
   show_interests: false
   show_role: true

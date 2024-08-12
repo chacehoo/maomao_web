@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming PhD student
+role: Incoming PhD student in Jan 2025
 
 # Organizations/Affiliations
 organizations:
@@ -66,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Team
 ---
