@@ -14,8 +14,8 @@ content:
     - Ph.D. Students
     - Undergraduates
     - Visitors
-    - Alumni
-    - Team
+    - Former lab members
+    - Lab members
 design:
   show_interests: false
   show_role: true
