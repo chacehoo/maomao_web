@@ -16,9 +16,9 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Qi](https://maomaohu.net/author/qi-li/) will join our team as a visiting PhD student from the City University of Hong Kong.
+[Qi](https://maomaohu.net/author/qi-li/) joins our team as a visiting PhD student from the City University of Hong Kong.
 
-[Hongyu](https://maomaohu.net/author/hongyu-wang/) will join our team as a visiting undergraduate student from the Southeast University, China.
+[Hongyu](https://maomaohu.net/author/hongyu-wang/) joins our team as a visiting undergraduate student from the Southeast University, China.
 
 Great to have you both join our BIOR lab, Qi and Hongyu!
 
