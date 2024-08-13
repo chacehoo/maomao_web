@@ -13,12 +13,6 @@ comments: false
 # caption: ""  
 # image: "" 
 ---
-We warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), Electrical Engineering, or Applied Mathematics. 
-
-### Current and past openings
-- We are looking for one fully funded Ph.D. student to join our team starting from Jan 2025 or later. Candidates need to submit their complete application by <span style="color:#EF7C00">**July. 1, 2024**</span> for the admission in Jan 2025.
-
-- ~~We are currently looking for 2-3 fully-funded Ph.D. students to join our team starting from Fall 2024 or later. 12-month stipend plus a tuition fee subsidy are covered for this position for 4 years (check [<span style="color:#EF7C00">NUS Research Scholarship</span>](https://nusgs.nus.edu.sg/scholarships-list/)). Candidates need to submit their complete application by <span style="color:#EF7C00">**Jan. 1, 2024**</span> for the admission in Fall 2024.~~
 
 ### Requirements
 #### a) General requirments for Ph.D. admission at NUS

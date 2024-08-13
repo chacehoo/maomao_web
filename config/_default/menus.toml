@@ -57,6 +57,11 @@
   url = "publication/"     #direct to a page rather than a widget in home page
   weight = 50
 
+[[main]]
+  name = "Teaching"
+  url = "teaching/"     #direct to a page rather than a widget in home page
+  weight = 60
+
 #[[main]]
 #  name = "Gallery"
 #  url = "gallery/"
