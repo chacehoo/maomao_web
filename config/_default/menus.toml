@@ -13,21 +13,9 @@
   weight = 15
 
 [[main]]
-  identifier = "res"
   name = "Research"
-  weight = 20
-
-[[main]]
-  name = "Overview"
-  parent = "res"
   url = "research/"
-  weight = 21
-
-[[main]]
-  name = "Projects"
-  parent = "res"
-  url = "prj/"
-  weight = 22
+  weight = 20
 
 [[main]]
   identifier = "team"
