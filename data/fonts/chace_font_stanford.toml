@@ -3,15 +3,7 @@ name = "chace_font_stanford"
 
 # Optional Google font URL (Note: Google fond must have the sizes)
 
-# google_fonts = "Nunito:300,400italic,700"
-
 google_fonts = "Source Sans Pro:100,400,700"
-
-# Default font
-
-# google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
-
-# google_fonts = "Montserrat:400,700|Raleway:400,400italic,700|Roboto+Mono"
 
 # Font families
 heading_font = "Source Sans Pro"
