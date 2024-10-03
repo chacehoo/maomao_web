@@ -23,7 +23,7 @@ bio:
 interests:
   - Building adaptability/flexibility
   - Building performance simulation and prediction
-  - Low-carbon retrofit technologies for buildings
+  - Low-carbon retrofitting technologies for buildings
 
 
 education:
@@ -49,7 +49,7 @@ social:
   link: 'mailto:chengshen_z@u.nus.edu'
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/chengshen-zhang-ba30b22b8
+  link: https://www.linkedin.com/in/chengshen-zhang-ba30b22b8/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0001-9332-5407
@@ -68,4 +68,4 @@ user_groups:
 - Lab members
 ---
 
-Chengshen is a visiting PhD student in the BIOR Lab and is currently engaged in research pertaining to green building performance assessment and prediction, adaptive analysis of existing buildings, and the sustainable development of energy-efficient and low-carbon buildings. Chengshen's research interests include the dynamic adaptation of the environmental performance of buildings and synergistic active-passive low-carbon retrofit strategies. In addition to his academic research, Chengshen is a photography enthusiast and enjoys hiking and travelling.
+Chengshen is a visiting PhD student in the BIOR Lab and is currently engaged in research on green building performance assessment & prediction and adaptive analysis for existing buildings. Chengshen's research interests include the dynamic adaptation of the building environmental performance and synergistic active-passive retrofitting strategies. In addition to his academic research, Chengshen is a photography enthusiast and enjoys hiking and travelling.
