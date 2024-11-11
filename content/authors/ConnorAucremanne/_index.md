@@ -22,11 +22,10 @@ bio:
 
 interests:
   - Energy Informatics
+  - Grid-Interactive Buildings
   - Dynamic Electricity Markets
   - Demand Response
-  - Smart Buildings
   - Human-Building Interaction
-
 
 education:
   courses:
@@ -35,7 +34,7 @@ education:
     - course: MSc in Built Environment, Environmental Design and Engineering
       institution: University College London, UK
       year: 2023
-    - course: BS Sustainability and the Built Environment
+    - course: BSc in Sustainability and the Built Environment
       institution: University of Florida, USA
       year: 2021
 
