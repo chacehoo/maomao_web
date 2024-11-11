@@ -1,7 +1,7 @@
 ---
-title: November 2024 | Welcome Connor to join our group.
-summary: Welcome Connor to join our BIOR lab in Nov 2024.
-date: 2024-11-10
+title: November 2024 | Welcoming new group members - Connor and Aimin
+summary: Welcome Connor and Aimin to join our BIOR lab in Nov 2024.
+date: 2024-11-11
 
 # View.
 #   1 = List
@@ -18,4 +18,6 @@ header:
 
 [Connor](https://maomaohu.net/author/connor-aucremanne/) joins our team as a PhD student starting from Nov. 2024.
 
-Great to have you join our BIOR lab, Connor!
+[Aimin](https://maomaohu.net/author/aimin-wang/) joins our team as a visiting PhD student from Shanghai University, China.
+
+Great to have you both join our BIOR lab, Connor and Aimin!

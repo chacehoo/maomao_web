@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:e1484170@u.nus.edu'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?hl=zh-CN&user=u2eZqFsAAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3391-408X
@@ -61,4 +64,4 @@ email: ""
 user_groups:
 - Lab members
 ---
-Aimin is a visiting Ph.D. student in the BIOR Lab, focusing on scalable control solutions for large-scale renewable energy systems in green building communities. His research interests encompass scalable, plug-and-play, and fault-tolerant control for interconnected large-scale systems. To date, he has published 13 high-quality papers in leading journals, including IEEE Transactions on Fuzzy Systems, IEEE Transactions on Cybernetics, and the IEEE/CAA Journal of Automatica Sinica. Outside his academic work, he enjoys reading and running.
+Aimin is a visiting Ph.D. student in the BIOR Lab, focusing on scalable control solutions for large-scale renewable energy systems in green building communities. His research interests encompass scalable, plug-and-play, and fault-tolerant control for large-scale interconnected systems. To date, he has published 13 high-quality papers in leading journals, including IEEE Transactions on Fuzzy Systems, IEEE Transactions on Cybernetics, and the IEEE/CAA Journal of Automatica Sinica. Outside his academic work, he enjoys reading and running.
