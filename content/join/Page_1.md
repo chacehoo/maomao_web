@@ -13,6 +13,7 @@ comments: false
 # caption: ""  
 # image: "" 
 ---
+>Check the seminar on ["How to get a PhD"](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research-seminar/#seminar) for guide and tools for your PhD application.
 
 ### Requirements
 #### a) General requirments for Ph.D. admission at NUS
@@ -35,7 +36,11 @@ An admission to the PhD programme does not garantee a scholarship. Some admissio
 - [Singapore International Graduate Award (SINGA)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) (open to all international graduates)
 - [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore), etc.
 
-### How to Apply and Timelines
+### Timeline
+
+There are two intakes (August and January) each year. The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are normally 1 Janurary for the intake in August, and 1 July for the intake in January next year. 
+
+### How to Apply
 Prospective Ph.D. students should send an email with the subject line as `Prospective_PhD_{First Name}_{Last Name}` to the email address <span style="color:#EF7C00">maomaohu@nus.edu.sg</span> for inquiries. The email should be written in English and include the following:
 * CV/Resume in English with an emphasis on your computational and research skills
 * Transcripts from undergraduate or graduate studies
@@ -43,8 +48,4 @@ Prospective Ph.D. students should send an email with the subject line as `Prospe
 * Contact information for 2-3 references
 * Other materials demonstrating research and work capabilities (e.g., published papers as the first author, papers in preparation, project reports, etc.)
 
-Please rest assured that your application wil be carefully evaluated. Strong applicants will be contacted asap for a Zoom interview. 
-
-There are two intakes (August and January) each year. The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are normally 1 Janurary for the intake in August, and 1 July for the intake in January next year. 
-
-Check the seminar on ["How to get a PhD"](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research-seminar/#seminar) for guide and tools for your PhD application.
+Due to the high volume of inquiries, I may not be able to respond to everyone. However, please rest assured that I will carefully review each email and respond promptly if your qualifications align with current opportunities.
