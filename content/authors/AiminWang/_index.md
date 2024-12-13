@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Control Science and Engineering
+    - course: PhD Candidate in Control Science and Engineering
       institution: Shanghai University, Shanghai, China
     - course: MSc in Control engineering
       institution: Hangzhou Dianzi University, Hangzhou, China

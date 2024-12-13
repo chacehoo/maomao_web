@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Built Environment
+    - course: PhD Candidate in Built Environment
       institution: National University of Singapore, Singapore
     - course: MSc in Built Environment, Environmental Design and Engineering
       institution: University College London, UK
