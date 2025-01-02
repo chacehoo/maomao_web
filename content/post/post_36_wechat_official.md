@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-We have lauched the Wechat Official Account for our BIOR Lab. Please subscribe us for news, updates, and openings.
+We have lauched the Wechat Official Account for our BIOR Lab. Please follow us for news, updates, and openings.
 
 ![BIOR WeChat Official Account](https://maomaohu.net/img/Wechat_official.png)
