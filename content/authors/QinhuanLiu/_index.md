@@ -21,12 +21,14 @@ organizations:
 bio:
 
 interests:
-  - Computational Fluid Dynamics
-  - Heat and Mass Transfer
-  - Building Energy Efficiency
+  - Grid-interactive buildings
+  - Demand side management
+  - Building energy flexibility
 
 education:
   courses:
+    - course: PhD Candidate in Built Environment
+      institution: National University of Singapore, Singapore
     - course: BSc in Building Environment and Energy Engineering
       institution: Tsinghua University, China
       year: 2024
@@ -63,4 +65,4 @@ email: ""
 user_groups:
 - Lab members
 ---
-Qinhuan is a Ph.D. student in the BIOR Lab. His research interests lie in areas such as demand response, load shifting,and grid-Interactive Buildings. Outside of his academic research, he prefers to dedicate his time to watching films, with a particular interest in science fiction and comedy films
+Qinhuan is a Ph.D. student in the BIOR Lab. His research interests lie in areas such as demand response, load shifting, and Grid-interactive buildings. Outside of his academic research, he prefers to dedicate his time to watching films, with a particular interest in science fiction and comedy films.
