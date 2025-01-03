@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Former lab members
 ---
 
 Hongyu is a visiting undergraduate student in our lab at NUS, and his recent research focuses on public perceptions of energy-efficient built environment. His research interests include social issues concerning urban sustainability and the application of artificial intelligence to promote automation in construction. Hongyu loves swimming and hiking in his spare time.
