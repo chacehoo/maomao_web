@@ -5,12 +5,30 @@
     <link>https://maomaohu.net/post/</link>
       <atom:link href="https://maomaohu.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News and Updates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020-2025 BIOR Lab</copyright><lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020-2025 BIOR Lab</copyright><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maomaohu.net/images/logo.svg</url>
       <title>News and Updates</title>
       <link>https://maomaohu.net/post/</link>
     </image>
+    
+    <item>
+      <title>Feb 2025 | Our BIOR lab hosted Prof. Henrik Madsen from DTU Compute for an engaging guest lecture.</title>
+      <link>https://maomaohu.net/post/post_40_seminar/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://maomaohu.net/post/post_40_seminar/</guid>
+      <description>&lt;p&gt;It was a great pleasure to host Professor Henrik Madsen from DTU at our department for an insightful seminar on data-driven digital twins and grey-box modeling.&lt;/p&gt;
+&lt;p&gt;A big thank you to Henrik for his inspiring talk and to everyone who attended!&lt;/p&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;https://maomaohu.net/img/Henrik_NUS.jpg&#34;&gt;
+  &lt;figcaption&gt;&lt;strong&gt;Scenes from the seminar&lt;/strong&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;https://maomaohu.net/img/Flyer_Henrik.jpg&#34;&gt;
+  &lt;figcaption&gt;&lt;strong&gt;Seminar flyer&lt;/strong&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>January 2025 | Welcoming new group members - Gaoyuan, Nico, and Qinhuan</title>
