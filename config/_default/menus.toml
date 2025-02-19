@@ -13,9 +13,21 @@
   weight = 15
 
 [[main]]
+  identifier = "research"
   name = "Research"
-  url = "research/"
   weight = 20
+
+[[main]]
+  name = "Overview + Thrusts"
+  parent = "research"
+  url = "research/"
+  weight = 21
+
+[[main]]
+  name = "Events"
+  parent = "research"
+  url = "events/"
+  weight = 22
 
 [[main]]
   identifier = "team"

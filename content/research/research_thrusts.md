@@ -43,3 +43,7 @@ comments: false
 
 - <span style="color:#EF7C00">**Thrust 4:**</span> <span style="color:#003D7C">**Urban Building Energy Modeling for Large-Scale Decarbonization Assessment**</span>
 
+<figure style="text-align: center;">
+  <img src="https://maomaohu.net/img/thrust_4_0.jpg">
+  <figcaption>Quantifying Uncertainty in Aggregate Energy Use and Demand Flexibility of Building Clusters Considering Stochastic Occupancy <a href="https://maomaohu.net/publication/journal_paper/rn-1406/">[Link]</a></figcaption> 
+</figure>
