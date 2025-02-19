@@ -17,10 +17,10 @@ comments: false
 - <span style="color:#EF7C00">**Center for Digital Building Technology**</span> 
 
 <figure style="text-align: center;">
-  <img src="https://maomaohu.net/img/center_for_digital_building_tech", width="600">
+  <img src="https://maomaohu.net/img/center_for_digital_building_tech.jpg", width="600">
 </figure>
 
-<span style="color:#808080">Dr. Hu is the Deputy Director of the Center for Digital Building Technology since 2025. The overarching goal of this center is to improve the quality and productivity by using digital building technologies to transform the way people design, deliver and manage the built environment. Digital building technologies include AR, VR , BIM, IoT, Robotics and Automation, Video Analytics, and Digital Twin, supported by advanced equipment and devices.</span>
+<span style="color:#808080">Dr. Hu has served as the Deputy Director of the Center for Digital Building Technology since 2025. The center's primary mission is to enhance quality and productivity by leveraging digital building technologies to transform how people design, deliver, and manage the built environment. These technologies include augmented reality (AR), virtual reality (VR), building information modeling (BIM), the Internet of Things (IoT), robotics and automation, video analytics, and digital twins, all supported by advanced equipment and devices.</span>
 
 - <span style="color:#EF7C00">**SDE 4, a Net-Zero Energy Building**</span>
 
