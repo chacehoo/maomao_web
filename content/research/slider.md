@@ -26,7 +26,7 @@ height = "800px"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "MPC.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "thrust_2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "More info"
