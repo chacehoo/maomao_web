@@ -13,7 +13,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: teaching_first_sight.jpg
+    image: teaching_first_sight_1.jpg
     image_darken: 0.1
     image_parallax: false
     image_position: center
