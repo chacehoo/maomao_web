@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Research Methods"
+title = "Research Methodology"
 # subtitle = "Creating sustainable data-centric technologies for building and urban energy systems at the interface of Building Environment and Energy Engineering, Computer Science, and Control Engineering."
 
 # Showcase personal skills or business features.

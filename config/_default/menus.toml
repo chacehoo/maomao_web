@@ -67,7 +67,7 @@
 
 [[main]]
   name = "Intranet"
-  url = "https://nusu.sharepoint.com/sites/BIORTeam"
+  url = "https://nusu.sharepoint.com/sites/BIORonboarding"
   weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
