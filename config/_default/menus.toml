@@ -24,10 +24,16 @@
   weight = 21
 
 [[main]]
+  name = "Testbeds"
+  parent = "research"
+  url = "testbeds/"
+  weight = 22
+
+[[main]]
   name = "Events"
   parent = "research"
   url = "events/"
-  weight = 22
+  weight = 23
 
 [[main]]
   identifier = "team"
