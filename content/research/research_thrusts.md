@@ -34,11 +34,11 @@ comments: false
   <figcaption>Schematic diagram of MPC for building energy systems <a href="https://maomaohu.net/project/0_mpc_ac/">[Link]</a><a href="https://maomaohu.net/project/1_mpc_floor/">[Link]</a></figcaption> 
 </figure>
 
-- <span style="color:#EF7C00">**Thrust 3:**</span> <span style="color:#003D7C">**AI for Smart Built Environments, including AI for Building Engineering and AI for Building Science**</span>
+- <span style="color:#EF7C00">**Thrust 3:**</span> <span style="color:#003D7C">**Explainable AI (XAI) for Smart Built Environments, including AI for Building Engineering and AI for Building Science**</span>
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/thrust_3_0.jpg">
-  <figcaption>Interpretable Machine Learning using Large-Scale Smart Meter Data <a href="https://maomaohu.net/software/ifeel/">[Link]</a><a href="https://maomaohu.net/publication/journal_paper/paper_10/">[Link]</a><a href="https://maomaohu.net/publication/journal_paper/paper_14/">[Link]</a></figcaption> 
+  <figcaption>Explainable Machine Learning using Large-Scale Smart Meter Data <a href="https://maomaohu.net/software/ifeel/">[Link]</a><a href="https://maomaohu.net/publication/journal_paper/paper_10/">[Link]</a><a href="https://maomaohu.net/publication/journal_paper/paper_14/">[Link]</a></figcaption> 
 </figure>
 
 - <span style="color:#EF7C00">**Thrust 4:**</span> <span style="color:#003D7C">**Urban Building Energy Modeling for Large-Scale Decarbonization Assessment**</span>
