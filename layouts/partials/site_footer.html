@@ -12,7 +12,7 @@
   {{ end }}
 
   <p class="powered-by">
-    🔧 🔨 🛠 {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+    🔧 🔨 🛠 {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
 
      @ <a href="https://nus.edu.sg/" target="_blank" rel="noopener">National University of Singapore</a> 🦁 
     

@@ -1,22 +1,10 @@
 ---
-# An instance of the People widget.
-widget: people
-headless: true
-weight: 30
-title: 
-subtitle:
-
-content:
-  # Choose which groups/teams of users to display.
-  #  Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Former lab members
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
-
-  # spacing:
-  #   # Customize the section spacing. Order is top, right, bottom, left.
-  #   padding: ["130px", "0", "0", "0"]
+title: Former Lab Members
+weight: 40  # Order that this section will appear.
 ---
+
+| Name             | Role in BIOR          | Period of Stay       |
+|------------------|---------------------------|--------------------------|
+| [Hongyu Wang](https://www.linkedin.com/in/hongyu-wang-14b379309/)  | Visiting Student (Southeast University)   | Aug. 2024 - Dec. 2024 |
+
+
