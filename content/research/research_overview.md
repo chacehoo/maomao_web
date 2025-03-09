@@ -17,8 +17,19 @@ comments: false
 
 ![BIOR LOGO](bior_logo_light_background.png)
 
-<div style="text-align: center;">
+<style>
+  code {
+    background: none !important;
+    border: none !important;
+    padding: 0;
+    box-shadow: none !important;
+  }
+</style>
+
+
+<div style="text-align: left;">
   <div id="typed-strings">
+    <p ><code style="color: #EF7C00">Smart</code></p>
     <p ><code style="color: #EF7C00">Low-carbon</code></p>
     <p><code style="color: #EF7C00">Energy-efficient</code></p>
     <p><code style="color: #EF7C00">Demand-flexible</code></p>
@@ -44,7 +55,7 @@ comments: false
 
 <br>
 
-Our **Building Informatics and Operations Research (BIOR)** lab aims at developing sustainable and scalable technologies and computational tools to make building and urban energy systems low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. 
+Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building and urban energy systems low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. 
 
 Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. 
 
