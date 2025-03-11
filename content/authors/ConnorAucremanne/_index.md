@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Ph.D. Students
 ---
 Connor is a member of the BIOR Lab pursuing his PhD at NUS. His primary research concerns the democratization of virtual power plants within dynamic electricity markets for optimal monetization and grid flexibility via an algorithmic human-building interaction framework. He has also conducted research revolving around digital twin development, passive daytime radiative cooling, residential solar PV and decarbonization policy, and indoor soundscape perception for organizations such as NUS, Pacific Northwest National Laboratory (PNNL), UCL, and UF Bob Graham Center for Public Service. Outside of academia, he tends to spend his time curating Spotify playlists, enjoying the outdoors, collecting coffee table books, and appreciating different forms of expression throughout the arts.

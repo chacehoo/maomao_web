@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Ph.D. Students
 ---
 Qinhuan is a Ph.D. student in the BIOR Lab. His research interests lie in areas such as demand response, load shifting, and Grid-interactive buildings. Outside of his academic research, he prefers to dedicate his time to watching films, with a particular interest in science fiction and comedy films.

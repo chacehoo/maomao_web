@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Ph.D. Students
 ---
 Gaoyuan is a member of the BIOR Lab and is pursuing his Ph.D. at NUS. His undergraduate major was Refrigeration and Cryogenics, and his master's research topic was heat transfer and thermoacoustic effects in supercritical carbon dioxide. During his working years, he participated in the development of heat pumps, and studied large cooling towers and gate discharge projects through code_saturne. His current research interest is to study and optimize the energy consumption of data centers through computational fluid dynamics methods. In his spare time, he likes various sports, especially basketball and football.

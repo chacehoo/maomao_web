@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Ph.D. Students
 ---
 Mikhyle is a PhD candidate at the BIOR Lab at the National University of Singapore (NUS). He graduated from NUS with a Bachelor's degree in Project & Facilities Management, further enhancing his expertise with a minor in Infrastructure Management & Finance. Prior to his PhD studies, Mikhyle gained valuable professional experience as a Programme & Project Management Consultant at Arup for over a year.
 
