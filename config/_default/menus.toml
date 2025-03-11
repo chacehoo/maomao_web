@@ -35,22 +35,11 @@
   url = "events/"
   weight = 23
 
-[[main]]
-  identifier = "team"
-  name = "Team"
-  weight = 30
 
 [[main]]
-  name = "Maomao Hu"
-  parent = "team"
-  url = "author/maomao-hu/"
-  weight = 31
-
-[[main]]
-  name = "Lab members"
-  parent = "team"
+  name = "People"
   url = "people/"
-  weight = 32
+  weight = 30
 
 
 [[main]]
