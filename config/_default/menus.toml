@@ -5,12 +5,25 @@
 [[main]]
   name = "Home"
   url = "#first_sight"
+  weight = 1
+
+[[main]]
+  identifier = "news"
+  name = "News & Events"
   weight = 10
 
 [[main]]
   name = "News"
+  parent = "news"
   url = "news/"
-  weight = 15
+  weight = 11
+
+[[main]]
+  name = "Events"
+  parent = "news"
+  url = "events/"
+  weight = 12
+
 
 [[main]]
   identifier = "research"
@@ -28,12 +41,6 @@
   parent = "research"
   url = "testbeds/"
   weight = 22
-
-[[main]]
-  name = "Events"
-  parent = "research"
-  url = "events/"
-  weight = 23
 
 
 [[main]]
