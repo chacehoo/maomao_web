@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Student
+role: Former lab members
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Students
+- Former lab members
 ---
 
 Nico Fuchs is a visiting PhD student in the BIOR Lab from RWTH Aachen University in Germany. His research focuses on developing mathematical optimization models for the design of building energy systems, with a particular emphasis on optimizing resource allocation at the portfolio level. His work aims to contribute to energy efficiency and sustainability in the built environment through innovative analytical approaches. Outside of academia, he enjoys staying active through running, cycling, and hiking. He is also passionate about politics and takes an active interest in current events and policy discussions.
