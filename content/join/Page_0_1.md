@@ -35,7 +35,7 @@ comments: false
     <p><code style="color: #EF7C00; font-weight: bold;">Equitable</code></p>
   </div>
   <span class="font-bold" id="typed"></span>
-  <code style="color: #003D7C">Building and Urban Energy Systems.</code>
+  <code style="color: #003D7C">Building, District, and Urban Energy Systems.</code>
 </div>
 
 <!-- Include Typed.js -->
@@ -55,4 +55,4 @@ comments: false
 
 Building Informatics and Operations Research (BIOR) Lab is directed by Dr. Maomao Hu, Assistant Professor of [the Department of the Built Environment](https://cde.nus.edu.sg/dbe/), College of Design and Engineering, National University of Singapore. 
 
-The overarching goal of our lab is to develop sustainable and scalable technologies and computational tools to make today’s building and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. We employ a multifaceted approach that encompasses data analytics and machine learning, physics-based modeling and simulation, optimization and model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.
+The overarching goal of our lab is to develop sustainable and scalable technologies and computational tools to make today’s building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. We employ a multifaceted approach that encompasses data analytics and machine learning, physics-based modeling and simulation, optimization and model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.

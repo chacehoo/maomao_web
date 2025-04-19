@@ -64,10 +64,10 @@
   url = "teaching/"     #direct to a page rather than a widget in home page
   weight = 60
 
-#[[main]]
-#  name = "Gallery"
-#  url = "gallery/"
-#  weight = 60
+[[main]]
+  name = "Fun"
+  url = "fun/"
+  weight = 65
 
 [[main]]
   name = "Join"

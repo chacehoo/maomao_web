@@ -36,7 +36,7 @@ title = "Research Methodology"
   icon = "desktop"
   icon_pack = "fas"
   name = "Computational Optimisation"
-  description = "Mathmatical and Metaheuristic (GA/PSO) Algorithms"  
+  description = "Mathematical and Metaheuristic (GA/PSO) Algorithms"  
 
 [[feature]]
   icon = "robot"

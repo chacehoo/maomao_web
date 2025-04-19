@@ -37,7 +37,7 @@ comments: false
     <p><code style="color: #EF7C00; font-weight: bold;">Equitable</code></p>
   </div>
   <span class="font-bold" id="typed"></span>
-  <code style="color: #003D7C">Building and Urban Energy Systems.</code>
+  <code style="color: #003D7C">Building, District, and Urban Energy Systems.</code>
 </div>
 
 <!-- Include Typed.js -->
@@ -55,7 +55,7 @@ comments: false
 
 <br>
 
-Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. 
+Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. 
 
 Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. 
 
