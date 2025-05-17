@@ -68,6 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Students
+- Former lab members
 ---
 Qi is a visiting PhD student in the BIOR lab and is currently engaged in research on urban microclimate assessment, building form analysis, and sustainable development of energy-efficient and low-carbon buildings. Qi’s research interests include building morphology analysis and the interaction between local climate conditions and the built environment. Outside the lab, Qi enjoys hiking, watching movies, and Genshin Impact.

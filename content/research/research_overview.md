@@ -55,7 +55,7 @@ comments: false
 
 <br>
 
-Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. 
+Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable using optimization, learning, and control.
 
 Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. 
 
