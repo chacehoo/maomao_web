@@ -31,7 +31,7 @@
   weight = 20
 
 [[main]]
-  name = "Overview + Thrusts"
+  name = "Overview"
   parent = "research"
   url = "research/"
   weight = 21
