@@ -15,6 +15,8 @@ comments: false
 ---
 >Check the seminar on ["How to get a PhD"](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research-seminar/#seminar) for guide and tools for your PhD application.
 
+We warmly invites applications from students with backgrounds in Building Environment and Energy Engineering (i.e., Architectural Engineering/HVAC&R Engineering),  Electrical and Computer Engineering (e.g., microgrids, automation, etc.), Thermal Engineering (e.g., heat and mass transfer, thermodynamics, etc.), Mechanical Engineering (e.g., fluid mechanics), or Applied Mathematics. 
+
 ### Requirements
 #### a) General requirments for Ph.D. admission at NUS
 * A good GPA in a relevant bachelor's or master's degree;

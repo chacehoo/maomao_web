@@ -78,9 +78,21 @@
 
 
 [[main]]
+  identifier = "join"
   name = "Join"
-  url = "join/"
   weight = 70
+
+[[main]]
+  name = "Why & How"
+  parent = "join"
+  url = "join/"
+  weight = 71
+
+[[main]]
+  name = "Openings"
+  parent = "join"
+  url = "opening/"
+  weight = 72
 
 #[[main]]
 #  name = "Contact"

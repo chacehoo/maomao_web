@@ -29,4 +29,4 @@ design:
 
 We focus on optimization, learning, and control of multi-scale energy systems (from buildings to districts to cities) to make them smart, low-carbon, energy-efficient, demand-flexible, climate-resilient, and equitable.
 
->We are currently looking for Ph.D. students and postdocs. Please check [<span style="color:#EF7C00">Join Us</span>](https://maomaohu.net/join/) page for more info.
+>We are currently looking for Ph.D. students and postdocs. Please check [<span style="color:#EF7C00">Join Us</span>](https://maomaohu.net/opening/) page for more info.
