@@ -37,7 +37,7 @@
   weight = 21
 
 [[main]]
-  name = "Testbeds"
+  name = "Center & Testbeds"
   parent = "research"
   url = "testbeds/"
   weight = 22
