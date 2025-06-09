@@ -14,7 +14,7 @@ comments: false
 # image: "" 
 ---
 
-- <span style="color:#EF7C00">**Center for Digital Building Technology**</span> 
+- [<span style="color:#EF7C00">**Center for Digital Building Technology**</span>](https://cde.nus.edu.sg/dbe/centre-for-digital-building-technology/)
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/center_for_digital_building_tech.jpg", width="600">
@@ -29,7 +29,7 @@ comments: false
 </div>
 
 
-<span style="color:#808080">Dr. Hu has served as the Deputy Director of the Center for Digital Building Technology since 2025. The center's primary mission is to enhance quality and productivity by leveraging digital building technologies to transform how people design, deliver, and manage the built environment. These technologies include augmented reality (AR), virtual reality (VR), building information modeling (BIM), the Internet of Things (IoT), robotics and automation, video analytics, and digital twins, all supported by advanced equipment and devices.</span>
+<span style="color:#808080">Dr. Hu has served as the deputy director of the <span style="color:#EF7C00">[Center for Digital Building Technology](https://cde.nus.edu.sg/dbe/centre-for-digital-building-technology/)</span> since 2025. The center's primary mission is to enhance quality and productivity by leveraging digital building technologies to transform how people design, deliver, and manage the built environment. These technologies include augmented reality (AR), virtual reality (VR), building information modeling (BIM), the Internet of Things (IoT), robotics and automation, video analytics, and digital twins, all supported by advanced equipment and devices.</span>
 
 - <span style="color:#EF7C00">**SDE 4, a Net-Zero Energy Building**</span>
 

@@ -44,9 +44,21 @@
 
 
 [[main]]
+  identifier = "people"
   name = "People"
-  url = "people/"
   weight = 30
+
+[[main]]
+  name = "Members"
+  parent = "people"
+  url = "people/"
+  weight = 31
+
+[[main]]
+  name = "Fun"
+  parent = "people"
+  url = "fun/"
+  weight = 32
 
 
 [[main]]
@@ -64,10 +76,6 @@
   url = "teaching/"     #direct to a page rather than a widget in home page
   weight = 60
 
-[[main]]
-  name = "Fun"
-  url = "fun/"
-  weight = 65
 
 [[main]]
   name = "Join"
