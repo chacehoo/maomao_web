@@ -58,6 +58,13 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8042-322X
+- icon: clarivate
+  icon_pack: ai
+  link: https://www.webofscience.com/wos/author/record/E-6218-2016
+- icon: elsevier
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=57194381793
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
