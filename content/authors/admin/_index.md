@@ -41,7 +41,8 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# ai icons see https://jpswalsh.github.io/academicons/
+
+#   ai icons see https://jpswalsh.github.io/academicons/
 social:
 - icon: envelope
   icon_pack: fas
@@ -58,12 +59,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8042-322X
+
+# To show the academic icons of scopus and clarivate (https://jpswalsh.github.io/academicons/), an additional line needs to be added after the YAML.
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=57194381793
 - icon: clarivate
   icon_pack: ai
   link: https://www.webofscience.com/wos/author/record/E-6218-2016
-- icon: elsevier
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=57194381793
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -79,6 +83,7 @@ email: ""
 user_groups:
 - Faculty
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 Dr. Hu is an Assistant Professor in the Department of the Built Environment at the National University of Singapore (NUS) since 2024. He is the director of the <span style="color:#EF7C00">[Building Informatics and Operations Research (BIOR) Lab](https://maomaohu.net/)</span> and the deputy director of the <span style="color:#EF7C00">[NUS Center for Digital Building Technology](https://cde.nus.edu.sg/dbe/centre-for-digital-building-technology/)</span>. Prior to joining NUS, Dr. Hu was a Postdoctoral Scholar in the Department of Energy Science & Engineering at Stanford University from 2022 to 2023, advised by Prof. [Sally Benson](https://profiles.stanford.edu/sally-benson?releaseVersion=10.5.2), and in the Department of Engineering Science at the University of Oxford from 2020 to 2021, advised by Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/). He received his PhD degree in Building Environment and Energy Engineering from The Hong Kong Polytechnic University in 2019, advised by Prof. [Linda Xiao](https://www.polyu.edu.hk/beee/people/academic-staff/professor-xiao-fu-linda/). In 2018, he studied as a guest PhD student with Prof. [John Bagterp Jørgensen](http://www.imm.dtu.dk/~jbjo/) in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark.
 
