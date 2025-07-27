@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: BSc from Tsinghua University
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://cde.nus.edu.sg/dbe/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
   - Grid-interactive buildings

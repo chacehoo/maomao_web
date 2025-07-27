@@ -4,13 +4,19 @@
   <url>
     <loc>https://maomaohu.net/contact/contact/</loc>
   </url><url>
-    <loc>https://maomaohu.net/post/post_48_new_members/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <loc>https://maomaohu.net/post/post_50_conference/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/post/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maomaohu.net/post/post_49_new_members/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maomaohu.net/post/post_48_new_members/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/post/post_47_recruitment/</loc>
@@ -355,6 +361,8 @@
   </url><url>
     <loc>https://maomaohu.net/opening/</loc>
   </url><url>
+    <loc>https://maomaohu.net/author/linus/</loc>
+  </url><url>
     <loc>https://maomaohu.net/author/maomao-hu/</loc>
   </url><url>
     <loc>https://maomaohu.net/author/mikhyle-mat-nooh/</loc>
@@ -380,5 +388,7 @@
     <loc>https://maomaohu.net/people/</loc>
   </url><url>
     <loc>https://maomaohu.net/testbeds/</loc>
+  </url><url>
+    <loc>https://maomaohu.net/author/wolfram/</loc>
   </url>
 </urlset>

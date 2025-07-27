@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Students
+- Former lab members
 ---
 
 Arthur Dattin is a visiting Master’s student in the BIOR Lab, jointly hosted by the Future Resilient Systems Laboratory at the Singapore-ETH Centre. He is completing an MSc in Mechanical Engineering at ETH Zurich with a specialisation in energy systems. Arthur’s research focuses on scalable control strategies data driven predictive control and market-oriented optimisation to unlock energy flexibility and provide ancillary services across large building clusters. 

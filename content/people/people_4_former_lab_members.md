@@ -13,6 +13,21 @@ weight: 40  # Order that this section will appear.
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td style="vertical-align: middle; text-align: center;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img src="https://maomaohu.net/img/former_member_arthur.jpg" alt="Arthur Dattin" style="width:90px; height:90px; border-radius:50%;">
+          <strong>Arthur Dattin</strong>
+        </div>
+      </td>
+      <td style="vertical-align: middle;">Visiting Student (ETH Zurich)</td>
+      <td style="vertical-align: middle;">June 2025 – July 2025</td>
+      <td style="vertical-align: middle; text-align: center;">
+        <a href="https://www.linkedin.com/in/arthur-dattin-941958235/" target="_blank">
+          <i class="fab fa-linkedin" style="color:#EF7C00; font-size:18px;"></i>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td style="vertical-align: middle; text-align: center;">
         <div style="display: flex; flex-direction: column; align-items: center;">
