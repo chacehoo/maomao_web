@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: Who We Are
 summary: xxxx
-date: 2024-01-08
+date: 2025-08-13
 weight: 20  # Order that this section will appear.
 
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
@@ -15,9 +15,7 @@ comments: false
 # image: "" 
 ---
 
-Our BIOR lab focus on data-driven optimization, learning, and control of multi-scale cyber-physical-human energy systems (from buildings to districts to cities) to make them smart, low-carbon, energy-efficient, demand-flexible, climate-resilient, and equitable.
-
-Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. 
+Welcome to NUS BIOR Lab! We focus on data-driven optimization, learning, and control of multi-scale cyber-physical-human energy systems (from buildings to districts to cities) to make them smart, low-carbon, energy-efficient, demand-flexible, climate-resilient, and equitable. Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Control Engineering and Data Science. 
 
 <div class="link-row">
   <a class="link-pill" href="https://maomaohu.net/research/">More About Research &#8250;</a>
@@ -35,7 +33,7 @@ Our interdisciplinary research is at the interface of Building Environment and E
 .link-row .link-pill{
   display:inline-block;
   margin:0; padding:0;
-  font-weight:700;
+  font-weight:400;
   font-size:20px;              /* same size for both */
   line-height:1;               /* consistent height */
   color:#EF7C00;

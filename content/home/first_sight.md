@@ -20,7 +20,10 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["200px", "0px", "200px", "0px"]   # Order is top, right, bottom, left.
+    padding: ["0px", "0px", "0px", "0px"]   # Order is top, right, bottom, left.
+
+advanced:
+   css_style: "min-height: calc(100vh + 80px); margin-top: -80px; padding-top: 80px; display:flex; align-items:center; justify-content:center;"
 ---
 
 <font size="6">Building Informatics and Operations Research (BIOR) Lab</font>
@@ -36,7 +39,7 @@ design:
   }
 </style>
 
-<div style="text-align: left; font-size: 24px;">
+<div style="text-align: left; font-size: 22px;">
   <code style="color: #FFFFFF">Smart Decisions for </code>
   <div id="typed-strings">
     <p ><code style="color: #EF7C00; font-weight: bold;">Smart</code></p>
