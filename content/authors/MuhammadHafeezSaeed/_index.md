@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Students
+- Former lab members
 ---
 
 Muhammad is a visiting PhD researcher at the BIOR Lab, joining from KU Leuven, Belgium. He is currently pursuing his PhD in Electrical Engineering, with a focus on data-driven and physics-informed control of energy flexibility in smart building clusters. His research combines reinforcement learning, scientific machine learning, market-oriented optimization, and energy systems modelling to enable intelligent demand-side management and coordination.

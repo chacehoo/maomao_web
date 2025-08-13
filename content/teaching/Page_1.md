@@ -14,6 +14,6 @@ comments: false
 # image: "" 
 ---
 
-- [<span style="color:#EF7C00">**IPM2101 Introduction to Building Performance**</span>](https://nusmods.com/courses/IPM2101/introduction-to-building-performance) (Fall 2024)
-- [<span style="color:#EF7C00">**PF3211 AI Applications for the Built Environment**</span>](https://nusmods.com/courses/PF3211/ai-applications-for-the-built-environment) (Fall 2024)
+- [<span style="color:#EF7C00">**IPM2101 Introduction to Building Performance**</span>](https://nusmods.com/courses/IPM2101/introduction-to-building-performance) (Fall 2024; Fall 2025)
+- [<span style="color:#EF7C00">**PF3211 AI Applications for the Built Environment**</span>](https://nusmods.com/courses/PF3211/ai-applications-for-the-built-environment) (Fall 2024; Fall 2025)
 - [<span style="color:#EF7C00">**BPS5230 Data-Driven Decision-Making for Smart Built Environments**</span>](https://nusmods.com/courses/BPS5230/data-driven-decision-making-for-smart-built-environments) (Spring 2025)
