@@ -36,7 +36,7 @@ Our interdisciplinary research is at the interface of Building Environment and E
   display:inline-block;
   margin:0; padding:0;
   font-weight:700;
-  font-size:15px;              /* same size for both */
+  font-size:20px;              /* same size for both */
   line-height:1;               /* consistent height */
   color:#EF7C00;
   text-decoration:none;
@@ -44,4 +44,7 @@ Our interdisciplinary research is at the interface of Building Environment and E
 }
 
 .link-row .link-pill:hover{ text-decoration:underline; }
+
+.typed-cursor { display: none !important; }
 </style>
+

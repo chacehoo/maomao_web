@@ -47,7 +47,7 @@ design:
     <p><code style="color: #EF7C00; font-weight: bold;">Equitable</code></p>
   </div>
   <span class="font-bold" id="typed"></span>
-  <code style="color: #FFFFFF">Building, District, and Urban Energy Systems.</code>
+  <code style="color: #FFFFFF">&nbsp;Building, District, and Urban Energy Systems.</code>
 </div>
 
 <!-- Include Typed.js -->
