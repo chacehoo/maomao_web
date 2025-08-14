@@ -23,7 +23,7 @@ design:
     padding: ["0px", "0px", "0px", "0px"]   # Order is top, right, bottom, left.
 
 advanced:
-   css_style: "min-height: calc(100vh + 80px); margin-top: -80px; padding-top: 80px; display:flex; align-items:center; justify-content:center;"
+   css_style: "min-height: calc(100vh + 10px); margin-top: -10px; padding-top: 10px; display:flex; align-items:center; justify-content:center;"
 ---
 
 <font size="6">Building Informatics and Operations Research (BIOR) Lab</font>
