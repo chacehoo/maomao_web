@@ -59,8 +59,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8042-322X
-
-# To show the academic icons of scopus and clarivate (https://jpswalsh.github.io/academicons/), an additional line needs to be added after the YAML.
 - icon: scopus
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=57194381793

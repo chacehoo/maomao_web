@@ -66,7 +66,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Liangcai-Xu-2?ev=hdr_xprf
 - icon: github
-  icon_pack: ai
+  icon_pack: fab
   link: https://github.com/Liangcai-Xu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,7 +80,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- Postdocs
 ---
 
 Liangcai is a Postdoctoral Research Fellow at the BIOR Lab. He obtained both his bachelor’s and master’s degrees from Northwestern Polytechnical University in 2018 and 2021, respectively, and earned his PhD from the National University of Singapore in 2025.
