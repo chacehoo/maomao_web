@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Student from Southeast University
+role: Visiting PhD Student, Southeast University
 
 # Organizations/Affiliations
 organizations:

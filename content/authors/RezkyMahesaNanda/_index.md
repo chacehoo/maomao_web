@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc and BSc from Bandung Institute of Technology
+role: MSc and BSc, Bandung Institute of Technology
 
 # Organizations/Affiliations
 organizations:

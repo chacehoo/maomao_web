@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc from University College London; BSc from University of Florida
+role: MSc, University College London; BSc, University of Florida
 
 # Organizations/Affiliations
 organizations:

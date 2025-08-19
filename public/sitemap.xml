@@ -4,13 +4,16 @@
   <url>
     <loc>https://maomaohu.net/contact/contact/</loc>
   </url><url>
-    <loc>https://maomaohu.net/post/post_50_conference/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <loc>https://maomaohu.net/post/post_51_new_members/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/post/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maomaohu.net/post/post_50_conference/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maomaohu.net/post/post_49_new_members/</loc>
@@ -375,6 +378,8 @@
   </url><url>
     <loc>https://maomaohu.net/author/nico-yannik-fuchs/</loc>
   </url><url>
+    <loc>https://maomaohu.net/author/pengyu-jie/</loc>
+  </url><url>
     <loc>https://maomaohu.net/prj/</loc>
   </url><url>
     <loc>https://maomaohu.net/author/qi-li/</loc>
@@ -394,5 +399,7 @@
     <loc>https://maomaohu.net/testbeds/</loc>
   </url><url>
     <loc>https://maomaohu.net/author/wolfram/</loc>
+  </url><url>
+    <loc>https://maomaohu.net/author/xiaohan-shen/</loc>
   </url>
 </urlset>

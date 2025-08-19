@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear. Note that the location is determined by this value not the weight in "menu.toml"
 
-title = "News & Updates"
+title = "News"
 subtitle = ""
 
 [content]

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc from National University of Singapore
+role: BSc, National University of Singapore
 
 # Organizations/Affiliations
 organizations:

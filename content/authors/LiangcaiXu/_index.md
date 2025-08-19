@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD from National University of Singapore
+role: PhD, National University of Singapore
 
 # Organizations/Affiliations
 organizations:

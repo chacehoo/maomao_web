@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc from Tsinghua University
+role: BSc, Tsinghua University
 
 # Organizations/Affiliations
 organizations:

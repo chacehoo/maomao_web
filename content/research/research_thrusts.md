@@ -28,6 +28,9 @@ comments: false
 </figure>
 
 <br>
+<hr>
+<br>
+
 
 - <span style="color:#EF7C00">**Thrust 2:**</span> <span style="color:#003D7C">**Stochastic Modeling, Estimation, Optimization, and Control of HVAC&R, Building, and Urban Energy Systems Considering Uncertainties**</span>
 
@@ -37,6 +40,9 @@ comments: false
 </figure>
 
 <br>
+<hr>
+<br>
+
 
 - <span style="color:#EF7C00">**Thrust 3:**</span> <span style="color:#003D7C">**Explainable AI (XAI) for Smart Built Environments, including AI for Building Engineering and AI for Building Science**</span>
 
@@ -46,6 +52,9 @@ comments: false
 </figure>
 
 <br>
+<hr>
+<br>
+
 
 - <span style="color:#EF7C00">**Thrust 4:**</span> <span style="color:#003D7C">**Urban Building Energy Modeling for Large-Scale Decarbonization Assessment**</span>
 

@@ -57,6 +57,6 @@ comments: false
 
 Our BIOR lab aims at developing sustainable and scalable technologies and computational tools to make building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable using optimization, learning, and control.
 
-Our interdisciplinary research is at the interface of Building Environment and Energy Engineering (i.e., Architectural Engineering), Computer Science, and Control Engineering. 
+Our interdisciplinary research is at the interface of Building Science, Computer Science, and Control Engineering. 
 
 We employ a multifaceted approach that encompasses data analytics & machine learning, physics-based modeling & simulation, optimization & model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.

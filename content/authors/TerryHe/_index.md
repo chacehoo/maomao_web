@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc from Hong Kong Polytechnic University
+role: BSc, Hong Kong Polytechnic University
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc from Sun Yat-sen University; BSc from Tongji University
+role: MSc, Sun Yat-sen University; BSc, Tongji University
 
 # Organizations/Affiliations
 organizations:
