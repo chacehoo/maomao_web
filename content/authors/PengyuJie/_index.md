@@ -37,7 +37,7 @@ education:
       year: 2023
     - course: Bachelor of Architecture
       institution: Henan University, China
-      year: 2018
+      year: 2020
 
 
 # Social/Academic Networking
