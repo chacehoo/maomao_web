@@ -59,7 +59,7 @@ With the scaling up of building clusters, the estimated energy-flexibility poten
 
 **Related Publication**
 
-[Maomao Hu, Fu Xiao (2020). Quantifying uncertainty in the aggregate energy flexibility of high-rise residential building clusters considering stochastic occupancy and occupant behavior. Energy.]({{< ref "/publication/journal_paper/rn-1406/index.md" >}})
+[Maomao Hu, Fu Xiao (2020). Quantifying uncertainty in the aggregate energy flexibility of high-rise residential building clusters considering stochastic occupancy and occupant behavior. Energy.]({{< ref "/publication/J7/index.md" >}})
 
 ---
 

@@ -62,7 +62,7 @@ The presented work receives the support of the [CITIES project](http://smart-cit
 
 **Related Publication**
 
-[Maomao Hu, Fu Xiao, John Bagterp Jørgensen, Rongling Li (2019). Price-responsive model predictive control of floor heating systems for demand response using building thermal mass. Applied Thermal Engineering.]({{< ref "/publication/journal_paper/rn-935/index.md" >}})
+[Maomao Hu, Fu Xiao, John Bagterp Jørgensen, Rongling Li (2019). Price-responsive model predictive control of floor heating systems for demand response using building thermal mass. Applied Thermal Engineering.]({{< ref "/publication/J4/index.md" >}})
 
 ---
 

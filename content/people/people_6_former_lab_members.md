@@ -16,6 +16,21 @@ weight: 70  # Order that this section will appear.
     <tr>
       <td style="vertical-align: middle; text-align: center;">
         <div style="display: flex; flex-direction: column; align-items: center;">
+          <img src="https://maomaohu.net/img/former_member_Chengshen.png" alt="Chengshen Zhang" style="width:90px; height:90px; border-radius:50%;">
+          <strong>Chengshen Zhang</strong>
+        </div>
+      </td>
+      <td style="vertical-align: middle;">Visiting Student (Southeast University)</td>
+      <td style="vertical-align: middle;">Sep 2024 – Sep 2025</td>
+      <td style="vertical-align: middle; text-align: center;">
+        <a href="https://www.linkedin.com/in/chengshen-zhang-ba30b22b8/" target="_blank">
+          <i class="fab fa-linkedin" style="color:#EF7C00; font-size:18px;"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle; text-align: center;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://maomaohu.net/img/former_member_hafeez.png" alt="Muhammad Hafeez Saeed" style="width:90px; height:90px; border-radius:50%;">
           <strong>Muhammad Hafeez Saeed</strong>
         </div>

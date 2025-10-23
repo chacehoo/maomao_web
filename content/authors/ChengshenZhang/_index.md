@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Students
+- Former lab members
 ---
 
 Chengshen is a visiting PhD student in the BIOR Lab and is currently engaged in research on green building performance assessment & prediction and adaptive analysis for existing buildings. Chengshen's research interests include the dynamic adaptation of the building environmental performance and synergistic active-passive retrofitting strategies. In addition to his academic research, Chengshen is a photography enthusiast and enjoys hiking and travelling.

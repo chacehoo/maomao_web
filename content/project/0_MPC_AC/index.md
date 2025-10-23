@@ -61,9 +61,9 @@ Results show that compared to the PID controller, the demand response-enabled mo
 
 **Related Publication**
 
-[Maomao Hu, Fu Xiao, John Bagterp Jørgensen, Shengwei Wang (2019). Frequency control of air conditioners in response to real-time dynamic electricity prices in smart grids. Applied Energy.]({{< ref "/publication/journal_paper/rn-939/index.md" >}})
+[Maomao Hu, Fu Xiao, John Bagterp Jørgensen, Shengwei Wang (2019). Frequency control of air conditioners in response to real-time dynamic electricity prices in smart grids. Applied Energy.]({{< ref "/publication/J5/index.md" >}})
 
-[Maomao Hu, Fu Xiao (2018). Model Predictive Control of Inverter Air Conditioners Responding to Real-Time Electricity Prices in Smart Grids. 5th International High Performance Buildings Conference.]({{< ref "/publication/conference_paper/rn-938/index.md" >}})
+[Maomao Hu, Fu Xiao (2018). Model Predictive Control of Inverter Air Conditioners Responding to Real-Time Electricity Prices in Smart Grids. 5th International High Performance Buildings Conference.]({{< ref "/publication/C3/index.md" >}})
 
 ---
 

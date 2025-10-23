@@ -1,5 +1,5 @@
 ---
-title: Journal/Conference Publications
+title: Publications
 
 # View.
 #   1 = List
