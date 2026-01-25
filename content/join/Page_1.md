@@ -34,9 +34,11 @@ We warmly invites applications from students with backgrounds in Building Enviro
 ### PhD Scholarships
 An admission to the PhD programme does not garantee a scholarship. Some admissions are on a self-funded basis. Please explore the potential [<span style="color:#EF7C00">scholarship opportunities available</span>](https://nusgs.nus.edu.sg/scholarships/) at NUS, including
 - [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship/)
-- [President’s Graduate Fellowship](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship/) (for outstanding students with exemplary academic records and competing offers with scholarships from other top universities)
+- [President’s Graduate Fellowship (PGF)](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship/) (for outstanding students with exemplary academic records and competing offers with scholarships from other top universities)
+- [NUS ASEAN Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-asean-research-scholarship) (for outstanding graduate students from ASEAN countries)
+- NUS Singapore/PR Graduate Fellowship (SGF)
 - [Singapore International Graduate Award (SINGA)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) (open to all international graduates)
-- [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore), etc.
+- [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship), etc.
 
 ### Timeline
 

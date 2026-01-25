@@ -1,6 +1,6 @@
 ---
 title: Former Lab Members
-weight: 70  # Order that this section will appear.
+weight: 80  # Order that this section will appear.
 ---
 
 <table>

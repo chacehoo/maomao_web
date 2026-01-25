@@ -17,20 +17,25 @@ comments: false
 
 Welcome to NUS BIOR Lab! We focus on data-driven optimization, learning, and control of multi-scale cyber-physical-human energy systems (from buildings to districts to cities) to make them smart, low-carbon, energy-efficient, demand-flexible, climate-resilient, and equitable. Our work lies at the intersection of building science, computer science, and control engineering.
 
-<div class="link-row">
-  <a class="link-pill" href="https://maomaohu.net/research/">More About Research &#8250;</a>
-  <a class="link-pill" href="https://maomaohu.net/opening/">Join Us &#8250;</a>
+<figure style="text-align: center;">
+  <img src="https://maomaohu.net/img/Bior_research_landscape.jpg" style="width:100%; max-width:100%; height:auto;">
+</figure>
+
+
+<div class="link-row1">
+  <a class="link-pill1" href="https://maomaohu.net/research/">More About Research &#8250;</a>
+  <a class="link-pill1" href="https://maomaohu.net/opening/">Join Us &#8250;</a>
 </div>
 
 <style>
-.link-row{
+.link-row1{
   display:flex;
   column-gap:60px;            /* spacing between the two links */
   align-items:baseline;        /* keeps text on the same baseline */
 }
 
 /* one place to control the look */
-.link-row .link-pill{
+.link-row1 .link-pill1{
   display:inline-block;
   margin:0; padding:0;
   font-weight:400;
@@ -41,7 +46,7 @@ Welcome to NUS BIOR Lab! We focus on data-driven optimization, learning, and con
   white-space:nowrap;          /* prevent wrapping */
 }
 
-.link-row .link-pill:hover{ text-decoration:underline; }
+.link-row1 .link-pill1:hover{ text-decoration:underline; }
 
 .typed-cursor { display: none !important; }
 </style>
