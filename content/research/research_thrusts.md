@@ -15,7 +15,7 @@ comments: false
 # image: "" 
 ---
 
-- <span style="color:#EF7C00">**Thrust 1:**</span> <span style="color:#003D7C">**Optimal Design & Operation of Energy-Efficient, Demand-Flexible, and Climate-Resilient Buildings and Communities**</span>
+- <span style="color:#EF7C00">**Thrust 1:**</span> <span style="color:#003D7C">**Flexible, Resilient, Efficient, and Equitable (FREE) multi-scale energy systems with Distributed Energy Resources (DERs)**</span>
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/thrust_1_0.jpg">
@@ -32,7 +32,7 @@ comments: false
 <br>
 
 
-- <span style="color:#EF7C00">**Thrust 2:**</span> <span style="color:#003D7C">**Stochastic Modeling, Estimation, Optimization, and Control of HVAC&R, Building, and Urban Energy Systems Considering Uncertainties**</span>
+- <span style="color:#EF7C00">**Thrust 2:**</span> <span style="color:#003D7C">**Optimal and Learning-based Control**</span>
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/thrust_2.jpg">
@@ -44,7 +44,7 @@ comments: false
 <br>
 
 
-- <span style="color:#EF7C00">**Thrust 3:**</span> <span style="color:#003D7C">**Explainable AI (XAI) for Smart Built Environments, including AI for Building Engineering and AI for Building Science**</span>
+- <span style="color:#EF7C00">**Thrust 3:**</span> <span style="color:#003D7C">**Explainable AI for Building and Urban Science and Engineering (XABUSE)**</span>
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/thrust_3_0.jpg">
@@ -55,10 +55,17 @@ comments: false
 <hr>
 <br>
 
+- <span style="color:#EF7C00">**Thrust 4:**</span> <span style="color:#003D7C">**Digital twin-enabled Energy Management Information System (DEMIS)**</span>
 
-- <span style="color:#EF7C00">**Thrust 4:**</span> <span style="color:#003D7C">**Urban Building Energy Modeling for Large-Scale Decarbonization Assessment**</span>
+<br>
+<hr>
+<br>
+
+- <span style="color:#EF7C00">**Thrust 5:**</span> <span style="color:#003D7C">**Urban Microclimate and Building Energy Modeling (UMBEM)**</span>
 
 <figure style="text-align: center;">
   <img src="https://maomaohu.net/img/thrust_4_0.jpg">
   <figcaption>Quantifying Uncertainty in Aggregate Energy Use and Demand Flexibility of Building Clusters Considering Stochastic Occupancy <a href="https://maomaohu.net/publication/journal_paper/rn-1406/">[Link]</a></figcaption> 
 </figure>
+
+

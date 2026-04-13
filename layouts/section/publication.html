@@ -10,66 +10,55 @@
       <div class="article-style">{{ . }}</div>
       {{ end }}
 
-      {{/* Array of distinct years. */}}
-      {{ range .Pages.ByDate.Reverse }}
-        {{ $year := print (.Date.Format "2006") }}
-        {{ $.Scratch.SetInMap "years" $year $year }}
+      {{ $all := .Pages.ByDate.Reverse }}
+
+      {{/* ---------------- Book chapters ---------------- */}}
+      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Book chapters</h2>
+      <hr>
+      {{ range $all }}
+        {{ if in .Params.publication_types "6" }}
+          <div class="mb-4">
+            {{ partial "li_citation" . }}
+          </div>
+        {{ end }}
       {{ end }}
 
-      <div class="form-row mb-4">
-        <div class="col-auto">
-          <input type="search" class="filter-search" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">{{ i18n "publication_type" }}</option>
-            {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
-            <option value=".pubtype-{{ (int $index) }}">
-              {{ index $pub_types (int $index) }}
-            </option>
-            {{ end }}
-          </select>
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">{{ i18n "date" }}</option>
-            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
-            {{ if $years_sorted }}
-            {{ range $year := sort $years_sorted "" "desc" }}
-            <option value=".year-{{ $year }}">
-              {{ $year }}
-            </option>
-            {{ end }}
-            {{ end }}
-          </select>
-        </div>
-      </div>
+      {{/* ---------------- Journal papers ---------------- */}}
+      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Journal papers</h2>
 
-      <div id="container-publications">
-        {{ range .Pages.ByDate.Reverse }}
-
-        {{ if .Params.publication_types }}
-          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
-        {{ else }}
-          {{ $.Scratch.Set "pubtype" 0 }}
-        {{ end }}
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
-          {{ if eq $.Params.view 1 }}
-            {{ partial "li_list" . }}
-          {{ else if eq $.Params.view 3 }}
-            {{ partial "li_card" . }}
-          {{ else if eq $.Params.view 4 }}
-            {{ partial "li_citation" . }}
-          {{ else }}
-            {{ partial "li_compact" . }}
+      {{ $journalYears := slice }}
+      {{ range $all }}
+        {{ if in .Params.publication_types "2" }}
+          {{ $year := .Date.Format "2006" }}
+          {{ if not (in $journalYears $year) }}
+            {{ $journalYears = $journalYears | append $year }}
           {{ end }}
-        </div>
-
         {{ end }}
-      </div>
+      {{ end }}
+
+      {{ range sort $journalYears "value" "desc" }}
+        {{ $year := . }}
+        <h3 class="mt-4 font-weight-bold" style="font-size: 1.6rem;">{{ $year }}</h3>
+        <hr>
+        {{ range $all }}
+          {{ if and (in .Params.publication_types "2") (eq (.Date.Format "2006") $year) }}
+            <div class="mb-4">
+              {{ partial "li_citation" . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{/* ---------------- Conference papers ---------------- */}}
+      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Conference papers</h2>
+      <hr>
+      {{ range $all }}
+        {{ if in .Params.publication_types "1" }}
+          <div class="mb-4">
+            {{ partial "li_citation" . }}
+          </div>
+        {{ end }}
+      {{ end }}
 
     </div>
   </div>

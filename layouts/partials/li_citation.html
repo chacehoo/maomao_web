@@ -1,35 +1,52 @@
 <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
+  {{ $authors := .Params.authors }}
+  {{ $myname := "Maomao Hu" }}
+
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}
+    {{ range $index, $author := $authors }}
+      {{ if gt $index 0 }}, {{ end }}
+      {{ if eq $author $myname }}
+        <strong>{{ $author }}</strong>
+      {{ else }}
+        {{ $author }}
+      {{ end }}
+    {{ end }}
   </span>
   ({{- .Date.Format "2006" -}}).
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ .Title }}.
   {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}}.
+    <em>{{ .Params.publication_short | markdownify }}</em>.
   {{ else if .Params.publication }}
-  {{- .Params.publication | markdownify -}}.
+    <em>{{ .Params.publication | markdownify }}</em>.
   {{ end }}
-  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+  <span class="ml-2">{{ partial "page_links" (dict "page" . "is_list" 1) }}</span>
 
   {{/* MLA Style */}}
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}.
+    {{ range $index, $author := $authors }}
+      {{ if gt $index 0 }}, {{ end }}
+      {{ if eq $author $myname }}
+        <strong>{{ $author }}</strong>
+      {{ else }}
+        {{ $author }}
+      {{ end }}
+    {{ end }}.
   </span>
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ .Title }}.
   {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}},
+    <em>{{ .Params.publication_short | markdownify }}</em>,
   {{ else if .Params.publication }}
-  {{- .Params.publication | markdownify -}},
+    <em>{{ .Params.publication | markdownify }}</em>,
   {{ end }}
   {{- .Date.Format "2006" -}}.
-  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+  <span class="ml-2">{{ partial "page_links" (dict "page" . "is_list" 1) }}</span>
 
   {{ end }}
 </div>

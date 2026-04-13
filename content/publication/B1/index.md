@@ -4,6 +4,6 @@ date: 2025-10-01
 authors: ["Maomao Hu", "Rui Tang"]
 publication_types: ["6"]
 featured: false
-publication: "*Digitalisation of Local Energy Systems*"
+publication: "*Digitalisation of Local Energy Systems*. Springer Nature Switzerland"
 doi: "https://doi.org/10.1007/978-3-031-77833-9_6"
 ---

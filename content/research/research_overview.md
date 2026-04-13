@@ -60,3 +60,10 @@ Our BIOR lab aims at developing sustainable and scalable technologies and comput
 Our interdisciplinary research is at the interface of Building Science, Computer Science, and Control Engineering. 
 
 We employ a multifaceted approach that encompasses data analytics & machine learning, physics-based modeling & simulation, optimization & model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.
+
+Specifically, our research interests include:
+-	Flexible, Resilient, Efficient, and Equitable (FREE) multi-scale energy systems with Distributed Energy Resources (DERs)
+-	Optimal and Learning-based Control
+-	Explainable AI for Building and Urban Science and Engineering (XABUSE)
+-	Digital twin-enabled Energy Management Information System (DEMIS)
+-	Urban Microclimate and Building Energy Modeling (UMBEM)
