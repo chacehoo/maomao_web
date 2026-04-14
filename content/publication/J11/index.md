@@ -6,5 +6,6 @@ publication_types: ["2"]
 featured: false
 publication: "*Journal of Building Engineering*"
 doi: "https://doi.org/10.1016/j.jobe.2021.103853"
+url_pdf:
 ---
 

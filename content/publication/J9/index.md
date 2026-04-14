@@ -6,5 +6,6 @@ publication_types: ["2"]
 featured: false
 publication: "*Building Simulation*"
 doi: "https://doi.org/10.1007/s12273-020-0711-5"
+url_pdf:
 
 ---

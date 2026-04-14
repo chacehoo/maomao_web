@@ -6,6 +6,7 @@ publication_types: ["2"]
 featured: false
 publication: "*Sustainable Cities and Society*"
 doi: "https://doi.org/10.1016/j.scs.2021.103380"
+url_pdf:
 
 ---
 

@@ -7,8 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applied Energy*"
-#url_pdf: "http://www.sciencedirect.com/science/article/pii/S0306261917306098"
 doi: "10.1016/j.apenergy.2017.05.099"
+url_pdf:
 
 ---
 

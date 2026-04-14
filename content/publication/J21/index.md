@@ -6,4 +6,5 @@ publication_types: ["2"]
 featured: false
 publication: "*Energy*"
 doi: "https://doi.org/10.1016/j.energy.2025.138772"
+url_pdf:
 ---

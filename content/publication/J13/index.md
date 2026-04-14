@@ -6,5 +6,6 @@ publication_types: ["2"]
 featured: false
 publication: "*Energy Conversion and Management*"
 doi: "https://doi.org/10.1016/j.enconman.2023.116705"
+url_pdf:
 ---
 

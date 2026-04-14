@@ -6,4 +6,5 @@ publication_types: ["2"]
 featured: false
 publication: "*Energy and AI*"
 doi: "https://doi.org/10.1016/j.egyai.2025.100634"
+url_pdf:
 ---

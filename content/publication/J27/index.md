@@ -6,4 +6,5 @@ publication_types: ["2"]
 featured: false
 publication: "*Sustainable Cities and Society*"
 doi: "https://doi.org/10.1016/j.scs.2026.107315"
+url_pdf: "https://nusu-my.sharepoint.com/:b:/r/personal/maomaohu_nus_edu_sg/Documents/@BIOR_Shared_Drive/BIOR_Team_Resources/BIOR_Library/0_BIOR_Publications/2026_Pengyu_Sustainable_Cities_and_Society/SCSI-D-25-13613_R1.pdf?csf=1&web=1&e=dIOERq"
 ---

@@ -6,5 +6,6 @@ publication_types: ["2"]
 featured: false
 publication: "*Energy and Buildings*"
 doi: "https://doi.org/10.1016/j.enbuild.2022.112370"
+url_pdf:
 ---
 
