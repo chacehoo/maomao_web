@@ -12,8 +12,23 @@
 
       {{ $all := .Pages.ByDate.Reverse }}
 
+      {{/* ---------------- Intro / contents ---------------- */}}
+      <div class="mb-5">
+        <h2 class="mt-4 font-weight-bold" style="font-size: 1.8rem;">Contents</h2>
+        <ul>
+          <li><a href="#book-chapters">Book chapters</a></li>
+          <li><a href="#journal-papers">Journal papers</a></li>
+          <li><a href="#conference-papers">Conference papers</a></li>
+        </ul>
+
+        <p>
+          Find the full list and our latest work at 
+          <a href="https://scholar.google.com/citations?user=a9ST74sAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+        </p>
+      </div>
+
       {{/* ---------------- Book chapters ---------------- */}}
-      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Book chapters</h2>
+      <h2 id="book-chapters" class="mt-5 font-weight-bold" style="font-size: 2rem;">Book chapters</h2>
       <hr>
       {{ range $all }}
         {{ if in .Params.publication_types "6" }}
@@ -24,7 +39,7 @@
       {{ end }}
 
       {{/* ---------------- Journal papers ---------------- */}}
-      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Journal papers</h2>
+      <h2 id="journal-papers" class="mt-5 font-weight-bold" style="font-size: 2rem;">Journal papers</h2>
 
       {{ $journalYears := slice }}
       {{ range $all }}
@@ -50,7 +65,7 @@
       {{ end }}
 
       {{/* ---------------- Conference papers ---------------- */}}
-      <h2 class="mt-5 font-weight-bold" style="font-size: 2rem;">Conference papers</h2>
+      <h2 id="conference-papers" class="mt-5 font-weight-bold" style="font-size: 2rem;">Conference papers</h2>
       <hr>
       {{ range $all }}
         {{ if in .Params.publication_types "1" }}
