@@ -4,6 +4,9 @@ summary: xxxx
 date: 2025-08-13
 weight: 20  # Order that this section will appear.
 
+design:
+  columns: "1"
+
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
 reading_time: true
 share: true  
@@ -18,36 +21,39 @@ comments: false
 Welcome to NUS BIOR Lab! We focus on data-driven optimization, learning, and control of multi-scale cyber-physical-human energy systems (from buildings to districts to cities) to make them smart, low-carbon, energy-efficient, demand-flexible, climate-resilient, and equitable. Our work lies at the intersection of building science, computer science, and control engineering.
 
 <figure style="text-align: center;">
-  <img src="https://maomaohu.net/img/Bior_research_landscape.jpg" style="width:100%; max-width:100%; height:auto;">
+  <img src="https://maomaohu.net/img/Bior_research_landscape.jpg" style="width:80%; max-width:100%; height:auto;">
 </figure>
 
-
 <div class="link-row1">
-  <a class="link-pill1" href="https://maomaohu.net/research/">More About Research &#8250;</a>
-  <a class="link-pill1" href="https://maomaohu.net/opening/">Join Us &#8250;</a>
+  <a class="link-pill1" href="https://maomaohu.net/research/">More about research &#8250;</a>
 </div>
 
 <style>
 .link-row1{
-  display:flex;
-  column-gap:60px;            /* spacing between the two links */
-  align-items:baseline;        /* keeps text on the same baseline */
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
 }
 
-/* one place to control the look */
 .link-row1 .link-pill1{
-  display:inline-block;
-  margin:0; padding:0;
-  font-weight:400;
-  font-size:20px;              /* same size for both */
-  line-height:1;               /* consistent height */
-  color:#EF7C00;
-  text-decoration:none;
-  white-space:nowrap;          /* prevent wrapping */
+  display: inline-block;
+  min-width: 320px;
+  text-align: center;
+  padding: 12px 18px;
+  font-weight: 500;
+  font-size: 18px;
+  color: white;
+  background-color: #003D7C;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
 }
 
-.link-row1 .link-pill1:hover{ text-decoration:underline; }
+.link-row1 .link-pill1:hover{
+  background-color: #cc6600;
+  transform: translateY(-2px);
+}
 
 .typed-cursor { display: none !important; }
 </style>
-

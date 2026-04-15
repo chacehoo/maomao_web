@@ -4,6 +4,9 @@ summary: xxxx
 date: 2025-08-13
 weight: 40  # Order that this section will appear.
 
+design:
+  columns: "1"
+
 # Show estimated reading time?Show social sharing links?Show author profile?Show comments?
 reading_time: true
 share: true  
@@ -55,6 +58,8 @@ comments: false
 
 </ul>
 
-<a href="https://maomaohu.net/events/" style="color: #ef7c00; text-decoration: none; font-weight: bold; font-size: 18px;">
-  SEE ALL EVENTS &#x276F;
-</a>
+<div style="text-align: center; margin-top: 24px;">
+  <a href="https://maomaohu.net/events/" style="display: inline-block; min-width: 320px; text-align: center; padding: 12px 18px; font-weight: 500; font-size: 18px; color: white; background-color: #003D7C; border-radius: 4px; text-decoration: none; box-sizing: border-box;">
+    More about events &#8250;
+  </a>
+</div>

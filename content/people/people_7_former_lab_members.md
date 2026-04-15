@@ -3,7 +3,7 @@ title: Former Lab Members
 weight: 80  # Order that this section will appear.
 ---
 
-<table>
+<table style="margin: 0 auto;">
   <thead>
     <tr>
       <th> </th>

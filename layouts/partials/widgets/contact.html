@@ -4,13 +4,23 @@
 {{ $data := site.Params }}
 
 <!-- Contact widget -->
+
 <div class="row contact-widget">
+  <div class="col-12">
+    <div class="section-heading" style="margin-bottom: 1.5rem;">
+      {{ with $page.Title }}<h1 style="text-align: center; font-weight: 700;">{{ . | markdownify }}</h1>{{ end }}
+      {{ with $page.Params.subtitle }}<p style="text-align: center;">{{ . | markdownify }}</p>{{ end }}
+    </div>
+
+    {{ with $page.Content }}{{ . }}{{ end }}
+    
+<!-- <div class="row contact-widget">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
-    {{ with $page.Content }}{{ . }}{{ end }}
+    {{ with $page.Content }}{{ . }}{{ end }} -->
 
     {{ if $page.Params.email_form }}
 

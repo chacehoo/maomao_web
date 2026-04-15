@@ -70,13 +70,22 @@
 {{ end }}
 
 <div class="row">
+  <div class="col-12">
+    <div class="section-heading" style="margin-bottom: 1.5rem;">
+      {{ with $st.Title }}<h1 style="text-align: center; font-weight: 700;">{{ . | markdownify | emojify }}</h1>{{ end }}
+      {{ with $st.Params.subtitle }}<p style="text-align: center;">{{ . | markdownify | emojify }}</p>{{ end }}
+    </div>
+
+    {{ with $st.Content }}{{ . }}{{ end }}
+    
+<!-- <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
 
-    {{ with $st.Content }}{{ . }}{{ end }}
+    {{ with $st.Content }}{{ . }}{{ end }} -->
 
     {{ range $post := $query }}
       {{ if eq $st.Params.design.view 1 }}
@@ -90,11 +99,23 @@
       {{ end }}
     {{end}}
 
-    {{ if gt $count $items_count }}
+    <!-- {{ if gt $count $items_count }}
     <div class="see-all">
       <a href="{{ $archive_page.RelPermalink }}">
         {{ i18n $i18n | default "See all" }}
         <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    {{ end }} -->
+
+    {{ if gt $count $items_count }}
+    <div class="see-all" style="text-align: center; margin-top: 24px;">
+      <a href="{{ $archive_page.RelPermalink }}" style="display: inline-block; min-width: 320px; text-align: center; padding: 12px 18px; font-weight: 500; font-size: 18px; color: white; background-color: #003D7C; border-radius: 4px; text-decoration: none; box-sizing: border-box; text-transform: none;">
+        {{ if eq $st.Title "News" }}
+          More about news &#8250;
+        {{ else }}
+          {{ i18n $i18n | default "See all" }} &#8250;
+        {{ end }}
       </a>
     </div>
     {{ end }}
