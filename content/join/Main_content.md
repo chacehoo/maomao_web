@@ -1,0 +1,563 @@
+---
+title: 
+summary: xxxx
+date: 2024-01-11
+weight: 10
+
+reading_time: true
+share: true
+profile: true
+comments: false
+---
+
+<style>
+html,
+body {
+scroll-behavior: auto !important;
+}
+
+.join-page {
+display: flex;
+align-items: flex-start;
+gap: 44px;
+max-width: 1500px;
+margin: 0 auto;
+padding: 0 24px;
+}
+
+.join-sidebar {
+width: 280px;
+flex: 0 0 280px;
+position: sticky;
+top: 100px;
+z-index: 100;
+background: #ffffff;
+padding: 0;
+margin: 0;
+border: none;
+box-shadow: none;
+}
+
+.join-sidebar-title {
+font-size: 1.6rem;
+font-weight: 700;
+margin: 0 0 18px 0;
+color: #333333;
+line-height: 1.2;
+}
+
+.join-sidebar a {
+display: block;
+position: relative;
+width: 100%;
+padding: 14px 16px 14px 18px;
+margin: 0 0 8px 0;
+border-radius: 0;
+border: 1px solid #e5e5e5;
+border-left: 5px solid transparent;
+background: #ffffff;
+color: #EF7C00;
+text-decoration: none;
+font-size: 1.02rem;
+line-height: 1.35;
+font-weight: 500;
+transition: none;
+}
+
+.join-sidebar a.sub-link {
+font-size: 0.92rem;
+padding: 10px 14px 10px 34px;
+margin-top: -4px;
+color: #5f6876;
+background: #ffffff;
+border-left: 5px solid transparent;
+}
+
+.join-sidebar a:hover {
+background: #f7f9fc;
+color: #003D7C;
+border-left-color: #EF7C00;
+}
+
+.join-sidebar a.active {
+background: #f7f9fc;
+color: #003D7C;
+border-left-color: #EF7C00;
+font-weight: 700;
+}
+
+.join-main {
+flex: 1;
+min-width: 0;
+}
+
+.join-section-title {
+text-align: center;
+font-weight: 700;
+font-size: 2rem;
+margin-top: 1.5rem;
+margin-bottom: 2.5rem;
+color: #333333;
+scroll-margin-top: 120px;
+}
+
+.join-section-title::after {
+content: "";
+display: block;
+width: 56px;
+height: 4px;
+background: #EF7C00;
+margin: 14px auto 0 auto;
+border-radius: 999px;
+}
+
+.join-subtitle {
+text-align: center;
+font-weight: 650;
+font-size: 1.35rem;
+line-height: 1.45;
+color: #333333;
+margin-top: 2.8rem;
+margin-bottom: 1.2rem;
+scroll-margin-top: 120px;
+}
+
+.join-main p,
+.join-main li {
+color: #333333;
+line-height: 1.7;
+}
+
+.join-main ul {
+margin-top: 0.8rem;
+margin-bottom: 1.4rem;
+}
+
+.join-main li {
+margin-bottom: 0.45rem;
+}
+
+.join-main a {
+color: #EF7C00;
+text-decoration: underline;
+text-underline-offset: 2px;
+}
+
+.join-logo {
+display: flex;
+justify-content: center;
+margin-bottom: 1.4rem;
+}
+
+.join-logo img {
+width: 78%;
+max-width: 760px;
+height: auto;
+}
+
+.join-tagline {
+text-align: center;
+margin-bottom: 2rem;
+}
+
+.opening-list {
+display: grid;
+grid-template-columns: 1fr;
+gap: 18px;
+margin: 22px 0 36px 0;
+}
+
+.opening-item {
+background: #ffffff;
+border: 1px solid #e8e8e8;
+border-left: 5px solid #EF7C00;
+border-radius: 0;
+padding: 18px 20px;
+box-shadow: 0 5px 18px rgba(0, 0, 0, 0.04);
+}
+
+.opening-title {
+font-weight: 700;
+color: #003D7C;
+font-size: 1.05rem;
+margin-bottom: 8px;
+}
+
+.status-open {
+display: inline-block;
+color: #ffffff;
+background: #003D7C;
+font-size: 0.82rem;
+font-weight: 700;
+padding: 3px 8px;
+border-radius: 999px;
+margin-left: 6px;
+}
+
+.status-closed {
+display: inline-block;
+color: #ffffff;
+background: #5f6876;
+font-size: 0.82rem;
+font-weight: 700;
+padding: 3px 8px;
+border-radius: 999px;
+margin-left: 6px;
+}
+
+.note-box {
+background: #f7f9fc;
+border-left: 5px solid #003D7C;
+padding: 16px 18px;
+margin: 22px 0;
+color: #333333;
+line-height: 1.65;
+}
+
+.apply-code {
+color: #003D7C;
+background: #f7f9fc !important;
+border: 1px solid #e5e5e5 !important;
+border-radius: 4px;
+padding: 2px 6px;
+font-family: Menlo, Consolas, Monaco, monospace;
+font-size: 0.95em;
+}
+
+.nus-image {
+display: flex;
+justify-content: center;
+margin: 28px auto 0 auto;
+}
+
+.nus-image img {
+width: 80%;
+max-width: 900px;
+height: auto;
+border-radius: 10px;
+box-shadow: 0 8px 28px rgba(0, 0, 0, 0.07);
+}
+
+code {
+background: none !important;
+border: none !important;
+padding: 0;
+box-shadow: none !important;
+}
+
+@media (max-width: 992px) {
+.join-page {
+display: block;
+padding: 0 16px;
+}
+
+.join-sidebar {
+width: 100%;
+position: static;
+margin-bottom: 28px;
+}
+
+.join-sidebar-title {
+font-size: 1.35rem;
+margin-bottom: 12px;
+}
+
+.join-sidebar a {
+font-size: 0.98rem;
+padding: 12px 14px;
+margin-bottom: 8px;
+}
+
+.join-sidebar a.sub-link {
+font-size: 0.9rem;
+padding: 10px 14px 10px 26px;
+}
+
+.join-section-title {
+font-size: 1.7rem;
+}
+
+.join-subtitle {
+font-size: 1.2rem;
+}
+
+.join-logo img {
+width: 100%;
+}
+
+.nus-image img {
+width: 100%;
+}
+}
+</style>
+
+<div class="join-page">
+
+<aside class="join-sidebar">
+<a href="#about-bior" class="active">About</a>
+<a href="#openings">Current Openings</a>
+<a href="#phd-students">PhD Students</a>
+<a href="#ra-postdocs">RA and Postdocs</a>
+<a href="#visiting">Visiting Students/Scholars</a>
+<a href="#about-nus">About NUS and Our Department</a>
+</aside>
+
+<main class="join-main">
+
+<h2 id="about-bior" class="join-section-title">About BIOR</h2>
+
+<div class="join-logo">
+<img src="bior_logo_light_background.png" alt="BIOR LOGO">
+</div>
+
+<div class="join-tagline">
+<div id="typed-strings">
+<p><code style="color: #EF7C00; font-weight: bold;">Smart</code></p>
+<p><code style="color: #EF7C00; font-weight: bold;">Low-carbon</code></p>
+<p><code style="color: #EF7C00; font-weight: bold;">Energy-efficient</code></p>
+<p><code style="color: #EF7C00; font-weight: bold;">Demand-flexible</code></p>
+<p><code style="color: #EF7C00; font-weight: bold;">Climate-resilient</code></p>
+<p><code style="color: #EF7C00; font-weight: bold;">Equitable</code></p>
+</div>
+<span class="font-bold" id="typed"></span>
+<code style="color: #003D7C">Building, District, and Urban Energy Systems.</code>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+var typed = new Typed('#typed', {
+stringsElement: '#typed-strings',
+typeSpeed: 50,
+backSpeed: 30,
+startDelay: 100,
+backDelay: 2000,
+loop: true
+});
+</script>
+
+<p>
+Building Informatics and Operations Research (BIOR) Lab is directed by Dr. Maomao Hu, Assistant Professor of
+<a href="https://cde.nus.edu.sg/dbe/">the Department of the Built Environment</a>,
+College of Design and Engineering, National University of Singapore.
+</p>
+
+<p>
+The overarching goal of our lab is to develop sustainable and scalable technologies and computational tools to make today’s building, district, and urban energy systems smart, low-carbon, energy-efficient, energy-flexible, climate-resilient, and equitable. We employ a multifaceted approach that encompasses data analytics and machine learning, physics-based modeling and simulation, optimization and model-based optimal controls, as well as experiments. These approaches have been deployed across a spectrum of scales, spanning from equipment- through building- and community- to city-scale.
+</p>
+
+<h2 id="openings" class="join-section-title">Current Openings</h2>
+
+<div class="opening-list">
+
+<div class="opening-item">
+<div class="opening-title">Research Assistant <span class="status-open">Open</span></div>
+<p>
+One research assistant position in Energy Management and Information System (EMIS). Check
+<a href="https://maomaohu.net/post/post_62_recruitment/">here</a>
+for more details.
+</p>
+</div>
+
+<div class="opening-item">
+<div class="opening-title">President's Graduate Fellowship (PGF) <span class="status-open">Open</span></div>
+<p>
+We are seeking exceptional Ph.D. students to join our team, with PGF opportunities available year-round. Successful candidates will demonstrate outstanding academic records and competing offers from top universities. More information on PGF can be found
+<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship/">here</a>.
+</p>
+</div>
+
+</div>
+
+<h2 id="phd-students" class="join-section-title">PhD Students</h2>
+
+<div class="note-box">
+Check the seminar on
+<a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research-seminar/#seminar">“How to get a PhD”</a>
+for guide and tools for your PhD application.
+</div>
+
+<p>
+We warmly invite applications from students with backgrounds in Building Environment and Energy Engineering, such as Architectural Engineering and HVAC&R Engineering, Electrical and Computer Engineering, such as microgrids and automation, Thermal Engineering, such as heat and mass transfer and thermodynamics, Mechanical Engineering, such as fluid mechanics, or Applied Mathematics.
+</p>
+
+<h3 id="requirements" class="join-subtitle">Requirements</h3>
+
+<h4>General requirements for Ph.D. admission at NUS</h4>
+
+<ul>
+<li>A good GPA in a relevant bachelor's or master's degree.</li>
+<li>Candidates who graduated from universities where English is not the language of instruction are required to submit at least one score of TOEFL, 85 for Internet Based Test, or IELTS Academic, 6.0.</li>
+</ul>
+
+<p>
+English is the default lingua franca in Singapore, as well as at NUS and in our BIOR lab. Please check
+<a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/">here</a>
+for more information on general requirements for Ph.D. admission, including the validity period for GRE, TOEFL, and IELTS.
+</p>
+
+<h4>Specific requirements for Ph.D. admission in our BIOR lab</h4>
+
+<ul>
+<li>Strong foundation in heat and mass transfer, thermodynamics, applied mathematics, optimization and control, data science and machine learning, as well as an interest in applying these knowledge to building environment and energy systems.</li>
+<li>Programming experience, such as Matlab, Python, C/C++, and R.</li>
+<li>Experience in related engineering software, such as EnergyPlus, TRNSYS, OpenStudio, FLUENT, and LabVIEW, depending on the applied research projects.</li>
+<li>Excellent spoken and written English language skills.</li>
+<li>Critical thinking, problem-solving, and communication skills, and more importantly, the <span style="color:#EF7C00">collaborative spirit</span> for working with an interdisciplinary team.</li>
+</ul>
+
+<h3 id="phd-scholarships" class="join-subtitle">PhD Scholarships</h3>
+
+<p>
+An admission to the PhD programme does not guarantee a scholarship. Some admissions are on a self-funded basis. Please explore the potential
+<a href="https://nusgs.nus.edu.sg/scholarships/">scholarship opportunities available</a>
+at NUS, including:
+</p>
+
+<ul>
+<li><a href="https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship/">NUS Research Scholarship</a></li>
+<li><a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship/">President’s Graduate Fellowship (PGF)</a>, for outstanding students with exemplary academic records and competing offers with scholarships from other top universities.</li>
+<li><a href="https://nusgs.nus.edu.sg/scholarships/nus-asean-research-scholarship">NUS ASEAN Research Scholarship</a>, for outstanding graduate students from ASEAN countries.</li>
+<li>NUS Singapore/PR Graduate Fellowship (SGF).</li>
+<li><a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">Singapore International Graduate Award (SINGA)</a>, open to all international graduates.</li>
+<li><a href="https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship">A*STAR Graduate Scholarship</a>, etc.</li>
+</ul>
+
+<h3 id="timeline" class="join-subtitle">Timeline</h3>
+
+<p>
+There are two intakes, August and January, each year. The
+<a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/">application deadlines</a>
+are normally 1 January for the intake in August, and 1 July for the intake in January next year.
+</p>
+
+<h3 id="how-to-apply" class="join-subtitle">How to Apply</h3>
+
+<p>
+Prospective Ph.D. students should send an email with the subject line as
+<code class="apply-code">Prospective_PhD_{First Name}_{Last Name}</code>
+to the email address
+<span style="color:#EF7C00">maomaohu@nus.edu.sg</span>
+for inquiries. The email should be written in English and include the following:
+</p>
+
+<ul>
+<li>CV/Resume in English with an emphasis on your computational and research skills.</li>
+<li>Transcripts from undergraduate or graduate studies.</li>
+<li>GitHub repository, if any.</li>
+<li>Contact information for 2-3 references.</li>
+<li>Other materials demonstrating research and work capabilities, such as published papers as the first author, papers in preparation, and project reports.</li>
+</ul>
+
+<p>
+Due to the high volume of inquiries, I may not be able to respond to everyone. However, please rest assured that I will carefully review each email and respond promptly if your qualifications align with current opportunities.
+</p>
+
+<h2 id="ra-postdocs" class="join-section-title">Research Assistants and Postdocs</h2>
+
+<p>
+The availability of Research Assistant (RA) and postdoctoral positions varies depending on the funding conditions. If you are interested in our research focus, you are encouraged to contact Dr. Hu to explore potential opportunities.
+</p>
+
+<p>
+To apply, please include your CV, a brief summary of your research experience and interests, and the contact information for at least two references, with a subject line as
+<code class="apply-code">RA/Postdoc_Application_{First Name}_{Last Name}</code>.
+</p>
+
+<h2 id="visiting" class="join-section-title">Visiting Students/Scholars</h2>
+
+<p>
+We welcome visiting students/scholars who are interested in collaborating with us. Ideally, students/scholars will be able to visit for a minimum of six months, preferably one year, to maximize the opportunity for collaboration and research. We can accommodate in-person and virtual visits, but the funding is not guaranteed and self-funded visiting is preferred.
+</p>
+
+<p>
+If you are interested in exploring the possibility of working with us, please email Dr. Hu with a subject line as
+<code class="apply-code">Visiting_Application_{First Name}_{Last Name}</code>.
+Please include the following documents in your email: CV, a brief research proposal aligned with our group (1-2 pages), desired period of stay, and funding source. Please check
+<a href="https://www.nus.edu.sg/registrar/prospective-students/non-graduating/research">here</a>
+and
+<a href="https://nus.edu.sg/registrar/docs/info/prospective-students---non-graduating/info-for-new-ng-research.pdf">here</a>
+for more information on the visiting program as non-graduating research students at NUS.
+</p>
+
+<h2 id="about-nus" class="join-section-title">About NUS and Our Department</h2>
+
+<p>
+The National University of Singapore (NUS) is Singapore's flagship university, which offers a global approach to education, research and entrepreneurship. NUS holds an outstanding reputation in the fields of engineering, science, business, and law. Globally, NUS was
+<span style="color:#EF7C00">#8</span>
+in the QS World University Rankings 2026,
+<span style="color:#EF7C00">#17</span>
+in the Times Higher Education (THE) World University Rankings 2025, and
+<span style="color:#EF7C00">#20</span>
+in the US News 2025-2026 Best Global Universities Rankings.
+</p>
+
+<p>
+For subject rankings, NUS's engineering programs are ranked
+<span style="color:#EF7C00">#9</span>
+in the world in the THE World University Rankings by Subject 2025. NUS's program of Built Environment is ranked
+<span style="color:#EF7C00">#5</span>
+in the QS World University Rankings by Subject 2024.
+</p>
+
+<div class="nus-image">
+<img src="nus_built_environment.png" alt="NUS Built Environment ranking">
+</div>
+
+</main>
+</div>
+
+<script>
+const sections = document.querySelectorAll(".join-main h2[id]");
+const navLinks = document.querySelectorAll(".join-sidebar a");
+
+function getOffset() {
+return 110;
+}
+
+function setActiveLink() {
+let currentId = "";
+const offset = getOffset();
+
+sections.forEach(section => {
+const sectionTop = section.offsetTop - offset - 20;
+if (window.scrollY >= sectionTop) {
+currentId = section.getAttribute("id");
+}
+});
+
+navLinks.forEach(link => {
+link.classList.remove("active");
+if (link.getAttribute("href") === "#" + currentId) {
+link.classList.add("active");
+}
+});
+}
+
+navLinks.forEach(link => {
+link.addEventListener("click", function (e) {
+e.preventDefault();
+
+const targetId = this.getAttribute("href");
+const targetSection = document.querySelector(targetId);
+
+if (targetSection) {
+const offset = getOffset();
+const targetPosition = targetSection.getBoundingClientRect().top + window.pageYOffset - offset;
+
+window.scrollTo({
+top: targetPosition,
+behavior: "auto"
+});
+
+history.pushState(null, null, targetId);
+
+navLinks.forEach(item => item.classList.remove("active"));
+this.classList.add("active");
+}
+});
+});
+
+window.addEventListener("scroll", setActiveLink);
+window.addEventListener("load", setActiveLink);
+window.addEventListener("resize", setActiveLink);
+</script>

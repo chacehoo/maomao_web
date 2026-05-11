@@ -26,18 +26,18 @@
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-      <span><i class="fas fa-bars"></i></span>
+    <span><i class="fas fa-bars"></i></span>
     </button>
     {{ end }}
 
     {{if $show_logo}}
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        {{- if $has_logo -}}
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-        {{- else -}}
-          {{- site.Title -}}
-        {{- end -}}
+      {{- if $has_logo -}}
+        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+      {{- else -}}
+        {{- site.Title -}}
+      {{- end -}}
       </a>
     </div>
     {{end}}
@@ -53,26 +53,20 @@
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-            <span style="display:inline-flex; align-items:center; gap:0.35rem; white-space:nowrap;">
-              {{- .Pre | safeHTML -}}
-              <span>{{ .Name | safeHTML }}</span>
-              {{- .Post | safeHTML -}}
-            </span>
+            {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>
           <div class="dropdown-menu">
             {{ range .Children }}
               <a class="dropdown-item" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
-                <span style="display:inline-flex; align-items:center; gap:0.35rem; white-space:nowrap;">
-                  {{- .Pre | safeHTML -}}
-                  <span>{{ .Name | safeHTML }}</span>
-                  {{- .Post | safeHTML -}}
-                </span>
+                {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
               </a>
             {{ end }}
           </div>
         </li>
+
         {{ else }}
+
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
         {{ if gt (len .URL) 4 }}
@@ -94,17 +88,16 @@
           {{ end }}
           {{ $is_same_page = eq (path.Dir $current_page.RelPermalink) (path.Dir ($hash_removed|relLangURL)) }}
         {{ end }}
+
         <li class="nav-item">
           <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-            <span style="display:inline-flex; align-items:center; gap:0.35rem; white-space:nowrap;">
-              {{- .Pre | safeHTML -}}
-              <span>{{ .Name | safeHTML }}</span>
-              {{- .Post | safeHTML -}}
-            </span>
+            {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>
+
         {{ end }}
         {{ end }}
+
       {{ if site.Menus.main_right | and (eq $align_menu "l") }}
       </ul>
       <ul class="navbar-nav ml-md-auto">
@@ -115,18 +108,14 @@
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
         {{ if gt (len .URL) 4 }}
-          {{ if eq "http" (slicestr .URL 0 4) }}
-            {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
-          {{ end }}
+        {{ if eq "http" (slicestr .URL 0 4) }}
+        {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
         {{ end }}
 
         <li class="nav-item">
           <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-            <span style="display:inline-flex; align-items:center; gap:0.35rem; white-space:nowrap;">
-              {{- .Pre | safeHTML -}}
-              <span>{{ .Name | safeHTML }}</span>
-              {{- .Post | safeHTML -}}
-            </span>
+            {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>
 

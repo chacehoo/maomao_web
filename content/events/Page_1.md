@@ -1,5 +1,5 @@
 ---
-title: BIOR-Organized Events
+title: Events
 summary: xxxx
 date: 2024-08-09
 

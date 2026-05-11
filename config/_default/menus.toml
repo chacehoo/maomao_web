@@ -26,21 +26,9 @@
 
 
 [[main]]
-  identifier = "research"
   name = "Research"
-  weight = 20
-
-[[main]]
-  name = "Overview"
-  parent = "research"
   url = "research/"
-  weight = 21
-
-[[main]]
-  name = "Center & Testbeds"
-  parent = "research"
-  url = "testbeds/"
-  weight = 22
+  weight = 20
 
 
 [[main]]
@@ -60,16 +48,17 @@
   url = "fun/"
   weight = 32
 
-
-[[main]]
-  name = "Software"
-  url = "software/"
-  weight = 40
-
 [[main]]
   name = "Publications"
   url = "publication/"     #direct to a page rather than a widget in home page
+  weight = 40
+
+[[main]]
+  name = "Code"
+  pre = "<i class='fab fa-github'></i> "
+  url = "https://github.com/bior-lab"
   weight = 50
+
 
 [[main]]
   name = "Teaching"
@@ -78,26 +67,11 @@
 
 
 [[main]]
-  identifier = "join"
   name = "Join"
+  url = "join/"
   weight = 70
 
-[[main]]
-  name = "Why & How"
-  parent = "join"
-  url = "join/"
-  weight = 71
 
-[[main]]
-  name = "Openings"
-  parent = "join"
-  url = "opening/"
-  weight = 72
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 80
 
 [[main]]
   name = "Intranet"
