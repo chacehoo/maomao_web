@@ -1,6 +1,7 @@
 ---
 # Display name
 title: LiNUS
+url: "/members/linus/"
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: WOLFRAM
+url: "/members/wolfram/"
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Muhammad Hafeez Saeed
+url: "/members/muhammadhafeezsaeed/"
 
 # Username (this should match the folder name)
 authors:

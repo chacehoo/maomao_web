@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Arthur Dattin
+url: "/members/arthurdattin/"
+
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Terry Jiarui He
+url: "/members/terryjiaruihe/"
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Rezky Mahesa Nanda
+url: "/members/rezkymahesananda/"
 
 # Username (this should match the folder name)
 authors:

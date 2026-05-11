@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mikhyle Mat Nooh
+url: "/members/mikhylematnooh/"
 
 # Username (this should match the folder name)
 authors:

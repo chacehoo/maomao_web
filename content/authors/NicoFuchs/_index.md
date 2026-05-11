@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Nico Yannik Fuchs
+url: "/members/nicoyannikfuchs/"
 
 # Username (this should match the folder name)
 authors:

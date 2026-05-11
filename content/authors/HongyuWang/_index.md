@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Hongyu Wang
+url: "/members/hongyuwang/"
 
 # Username (this should match the folder name)
 authors:
