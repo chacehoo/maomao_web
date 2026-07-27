@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Hafeez](https://maomaohu.net/author/muhammad-hafeez-saeed/) joins our team as a visiting PhD student from KU Leuven, Belgium.
+[Hafeez](https://maomaohu.net/members/muhammadhafeezsaeed/) joins our team as a visiting PhD student from KU Leuven, Belgium.
 
 Great to have you join our BIOR lab, Hafeez!

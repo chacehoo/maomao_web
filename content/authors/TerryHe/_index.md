@@ -51,7 +51,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Master's Students
 ---
 
 Terry is an MSc student studying Building Performance and Sustainability at NUS. He took his undergraduate degree in Building Engineering and Management from Hong Kong Polytechnic University. He had research experience on Digital Twin with Scan-to-BIM model. He is also interested about green building technology, building decarbonization and energy efficiency. In his free time, he is a director of photography for filming in Hong Kong.

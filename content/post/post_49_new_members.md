@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Arthur](https://maomaohu.net/author/arthur-dattin/) joins our team as a visiting MSc student from ETH Zurich.
+[Arthur](https://maomaohu.net/members/arthurdattin/) joins our team as a visiting MSc student from ETH Zurich.
 
 Great to have you join our BIOR lab, Arthur!

@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Yulin](https://maomaohu.net/author/yulin-zheng/) joins our team as a Visiting PhD student from Zhejiang University starting from April 2026.
+[Yulin](https://maomaohu.net/members/yulinzheng/) joins our team as a Visiting PhD student from Zhejiang University starting from April 2026.
 
 Great to have you join our BIOR lab, Yulin!

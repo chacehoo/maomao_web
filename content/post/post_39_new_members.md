@@ -16,8 +16,8 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Gaoyuan](https://maomaohu.net/author/gaoyuan-wang/) and [Qinhuan](https://maomaohu.net/author/qinhuan-liu/) join our team as PhD students starting from Jan. 2025.
+[Gaoyuan](https://maomaohu.net/members/gaoyuanwang/) and [Qinhuan](https://maomaohu.net/members/qinhuanliu/) join our team as PhD students starting from Jan. 2025.
 
-[Nico](https://maomaohu.net/author/nico-yannik-fuchs/) joins our team as a visiting PhD student from RWTH Aachen University, Germany.
+[Nico](https://maomaohu.net/members/nicoyannikfuchs/) joins our team as a visiting PhD student from RWTH Aachen University, Germany.
 
 Great to have you all join our BIOR lab, Gaoyuan, Qinhuan, and Nico!

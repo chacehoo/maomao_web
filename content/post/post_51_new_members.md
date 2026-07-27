@@ -16,10 +16,10 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Liangcai](https://maomaohu.net/author/liangcai-xu/) joins our team as a Postdoctoral Research Fellow starting from August 2025.
+[Liangcai](https://maomaohu.net/members/liangcaixu/) joins our team as a Postdoctoral Research Fellow starting from August 2025.
 
-[Terry](https://maomaohu.net/author/terry-jiarui-he/) joins our team as a Master student in August 2025.
+[Terry](https://maomaohu.net/members/terryjiaruihe/) joins our team as a Master student in August 2025.
 
-[Xiaohan](https://maomaohu.net/author/xiaohan-shen/) and [Pengyu](https://maomaohu.net/author/pengyu-jie/) join our team as visiting PhD students from Southeast University and Tongji University, respectively.
+[Xiaohan](https://maomaohu.net/members/xiaohanshen/) and [Pengyu](https://maomaohu.net/members/pengyujie/) join our team as visiting PhD students from Southeast University and Tongji University, respectively.
 
 Great to have you all join our BIOR lab, Liangcai, Terry, Xiaohan and Pengyu!

@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Rezky](https://maomaohu.net/author/rezky-mahesa-nanda/) joins our team as a PhD student starting from June 2025.
+[Rezky](https://maomaohu.net/members/rezkymahesananda/) joins our team as a PhD student starting from June 2025.
 
 Great to have you join our BIOR lab, Rezky!

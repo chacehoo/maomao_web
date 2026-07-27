@@ -272,6 +272,9 @@ body {
 </style>
 
 {{ $all := .Pages.ByDate.Reverse }}
+{{ $bookChapters := where $all "Params.publication_types" "intersect" (slice "6") }}
+{{ $journalPapers := where $all "Params.publication_types" "intersect" (slice "2") }}
+{{ $conferencePapers := where $all "Params.publication_types" "intersect" (slice "1") }}
 
 <div class="publication-hero">
   <figure>
@@ -301,16 +304,16 @@ body {
 <div class="publication-page">
 
   <aside class="publication-sidebar">
-    <a href="#book-chapters" class="active">Book chapters</a>
-    <a href="#journal-papers">Journal papers</a>
-    <a href="#conference-papers">Conference papers</a>
+    <a href="#book-chapters" class="active">Book chapters ({{ len $bookChapters }})</a>
+    <a href="#journal-papers">Journal papers ({{ len $journalPapers }})</a>
+    <a href="#conference-papers">Conference papers ({{ len $conferencePapers }})</a>
   </aside>
 
   <main class="publication-main">
 
     {{/* ---------------- Book chapters ---------------- */}}
     <section id="book-chapters" class="publication-category">
-      <h2>Book chapters</h2>
+      <h2>Book chapters ({{ len $bookChapters }})</h2>
 
       <div class="publication-list">
         {{ range $all }}
@@ -323,7 +326,7 @@ body {
 
     {{/* ---------------- Journal papers ---------------- */}}
     <section id="journal-papers" class="publication-category">
-      <h2>Journal papers</h2>
+      <h2>Journal papers ({{ len $journalPapers }})</h2>
 
       <div class="publication-list">
         {{ $journalYears := slice }}
@@ -352,7 +355,7 @@ body {
 
     {{/* ---------------- Conference papers ---------------- */}}
     <section id="conference-papers" class="publication-category">
-      <h2>Conference papers</h2>
+      <h2>Conference papers ({{ len $conferencePapers }})</h2>
 
       <div class="publication-list">
         {{ $conferenceYears := slice }}

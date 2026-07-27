@@ -16,6 +16,6 @@ header:
 # image: "renewable_journal.jpg"   
 ---
 
-[Haoxuan](https://maomaohu.net/author/haoxuan-dong/) joins our team as a Senior Research Fellow starting from Jan 2026.
+[Haoxuan](https://maomaohu.net/members/haoxuandong/) joins our team as a Senior Research Fellow starting from Jan 2026.
 
 Great to have you join our BIOR lab, Haoxuan!
